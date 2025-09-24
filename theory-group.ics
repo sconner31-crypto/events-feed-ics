@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/198468/abdus-salam-colloquium-stefan-hollands/
-DTSTAMP:20250924T002111Z
+DTSTAMP:20250924T062111Z
 DTSTART:20250930T133000Z
 DTEND:20250930T143000Z
 SUMMARY:Abdus Salam Colloquium: Stefan Hollands – Negative Energy
@@ -21,7 +21,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/198470/abdus-salam-colloquium-andreas-karch/
-DTSTAMP:20250924T002111Z
+DTSTAMP:20250924T062112Z
 DTSTART:20251007T133000Z
 DTEND:20251007T143000Z
 SUMMARY:Abdus Salam Colloquium: Andreas Karch
@@ -37,7 +37,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/198478/abdus-salam-colloquium-daniel-maitre/
-DTSTAMP:20250924T002111Z
+DTSTAMP:20250924T062112Z
 DTSTART:20251014T133000Z
 DTEND:20251014T143000Z
 SUMMARY:Abdus Salam Colloquium: Daniel Maitre
@@ -53,7 +53,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/198480/abdus-salam-colloquium-alessandra-silvestri/
-DTSTAMP:20250924T002112Z
+DTSTAMP:20250924T062112Z
 DTSTART:20251021T133000Z
 DTEND:20251021T143000Z
 SUMMARY:Abdus Salam Colloquium: Alessandra Silvestri
@@ -69,7 +69,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/198483/abdus-salam-colloquium-andrei-bernevig/
-DTSTAMP:20250924T002112Z
+DTSTAMP:20250924T062112Z
 DTSTART:20251028T143000Z
 DTEND:20251028T153000Z
 SUMMARY:Abdus Salam Colloquium: Andrei Bernevig
@@ -85,7 +85,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/198487/abdus-salam-colloquium-aron-wall/
-DTSTAMP:20250924T002113Z
+DTSTAMP:20250924T062113Z
 DTSTART:20251104T143000Z
 DTEND:20251104T153000Z
 SUMMARY:Abdus Salam Colloquium: Aron Wall
@@ -101,7 +101,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/198491/abdus-salam-colloquium-dionysios-anninos/
-DTSTAMP:20250924T002113Z
+DTSTAMP:20250924T062113Z
 DTSTART:20251111T143000Z
 DTEND:20251111T153000Z
 SUMMARY:Abdus Salam Colloquium:  Dionysios Anninos
@@ -117,7 +117,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/198493/abdus-salam-colloquium-livia-ferro/
-DTSTAMP:20250924T002114Z
+DTSTAMP:20250924T062114Z
 DTSTART:20251118T143000Z
 DTEND:20251118T153000Z
 SUMMARY:Abdus Salam Colloquium: Livia Ferro
@@ -133,7 +133,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/198497/abdus-salam-colloquium-emanuela-dimastrogiovanni/
-DTSTAMP:20250924T002114Z
+DTSTAMP:20250924T062114Z
 DTSTART:20251125T143000Z
 DTEND:20251125T153000Z
 SUMMARY:Abdus Salam Colloquium: Emanuela Dimastrogiovanni
@@ -149,7 +149,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/198501/abdus-salam-colloquium-axel-kleinschmidt/
-DTSTAMP:20250924T002114Z
+DTSTAMP:20250924T062114Z
 DTSTART:20251209T143000Z
 DTEND:20251209T153000Z
 SUMMARY:Abdus Salam Colloquium: Axel Kleinschmidt
