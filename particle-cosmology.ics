@@ -1,3 +1,182 @@
 BEGIN:VCALENDAR
 VERSION:2.0
+PRODID:-//Imperial Events Feed//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/198932/particle-cosmology-seminar-22/
+DTSTAMP:20251008T144537Z
+DTSTART:20251010T110000Z
+DTEND:20251010T120000Z
+SUMMARY:Particle Cosmology Seminar – Djuna Croon
+LOCATION:H503\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/198932/particle-cosmology-seminar-22/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/198932/particle-cosmology-seminar-22/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/198934/particle-cosmology-seminar-23/
+DTSTAMP:20251008T144537Z
+DTSTART:20251017T110000Z
+DTEND:20251017T120000Z
+SUMMARY:Particle Cosmology Seminar
+LOCATION:H503\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/198934/particle-cosmology-seminar-23/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/198934/particle-cosmology-seminar-23/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/198879/extraordinary-theory-seminar-andrea-cristofoli/
+DTSTAMP:20251008T144538Z
+DTSTART:20251023T130000Z
+DTEND:20251023T140000Z
+SUMMARY:Extraordinary Theory Seminar: Andrea Cristofoli – An On-Shell Approach to Hawking radiation and Merger Physics
+LOCATION:H503\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/198879/extraordinary-theory-seminar-andrea-cristofoli/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/198879/extraordinary-theory-seminar-andrea-cristofoli/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/198936/particle-cosmology-seminar-24/
+DTSTAMP:20251008T144538Z
+DTSTART:20251024T110000Z
+DTEND:20251024T120000Z
+SUMMARY:Particle Cosmology Seminar
+LOCATION:H503\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/198936/particle-cosmology-seminar-24/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/198936/particle-cosmology-seminar-24/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/198938/particle-cosmology-seminar-25/
+DTSTAMP:20251008T144539Z
+DTSTART:20251107T120000Z
+DTEND:20251107T130000Z
+SUMMARY:Particle Cosmology Seminar
+LOCATION:H503\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/198938/particle-cosmology-seminar-25/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/198938/particle-cosmology-seminar-25/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/199623/extraordinary-particle-cosmology-seminar-erminia-calabrese/
+DTSTAMP:20251008T144539Z
+DTSTART:20251112T150000Z
+DTEND:20251112T160000Z
+SUMMARY:Extraordinary Particle Cosmology Seminar – Erminia Calabrese
+LOCATION:H711c\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/199623/extraordinary-particle-cosmology-seminar-erminia-calabrese/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/199623/extraordinary-particle-cosmology-seminar-erminia-calabrese/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/198941/particle-cosmology-seminar-26/
+DTSTAMP:20251008T144540Z
+DTSTART:20251114T120000Z
+DTEND:20251114T130000Z
+SUMMARY:Particle Cosmology Seminar
+LOCATION:H503\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/198941/particle-cosmology-seminar-26/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/198941/particle-cosmology-seminar-26/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/198943/particle-cosmology-seminar-27/
+DTSTAMP:20251008T144540Z
+DTSTART:20251121T120000Z
+DTEND:20251121T130000Z
+SUMMARY:Particle Cosmology Seminar
+LOCATION:H503\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/198943/particle-cosmology-seminar-27/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/198943/particle-cosmology-seminar-27/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/198945/particle-cosmology-seminar-28/
+DTSTAMP:20251008T144541Z
+DTSTART:20251128T120000Z
+DTEND:20251128T130000Z
+SUMMARY:Particle Cosmology Seminar
+LOCATION:H503\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/198945/particle-cosmology-seminar-28/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/198945/particle-cosmology-seminar-28/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/198948/particle-cosmology-seminar-29/
+DTSTAMP:20251008T144541Z
+DTSTART:20251205T120000Z
+DTEND:20251205T130000Z
+SUMMARY:Particle Cosmology Seminar
+LOCATION:H503\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/198948/particle-cosmology-seminar-29/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/198948/particle-cosmology-seminar-29/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/198950/particle-cosmology-seminar-30/
+DTSTAMP:20251008T144541Z
+DTSTART:20251212T120000Z
+DTEND:20251212T130000Z
+SUMMARY:Particle Cosmology Seminar
+LOCATION:H503\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/198950/particle-cosmology-seminar-30/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/198950/particle-cosmology-seminar-30/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
 END:VCALENDAR
