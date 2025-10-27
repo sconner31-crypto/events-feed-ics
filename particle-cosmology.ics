@@ -4,43 +4,11 @@ PRODID:-//Imperial Events Feed//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/198879/extraordinary-theory-seminar-andrea-cristofoli/
-DTSTAMP:20251018T073304Z
-DTSTART:20251023T130000Z
-DTEND:20251023T140000Z
-SUMMARY:Extraordinary Theory Seminar: Andrea Cristofoli – An On-Shell Approach to Hawking radiation and Merger Physics
-LOCATION:H503\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/198879/extraordinary-theory-seminar-andrea-cristofoli/
-CATEGORIES:Seminar
-URL:https://www.imperial.ac.uk/events/198879/extraordinary-theory-seminar-andrea-cristofoli/
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/198936/particle-cosmology-seminar-24/
-DTSTAMP:20251018T073304Z
-DTSTART:20251024T110000Z
-DTEND:20251024T120000Z
-SUMMARY:Particle Cosmology Seminar
-LOCATION:H503\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/198936/particle-cosmology-seminar-24/
-CATEGORIES:Seminar
-URL:https://www.imperial.ac.uk/events/198936/particle-cosmology-seminar-24/
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/200394/particle-cosmology-seminar-31/
-DTSTAMP:20251018T073305Z
+DTSTAMP:20251027T094812Z
 DTSTART:20251031T120000Z
 DTEND:20251031T130000Z
-SUMMARY:Particle Cosmology Seminar
+SUMMARY:Particle Cosmology Seminar- Nadine Nussbaumer
 LOCATION:H503\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/200394/particle-cosmology-seminar-31/
 CATEGORIES:Seminar
@@ -53,7 +21,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/198938/particle-cosmology-seminar-25/
-DTSTAMP:20251018T073305Z
+DTSTAMP:20251027T094812Z
 DTSTART:20251107T120000Z
 DTEND:20251107T130000Z
 SUMMARY:Particle Cosmology Seminar
@@ -69,7 +37,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/199623/extraordinary-particle-cosmology-seminar-erminia-calabrese/
-DTSTAMP:20251018T073305Z
+DTSTAMP:20251027T094812Z
 DTSTART:20251112T150000Z
 DTEND:20251112T160000Z
 SUMMARY:Extraordinary Particle Cosmology Seminar – Erminia Calabrese
@@ -85,7 +53,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/198941/particle-cosmology-seminar-26/
-DTSTAMP:20251018T073306Z
+DTSTAMP:20251027T094812Z
 DTSTART:20251114T120000Z
 DTEND:20251114T130000Z
 SUMMARY:Particle Cosmology Seminar
@@ -101,7 +69,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/198943/particle-cosmology-seminar-27/
-DTSTAMP:20251018T073306Z
+DTSTAMP:20251027T094813Z
 DTSTART:20251121T120000Z
 DTEND:20251121T130000Z
 SUMMARY:Particle Cosmology Seminar
@@ -117,7 +85,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/198945/particle-cosmology-seminar-28/
-DTSTAMP:20251018T073306Z
+DTSTAMP:20251027T094813Z
 DTSTART:20251128T120000Z
 DTEND:20251128T130000Z
 SUMMARY:Particle Cosmology Seminar
@@ -133,7 +101,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/198948/particle-cosmology-seminar-29/
-DTSTAMP:20251018T073306Z
+DTSTAMP:20251027T094813Z
 DTSTART:20251205T120000Z
 DTEND:20251205T130000Z
 SUMMARY:Particle Cosmology Seminar
@@ -149,7 +117,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/198950/particle-cosmology-seminar-30/
-DTSTAMP:20251018T073307Z
+DTSTAMP:20251027T094813Z
 DTSTART:20251212T120000Z
 DTEND:20251212T130000Z
 SUMMARY:Particle Cosmology Seminar
