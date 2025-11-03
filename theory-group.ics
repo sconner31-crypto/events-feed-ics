@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/198487/abdus-salam-colloquium-aron-wall/
-DTSTAMP:20251102T082115Z
+DTSTAMP:20251103T082114Z
 DTSTART:20251104T143000Z
 DTEND:20251104T153000Z
 SUMMARY:Abdus Salam Colloquium: Aron Wall – How do qubits flow through spacetime?
@@ -20,7 +20,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/198491/abdus-salam-colloquium-dionysios-anninos/
-DTSTAMP:20251102T082115Z
+DTSTAMP:20251103T082115Z
 DTSTART:20251111T143000Z
 DTEND:20251111T153000Z
 SUMMARY:Abdus Salam Colloquium:  Dionysios Anninos
@@ -35,7 +35,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/198493/abdus-salam-colloquium-livia-ferro/
-DTSTAMP:20251102T082116Z
+DTSTAMP:20251103T082116Z
 DTSTART:20251118T143000Z
 DTEND:20251118T153000Z
 SUMMARY:Abdus Salam Colloquium: Livia Ferro
@@ -50,7 +50,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/198497/abdus-salam-colloquium-emanuela-dimastrogiovanni/
-DTSTAMP:20251102T082116Z
+DTSTAMP:20251103T082117Z
 DTSTART:20251125T143000Z
 DTEND:20251125T153000Z
 SUMMARY:Abdus Salam Colloquium: Emanuela Dimastrogiovanni
@@ -65,7 +65,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/198501/abdus-salam-colloquium-axel-kleinschmidt/
-DTSTAMP:20251102T082116Z
+DTSTAMP:20251103T082118Z
 DTSTART:20251209T143000Z
 DTEND:20251209T153000Z
 SUMMARY:Abdus Salam Colloquium: Axel Kleinschmidt
