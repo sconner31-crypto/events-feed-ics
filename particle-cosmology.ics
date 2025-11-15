@@ -4,27 +4,11 @@ PRODID:-//Imperial Events Feed//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/198941/particle-cosmology-seminar-26/
-DTSTAMP:20251114T084812Z
-DTSTART:20251114T120000Z
-DTEND:20251114T130000Z
-SUMMARY:Particle Cosmology Seminar
-LOCATION:H503\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/198941/particle-cosmology-seminar-26/
-CATEGORIES:Seminar
-URL:https://www.imperial.ac.uk/events/198941/particle-cosmology-seminar-26/
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/198943/particle-cosmology-seminar-27/
-DTSTAMP:20251114T084812Z
+DTSTAMP:20251115T084812Z
 DTSTART:20251121T120000Z
 DTEND:20251121T130000Z
-SUMMARY:Particle Cosmology Seminar
+SUMMARY:Particle Cosmology Seminar – Amplitudes for Hawking Radiation\, Rafael Aoude
 LOCATION:H503\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/198943/particle-cosmology-seminar-27/
 CATEGORIES:Seminar
@@ -37,7 +21,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/198945/particle-cosmology-seminar-28/
-DTSTAMP:20251114T084813Z
+DTSTAMP:20251115T084813Z
 DTSTART:20251128T120000Z
 DTEND:20251128T130000Z
 SUMMARY:Particle Cosmology Seminar
@@ -53,7 +37,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/198948/particle-cosmology-seminar-29/
-DTSTAMP:20251114T084813Z
+DTSTAMP:20251115T084813Z
 DTSTART:20251205T120000Z
 DTEND:20251205T130000Z
 SUMMARY:Particle Cosmology Seminar
@@ -69,7 +53,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/198950/particle-cosmology-seminar-30/
-DTSTAMP:20251114T084814Z
+DTSTAMP:20251115T084815Z
 DTSTART:20251212T120000Z
 DTEND:20251212T130000Z
 SUMMARY:Particle Cosmology Seminar
