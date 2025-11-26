@@ -4,23 +4,8 @@ PRODID:-//Imperial Events Feed//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/198497/abdus-salam-colloquium-emanuela-dimastrogiovanni/
-DTSTAMP:20251125T082114Z
-DTSTART:20251125T143000Z
-DTEND:20251125T153000Z
-SUMMARY:Abdus Salam Colloquium: Emanuela Dimastrogiovanni – From Quantum Fluctuations to Cosmic Ripples: Gravitational Waves from Inflation
-LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/198497/abdus-salam-colloquium-emanuela-dimastrogiovanni/
-URL:https://www.imperial.ac.uk/events/198497/abdus-salam-colloquium-emanuela-dimastrogiovanni/
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/198501/abdus-salam-colloquium-axel-kleinschmidt/
-DTSTAMP:20251125T082115Z
+DTSTAMP:20251126T082115Z
 DTSTART:20251209T143000Z
 DTEND:20251209T153000Z
 SUMMARY:Abdus Salam Colloquium: Axel Kleinschmidt
@@ -35,7 +20,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/198487/abdus-salam-colloquium-aron-wall/
-DTSTAMP:20251125T082115Z
+DTSTAMP:20251126T082117Z
 DTSTART:20260113T143000Z
 DTEND:20260113T153000Z
 SUMMARY:Abdus Salam Colloquium: Aron Wall – How do qubits flow through spacetime?
