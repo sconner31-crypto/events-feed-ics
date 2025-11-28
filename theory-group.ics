@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/198501/abdus-salam-colloquium-axel-kleinschmidt/
-DTSTAMP:20251127T082119Z
+DTSTAMP:20251128T082114Z
 DTSTART:20251209T143000Z
 DTEND:20251209T153000Z
 SUMMARY:Abdus Salam Colloquium: Axel Kleinschmidt
@@ -20,7 +20,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/198487/abdus-salam-colloquium-aron-wall/
-DTSTAMP:20251127T082119Z
+DTSTAMP:20251128T082115Z
 DTSTART:20260113T143000Z
 DTEND:20260113T153000Z
 SUMMARY:Abdus Salam Colloquium: Aron Wall – How do qubits flow through spacetime?
