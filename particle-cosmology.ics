@@ -4,24 +4,8 @@ PRODID:-//Imperial Events Feed//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/198945/particle-cosmology-seminar-28/
-DTSTAMP:20251128T084813Z
-DTSTART:20251128T120000Z
-DTEND:20251128T130000Z
-SUMMARY:Particle Cosmology Seminar
-LOCATION:H503\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/198945/particle-cosmology-seminar-28/
-CATEGORIES:Seminar
-URL:https://www.imperial.ac.uk/events/198945/particle-cosmology-seminar-28/
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/198948/particle-cosmology-seminar-29/
-DTSTAMP:20251128T084813Z
+DTSTAMP:20251129T084813Z
 DTSTART:20251205T120000Z
 DTEND:20251205T130000Z
 SUMMARY:Particle Cosmology Seminar
@@ -37,7 +21,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/198950/particle-cosmology-seminar-30/
-DTSTAMP:20251128T084813Z
+DTSTAMP:20251129T084814Z
 DTSTART:20251212T120000Z
 DTEND:20251212T130000Z
 SUMMARY:Particle Cosmology Seminar
