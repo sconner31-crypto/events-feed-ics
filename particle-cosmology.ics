@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/198950/particle-cosmology-seminar-30/
-DTSTAMP:20251212T084813Z
+DTSTAMP:20251212T151115Z
 DTSTART:20251212T120000Z
 DTEND:20251212T130000Z
 SUMMARY:Particle Cosmology Seminar
@@ -13,6 +13,1030 @@ LOCATION:H503\, Huxley Building\, South Kensington Campus\, Imperial College Lon
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/198950/particle-cosmology-seminar-30/
 CATEGORIES:Seminar
 URL:https://www.imperial.ac.uk/events/198950/particle-cosmology-seminar-30/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/198948/particle-cosmology-seminar-29/
+DTSTAMP:20251212T151115Z
+DTSTART:20251205T120000Z
+DTEND:20251205T130000Z
+SUMMARY:Particle Cosmology Seminar (CANCELLED)
+LOCATION:H503\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/198948/particle-cosmology-seminar-29/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/198948/particle-cosmology-seminar-29/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/198945/particle-cosmology-seminar-28/
+DTSTAMP:20251212T151116Z
+DTSTART:20251128T120000Z
+DTEND:20251128T130000Z
+SUMMARY:Particle Cosmology Seminar
+LOCATION:H503\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/198945/particle-cosmology-seminar-28/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/198945/particle-cosmology-seminar-28/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/198943/particle-cosmology-seminar-27/
+DTSTAMP:20251212T151116Z
+DTSTART:20251121T120000Z
+DTEND:20251121T130000Z
+SUMMARY:Particle Cosmology Seminar – Amplitudes for Hawking Radiation\, Rafael Aoude
+LOCATION:H503\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/198943/particle-cosmology-seminar-27/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/198943/particle-cosmology-seminar-27/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/198941/particle-cosmology-seminar-26/
+DTSTAMP:20251212T151117Z
+DTSTART:20251114T120000Z
+DTEND:20251114T130000Z
+SUMMARY:Particle Cosmology Seminar
+LOCATION:H503\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/198941/particle-cosmology-seminar-26/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/198941/particle-cosmology-seminar-26/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/199623/extraordinary-particle-cosmology-seminar-erminia-calabrese/
+DTSTAMP:20251212T151117Z
+DTSTART:20251112T150000Z
+DTEND:20251112T160000Z
+SUMMARY:Extraordinary Particle Cosmology Seminar – Erminia Calabrese
+LOCATION:H711c \, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/199623/extraordinary-particle-cosmology-seminar-erminia-calabrese/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/199623/extraordinary-particle-cosmology-seminar-erminia-calabrese/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/198938/particle-cosmology-seminar-25/
+DTSTAMP:20251212T151118Z
+DTSTART:20251107T120000Z
+DTEND:20251107T130000Z
+SUMMARY:Particle Cosmology Seminar
+LOCATION:H503\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/198938/particle-cosmology-seminar-25/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/198938/particle-cosmology-seminar-25/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/200394/particle-cosmology-seminar-31/
+DTSTAMP:20251212T151119Z
+DTSTART:20251031T120000Z
+DTEND:20251031T130000Z
+SUMMARY:Particle Cosmology Seminar- Nadine Nussbaumer
+LOCATION:H503\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/200394/particle-cosmology-seminar-31/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/200394/particle-cosmology-seminar-31/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/198936/particle-cosmology-seminar-24/
+DTSTAMP:20251212T151119Z
+DTSTART:20251024T110000Z
+DTEND:20251024T120000Z
+SUMMARY:Particle Cosmology Seminar
+LOCATION:H503\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/198936/particle-cosmology-seminar-24/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/198936/particle-cosmology-seminar-24/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/198879/extraordinary-theory-seminar-andrea-cristofoli/
+DTSTAMP:20251212T151120Z
+DTSTART:20251023T130000Z
+DTEND:20251023T140000Z
+SUMMARY:Extraordinary Theory Seminar: Andrea Cristofoli – An On-Shell Approach to Hawking radiation and Merger Physics
+LOCATION:H503\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/198879/extraordinary-theory-seminar-andrea-cristofoli/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/198879/extraordinary-theory-seminar-andrea-cristofoli/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/198934/particle-cosmology-seminar-23/
+DTSTAMP:20251212T151120Z
+DTSTART:20251017T110000Z
+DTEND:20251017T120000Z
+SUMMARY:Particle Cosmology Seminar
+LOCATION:H503\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/198934/particle-cosmology-seminar-23/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/198934/particle-cosmology-seminar-23/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/198932/particle-cosmology-seminar-22/
+DTSTAMP:20251212T151121Z
+DTSTART:20251010T110000Z
+DTEND:20251010T120000Z
+SUMMARY:Particle Cosmology Seminar – Djuna Croon
+LOCATION:H503\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/198932/particle-cosmology-seminar-22/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/198932/particle-cosmology-seminar-22/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/198913/particle-cosmology-seminar-21/
+DTSTAMP:20251212T151121Z
+DTSTART:20251003T110000Z
+DTEND:20251003T120000Z
+SUMMARY:Particle Cosmology Seminar-  Eleonora Di Valentino- CANCELLED
+LOCATION:H503\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/198913/particle-cosmology-seminar-21/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/198913/particle-cosmology-seminar-21/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/193584/particle-cosmology-seminar-19/
+DTSTAMP:20251212T151122Z
+DTSTART:20250627T110000Z
+DTEND:20250627T120000Z
+SUMMARY:Particle Cosmology Seminar
+LOCATION:503\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/193584/particle-cosmology-seminar-19/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/193584/particle-cosmology-seminar-19/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/193586/particle-cosmology-seminar-20/
+DTSTAMP:20251212T151122Z
+DTSTART:20250613T110000Z
+DTEND:20250613T120000Z
+SUMMARY:Particle Cosmology Seminar
+LOCATION:503\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/193586/particle-cosmology-seminar-20/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/193586/particle-cosmology-seminar-20/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/193582/particle-cosmology-seminar-18/
+DTSTAMP:20251212T151122Z
+DTSTART:20250523T110000Z
+DTEND:20250523T120000Z
+SUMMARY:Particle Cosmology Seminar
+LOCATION:503\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/193582/particle-cosmology-seminar-18/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/193582/particle-cosmology-seminar-18/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/193577/particle-cosmology-seminar-17/
+DTSTAMP:20251212T151123Z
+DTSTART:20250509T110000Z
+DTEND:20250509T120000Z
+SUMMARY:Particle Cosmology Seminar
+LOCATION:503\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/193577/particle-cosmology-seminar-17/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/193577/particle-cosmology-seminar-17/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/189754/particle-cosmology-seminar-16/
+DTSTAMP:20251212T151123Z
+DTSTART:20250321T120000Z
+DTEND:20250321T130000Z
+SUMMARY:Particle Cosmology Seminar
+LOCATION:503\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/189754/particle-cosmology-seminar-16/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/189754/particle-cosmology-seminar-16/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/189752/particle-cosmology-seminar-15/
+DTSTAMP:20251212T151124Z
+DTSTART:20250221T120000Z
+DTEND:20250221T130000Z
+SUMMARY:Particle Cosmology Seminar
+LOCATION:503\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/189752/particle-cosmology-seminar-15/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/189752/particle-cosmology-seminar-15/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/189750/particle-cosmology-seminar-14/
+DTSTAMP:20251212T151124Z
+DTSTART:20250214T120000Z
+DTEND:20250214T130000Z
+SUMMARY:Particle Cosmology Seminar
+LOCATION:503\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/189750/particle-cosmology-seminar-14/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/189750/particle-cosmology-seminar-14/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/188732/particle-cosmology-seminar-13/
+DTSTAMP:20251212T151125Z
+DTSTART:20250131T120000Z
+DTEND:20250131T130000Z
+SUMMARY:Particle Cosmology Seminar
+LOCATION:503\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/188732/particle-cosmology-seminar-13/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/188732/particle-cosmology-seminar-13/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/184833/particle-cosmology-seminar-12/
+DTSTAMP:20251212T151125Z
+DTSTART:20241213T120000Z
+DTEND:20241213T130000Z
+SUMMARY:Particle Cosmology Seminar
+LOCATION:503\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/184833/particle-cosmology-seminar-12/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/184833/particle-cosmology-seminar-12/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/184825/particle-cosmology-seminar-9/
+DTSTAMP:20251212T151125Z
+DTSTART:20241129T120000Z
+DTEND:20241129T130000Z
+SUMMARY:Particle Cosmology Seminar
+LOCATION:503\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/184825/particle-cosmology-seminar-9/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/184825/particle-cosmology-seminar-9/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/184831/particle-cosmology-seminar-11/
+DTSTAMP:20251212T151126Z
+DTSTART:20241122T120000Z
+DTEND:20241122T130000Z
+SUMMARY:Particle Cosmology Seminar
+LOCATION:503\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/184831/particle-cosmology-seminar-11/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/184831/particle-cosmology-seminar-11/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/184827/particle-cosmology-seminar-10/
+DTSTAMP:20251212T151126Z
+DTSTART:20241108T120000Z
+DTEND:20241108T130000Z
+SUMMARY:Particle Cosmology Seminar
+LOCATION:503\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/184827/particle-cosmology-seminar-10/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/184827/particle-cosmology-seminar-10/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/182979/particle-cosmology-seminar-8/
+DTSTAMP:20251212T151126Z
+DTSTART:20241011T110000Z
+DTEND:20241011T120000Z
+SUMMARY:Particle Cosmology Seminar
+LOCATION:503\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/182979/particle-cosmology-seminar-8/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/182979/particle-cosmology-seminar-8/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/178372/particle-cosmology-seminar-7/
+DTSTAMP:20251212T151127Z
+DTSTART:20240628T110000Z
+DTEND:20240628T120000Z
+SUMMARY:Particle Cosmology Seminar
+LOCATION:503\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/178372/particle-cosmology-seminar-7/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/178372/particle-cosmology-seminar-7/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/176469/particle-cosmology-seminar-6/
+DTSTAMP:20251212T151127Z
+DTSTART:20240531T110000Z
+DTEND:20240531T120000Z
+SUMMARY:Particle Cosmology Seminar
+LOCATION:139\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/176469/particle-cosmology-seminar-6/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/176469/particle-cosmology-seminar-6/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/176466/particle-cosmology-seminar-5/
+DTSTAMP:20251212T151128Z
+DTSTART:20240517T110000Z
+DTEND:20240517T120000Z
+SUMMARY:Particle Cosmology Seminar
+LOCATION:139\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/176466/particle-cosmology-seminar-5/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/176466/particle-cosmology-seminar-5/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/174518/particle-cosmology-seminar/
+DTSTAMP:20251212T151128Z
+DTSTART:20240510T110000Z
+DTEND:20240510T120000Z
+SUMMARY:Particle Cosmology Seminar
+LOCATION:139\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/174518/particle-cosmology-seminar/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/174518/particle-cosmology-seminar/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/174522/particle-cosmology-seminar-2/
+DTSTAMP:20251212T151128Z
+DTSTART:20240503T140000Z
+DTEND:20240503T150000Z
+SUMMARY:Particle Cosmology Seminar
+LOCATION:539\, Blackett Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/174522/particle-cosmology-seminar-2/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/174522/particle-cosmology-seminar-2/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/174529/particle-cosmology-seminar-4/
+DTSTAMP:20251212T151129Z
+DTSTART:20240315T130000Z
+DTEND:20240315T140000Z
+SUMMARY:Particle Cosmology Seminar
+LOCATION:H503\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/174529/particle-cosmology-seminar-4/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/174529/particle-cosmology-seminar-4/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/174526/particle-cosmology-seminar-3/
+DTSTAMP:20251212T151129Z
+DTSTART:20240308T130000Z
+DTEND:20240308T140000Z
+SUMMARY:Particle Cosmology Seminar
+LOCATION:H503\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/174526/particle-cosmology-seminar-3/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/174526/particle-cosmology-seminar-3/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/156980/3pac-seminar-antonella-palmese/
+DTSTAMP:20251212T151130Z
+DTSTART:20231201T130000Z
+DTEND:20231201T140000Z
+SUMMARY:3PAC Seminar: Antonella Palmese
+LOCATION:United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/156980/3pac-seminar-antonella-palmese/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/156980/3pac-seminar-antonella-palmese/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/167181/3pac-seminar-maria-olalla-olea-romacho/
+DTSTAMP:20251212T151130Z
+DTSTART:20231110T130000Z
+DTEND:20231110T140000Z
+SUMMARY:3PAC Seminar: Maria Olalla Olea Romacho
+LOCATION:741\, Blackett Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/167181/3pac-seminar-maria-olalla-olea-romacho/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/167181/3pac-seminar-maria-olalla-olea-romacho/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/167178/3pac-seminar-tanmay-vachspati/
+DTSTAMP:20251212T151131Z
+DTSTART:20231103T140000Z
+DTEND:20231103T150000Z
+SUMMARY:3PAC Seminar: Tanmay Vachaspati
+LOCATION:1004\, Blackett Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/167178/3pac-seminar-tanmay-vachspati/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/167178/3pac-seminar-tanmay-vachspati/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/167175/3pac-seminar-fabio-di-pumpo/
+DTSTAMP:20251212T151131Z
+DTSTART:20231027T120000Z
+DTEND:20231027T130000Z
+SUMMARY:3PAC Seminar: Fabio Di Pumpo
+LOCATION:741\, Blackett Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/167175/3pac-seminar-fabio-di-pumpo/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/167175/3pac-seminar-fabio-di-pumpo/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/167172/3pac-seminar-andreas-mantziris/
+DTSTAMP:20251212T151132Z
+DTSTART:20231016T140000Z
+DTEND:20231016T150000Z
+SUMMARY:3PAC Seminar: Andreas Mantziris
+LOCATION:503\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/167172/3pac-seminar-andreas-mantziris/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/167172/3pac-seminar-andreas-mantziris/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/157844/3pac-seminar-joanna-piotrowska/
+DTSTAMP:20251212T151132Z
+DTSTART:20231006T120000Z
+DTEND:20231006T130000Z
+SUMMARY:3PAC Seminar: Joanna Piotrowska
+LOCATION:741\, Blackett Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/157844/3pac-seminar-joanna-piotrowska/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/157844/3pac-seminar-joanna-piotrowska/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/160857/3pac-seminar-mario-reig-lopez/
+DTSTAMP:20251212T151133Z
+DTSTART:20230630T120000Z
+DTEND:20230630T130000Z
+SUMMARY:3PAC Seminar – Mario Reig Lopez
+LOCATION:503\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/160857/3pac-seminar-mario-reig-lopez/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/160857/3pac-seminar-mario-reig-lopez/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/160854/3pac-seminar-joshua-davies/
+DTSTAMP:20251212T151133Z
+DTSTART:20230616T120000Z
+DTEND:20230616T130000Z
+SUMMARY:3PAC Seminar – Joshua Davies
+LOCATION:503\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/160854/3pac-seminar-joshua-davies/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/160854/3pac-seminar-joshua-davies/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/160851/3pac-seminar-basem-el-menoufi/
+DTSTAMP:20251212T151133Z
+DTSTART:20230609T120000Z
+DTEND:20230609T130000Z
+SUMMARY:3PAC Seminar – Basem El-Menoufi
+LOCATION:503\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/160851/3pac-seminar-basem-el-menoufi/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/160851/3pac-seminar-basem-el-menoufi/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/154071/3pac-seminar-azadeh-maleknejad/
+DTSTAMP:20251212T151134Z
+DTSTART:20230526T120000Z
+DTEND:20230526T130000Z
+SUMMARY:3PAC Seminar: Azadeh Maleknejad
+LOCATION:503\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/154071/3pac-seminar-azadeh-maleknejad/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/154071/3pac-seminar-azadeh-maleknejad/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/159909/3pac-seminar-giulia-capurri/
+DTSTAMP:20251212T151134Z
+DTSTART:20230519T120000Z
+DTEND:20230519T130000Z
+SUMMARY:3PAC Seminar – Giulia Capurri
+LOCATION:503\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/159909/3pac-seminar-giulia-capurri/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/159909/3pac-seminar-giulia-capurri/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/159876/3pac-seminar-gongjun-choi/
+DTSTAMP:20251212T151135Z
+DTSTART:20230512T120000Z
+DTEND:20230512T130000Z
+SUMMARY:3PAC Seminar – Gongjun Choi
+LOCATION:503\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/159876/3pac-seminar-gongjun-choi/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/159876/3pac-seminar-gongjun-choi/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/157208/3pac-seminar-enrico-pajer/
+DTSTAMP:20251212T151136Z
+DTSTART:20230428T120000Z
+DTEND:20230428T130000Z
+SUMMARY:3PAC Seminar: Enrico Pajer
+LOCATION:503\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/157208/3pac-seminar-enrico-pajer/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/157208/3pac-seminar-enrico-pajer/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/157088/3pac-seminar-sebastian-cespedes/
+DTSTAMP:20251212T151136Z
+DTSTART:20230327T120000Z
+DTEND:20230327T130000Z
+SUMMARY:3PAC Seminar: Sebastian Cespedes
+LOCATION:503\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/157088/3pac-seminar-sebastian-cespedes/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/157088/3pac-seminar-sebastian-cespedes/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/156852/3pac-seminar-shinji-mukohyama/
+DTSTAMP:20251212T151136Z
+DTSTART:20230324T130000Z
+DTEND:20230324T140000Z
+SUMMARY:3PAC Seminar: Shinji Mukohyama
+LOCATION:503\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/156852/3pac-seminar-shinji-mukohyama/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/156852/3pac-seminar-shinji-mukohyama/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/156855/3pac-seminar-david-stefanyszyn/
+DTSTAMP:20251212T151137Z
+DTSTART:20230310T130000Z
+DTEND:20230310T140000Z
+SUMMARY:3PAC Seminar: David Stefanyszyn
+LOCATION:503\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/156855/3pac-seminar-david-stefanyszyn/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/156855/3pac-seminar-david-stefanyszyn/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/154075/3pac-seminar-julien-grain/
+DTSTAMP:20251212T151137Z
+DTSTART:20230303T130000Z
+DTEND:20230303T140000Z
+SUMMARY:3PAC Seminar: Julien Grain
+LOCATION:503\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/154075/3pac-seminar-julien-grain/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/154075/3pac-seminar-julien-grain/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/157659/3pac-seminar-christian-gutschow/
+DTSTAMP:20251212T151138Z
+DTSTART:20230224T130000Z
+DTEND:20230224T140000Z
+SUMMARY:3PAC Seminar: Christian Gutschow
+LOCATION:503\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/157659/3pac-seminar-christian-gutschow/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/157659/3pac-seminar-christian-gutschow/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/157408/3pac-seminar-pedro-fernandes/
+DTSTAMP:20251212T151138Z
+DTSTART:20230217T130000Z
+DTEND:20230217T140000Z
+SUMMARY:3PAC Seminar: Pedro Fernandes
+LOCATION:503\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/157408/3pac-seminar-pedro-fernandes/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/157408/3pac-seminar-pedro-fernandes/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/156849/3pac-seminar-amaury-micheli/
+DTSTAMP:20251212T151139Z
+DTSTART:20230203T130000Z
+DTEND:20230203T140000Z
+SUMMARY:3PAC Seminar: Amaury Micheli
+LOCATION:503\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/156849/3pac-seminar-amaury-micheli/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/156849/3pac-seminar-amaury-micheli/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/154337/3pac-seminar-ken-mimasu/
+DTSTAMP:20251212T151139Z
+DTSTART:20230120T130000Z
+DTEND:20230120T140000Z
+SUMMARY:3PAC Seminar: Ken Mimasu
+LOCATION:503\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/154337/3pac-seminar-ken-mimasu/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/154337/3pac-seminar-ken-mimasu/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/154067/3pac-seminar-benji-berczi/
+DTSTAMP:20251212T151140Z
+DTSTART:20221209T130000Z
+DTEND:20221209T140000Z
+SUMMARY:3PAC Seminar: Benji Berczi
+LOCATION:1004\, Blackett Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/154067/3pac-seminar-benji-berczi/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/154067/3pac-seminar-benji-berczi/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/154063/3pac-seminar-naomi-robertson/
+DTSTAMP:20251212T151140Z
+DTSTART:20221125T130000Z
+DTEND:20221125T140000Z
+SUMMARY:3PAC Seminar: Naomi Robertson
+LOCATION:1004\, Blackett Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/154063/3pac-seminar-naomi-robertson/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/154063/3pac-seminar-naomi-robertson/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/154054/3pac-seminar-timothy-sumner/
+DTSTAMP:20251212T151141Z
+DTSTART:20221111T130000Z
+DTEND:20221111T140000Z
+SUMMARY:3PAC Seminar: Timothy Sumner
+LOCATION:1004\, Blackett Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/154054/3pac-seminar-timothy-sumner/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/154054/3pac-seminar-timothy-sumner/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/154045/3pac-seminar-suddhasattwa-brahma/
+DTSTAMP:20251212T151141Z
+DTSTART:20221028T120000Z
+DTEND:20221028T130000Z
+SUMMARY:3PAC Seminar: Suddhasattwa Brahma
+LOCATION:1004\, Blackett Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/154045/3pac-seminar-suddhasattwa-brahma/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/154045/3pac-seminar-suddhasattwa-brahma/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/139172/3pac-seminar-jesus-torrado/
+DTSTAMP:20251212T151141Z
+DTSTART:20211210T130000Z
+DTEND:20211210T140000Z
+SUMMARY:3PAC seminar: Jesus Torrado
+LOCATION:United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/139172/3pac-seminar-jesus-torrado/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/139172/3pac-seminar-jesus-torrado/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/139167/3pac-seminar-diego-blas/
+DTSTAMP:20251212T151142Z
+DTSTART:20211203T130000Z
+DTEND:20211203T140000Z
+SUMMARY:3PAC seminar: Diego Blas
+LOCATION:United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/139167/3pac-seminar-diego-blas/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/139167/3pac-seminar-diego-blas/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/139175/3pac-seminar-mariana-vargas-magana/
+DTSTAMP:20251212T151142Z
+DTSTART:20211119T130000Z
+DTEND:20211119T140000Z
+SUMMARY:3PAC seminar: Mariana Vargas Magaña
+LOCATION:United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/139175/3pac-seminar-mariana-vargas-magana/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/139175/3pac-seminar-mariana-vargas-magana/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/139986/3pac-seminar-matteo-fasiello/
+DTSTAMP:20251212T151143Z
+DTSTART:20211105T130000Z
+DTEND:20211105T140000Z
+SUMMARY:3PAC seminar: Matteo Fasiello
+LOCATION:United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/139986/3pac-seminar-matteo-fasiello/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/139986/3pac-seminar-matteo-fasiello/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/139164/3pac-seminar-yin-li/
+DTSTAMP:20251212T151143Z
+DTSTART:20211022T120000Z
+DTEND:20211022T130000Z
+SUMMARY:3PAC seminar: Yin Li
+LOCATION:United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/139164/3pac-seminar-yin-li/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/139164/3pac-seminar-yin-li/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/139162/3pac-seminar-sunny-vagnozzi/
+DTSTAMP:20251212T151144Z
+DTSTART:20211008T120000Z
+DTEND:20211008T130000Z
+SUMMARY:3PAC seminar: Sunny Vagnozzi
+LOCATION:United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/139162/3pac-seminar-sunny-vagnozzi/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/139162/3pac-seminar-sunny-vagnozzi/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/136337/3pac-seminar-alexandra-amon/
+DTSTAMP:20251212T151144Z
+DTSTART:20210618T120000Z
+DTEND:20210618T130000Z
+SUMMARY:3PAC seminar: Alexandra Amon
+LOCATION:United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/136337/3pac-seminar-alexandra-amon/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/136337/3pac-seminar-alexandra-amon/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
