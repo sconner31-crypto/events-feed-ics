@@ -5,13 +5,448 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/198487/abdus-salam-colloquium-aron-wall/
-DTSTAMP:20251212T082116Z
+DTSTAMP:20251212T145439Z
 DTSTART:20260113T143000Z
 DTEND:20260113T153000Z
 SUMMARY:Abdus Salam Colloquium: Aron Wall – How do qubits flow through spacetime?
 LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/198487/abdus-salam-colloquium-aron-wall/
 URL:https://www.imperial.ac.uk/events/198487/abdus-salam-colloquium-aron-wall/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/198501/abdus-salam-colloquium-axel-kleinschmidt/
+DTSTAMP:20251212T145439Z
+DTSTART:20251209T143000Z
+DTEND:20251209T153000Z
+SUMMARY:Abdus Salam Colloquium: Axel Kleinschmidt – String scattering old and new
+LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/198501/abdus-salam-colloquium-axel-kleinschmidt/
+URL:https://www.imperial.ac.uk/events/198501/abdus-salam-colloquium-axel-kleinschmidt/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/198497/abdus-salam-colloquium-emanuela-dimastrogiovanni/
+DTSTAMP:20251212T145440Z
+DTSTART:20251125T143000Z
+DTEND:20251125T153000Z
+SUMMARY:Abdus Salam Colloquium: Emanuela Dimastrogiovanni – From Quantum Fluctuations to Cosmic Ripples: Gravitational Waves from Inflation
+LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/198497/abdus-salam-colloquium-emanuela-dimastrogiovanni/
+URL:https://www.imperial.ac.uk/events/198497/abdus-salam-colloquium-emanuela-dimastrogiovanni/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/198493/abdus-salam-colloquium-livia-ferro/
+DTSTAMP:20251212T145440Z
+DTSTART:20251118T143000Z
+DTEND:20251118T153000Z
+SUMMARY:Abdus Salam Colloquium: Livia Ferro – From Geometry to Scattering Amplitudes
+LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/198493/abdus-salam-colloquium-livia-ferro/
+URL:https://www.imperial.ac.uk/events/198493/abdus-salam-colloquium-livia-ferro/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/198491/abdus-salam-colloquium-dionysios-anninos/
+DTSTAMP:20251212T145441Z
+DTSTART:20251111T143000Z
+DTEND:20251111T153000Z
+SUMMARY:Abdus Salam Colloquium:  Dionysios Anninos – Features of the Partition Function of a Λ > 0 Universe 
+LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/198491/abdus-salam-colloquium-dionysios-anninos/
+URL:https://www.imperial.ac.uk/events/198491/abdus-salam-colloquium-dionysios-anninos/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/198483/abdus-salam-colloquium-andrei-bernevig/
+DTSTAMP:20251212T145441Z
+DTSTART:20251028T143000Z
+DTEND:20251028T153000Z
+SUMMARY:Abdus Salam Colloquium: Cancelled
+LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/198483/abdus-salam-colloquium-andrei-bernevig/
+URL:https://www.imperial.ac.uk/events/198483/abdus-salam-colloquium-andrei-bernevig/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/198480/abdus-salam-colloquium-alessandra-silvestri/
+DTSTAMP:20251212T145442Z
+DTSTART:20251021T133000Z
+DTEND:20251021T143000Z
+SUMMARY:Abdus Salam Colloquium: Alessandra Silvestri – Gravity in the era of Stage IV Surveys
+LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/198480/abdus-salam-colloquium-alessandra-silvestri/
+URL:https://www.imperial.ac.uk/events/198480/abdus-salam-colloquium-alessandra-silvestri/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/198478/abdus-salam-colloquium-daniel-maitre/
+DTSTAMP:20251212T145443Z
+DTSTART:20251014T133000Z
+DTEND:20251014T143000Z
+SUMMARY:Abdus Salam Colloquium: Daniel Maitre – Neural Networks for Theoretical Calculations
+LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/198478/abdus-salam-colloquium-daniel-maitre/
+URL:https://www.imperial.ac.uk/events/198478/abdus-salam-colloquium-daniel-maitre/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/198470/abdus-salam-colloquium-andreas-karch/
+DTSTAMP:20251212T145443Z
+DTSTART:20251007T133000Z
+DTEND:20251007T143000Z
+SUMMARY:Abdus Salam Colloquium: Andreas Karch – Sharp Transitions for Subsystem Complexity
+LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/198470/abdus-salam-colloquium-andreas-karch/
+URL:https://www.imperial.ac.uk/events/198470/abdus-salam-colloquium-andreas-karch/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/198468/abdus-salam-colloquium-stefan-hollands/
+DTSTAMP:20251212T145444Z
+DTSTART:20250930T133000Z
+DTEND:20250930T143000Z
+SUMMARY:Abdus Salam Colloquium: Stefan Hollands – Negative Energy
+LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/198468/abdus-salam-colloquium-stefan-hollands/
+URL:https://www.imperial.ac.uk/events/198468/abdus-salam-colloquium-stefan-hollands/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/196173/theoretical-physics-colloquium-andrea-mitridate-exploring-the-gravitational-wave-universe-with-pulsar-timing-arrays/
+DTSTAMP:20251212T145444Z
+DTSTART:20250722T133000Z
+DTEND:20250722T143000Z
+SUMMARY:Universe Colloquium: Andrea Mitridate – Exploring the Gravitational Wave Universe with Pulsar Timing Arrays
+LOCATION:1004\\, Blackett Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/196173/theoretical-physics-colloquium-andrea-mitridate-exploring-the-gravitational-wave-universe-with-pulsar-timing-arrays/
+URL:https://www.imperial.ac.uk/events/196173/theoretical-physics-colloquium-andrea-mitridate-exploring-the-gravitational-wave-universe-with-pulsar-timing-arrays/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/193062/theory-group-colloquium-renate-loll/
+DTSTAMP:20251212T145444Z
+DTSTART:20250701T133000Z
+DTEND:20250701T143000Z
+SUMMARY:Theoretical Physics Colloquium: Renate Loll – Causal Dynamical Triangulations: Lattice quantum gravity reloaded
+LOCATION:LT 145\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/193062/theory-group-colloquium-renate-loll/
+URL:https://www.imperial.ac.uk/events/193062/theory-group-colloquium-renate-loll/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/193058/theory-group-colloquium-harvey-reall/
+DTSTAMP:20251212T145445Z
+DTSTART:20250624T133000Z
+DTEND:20250624T143000Z
+SUMMARY:Theoretical Physics Colloquium: Harvey Reall – Third law of black hole mechanics for supersymmetric black holes
+LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/193058/theory-group-colloquium-harvey-reall/
+URL:https://www.imperial.ac.uk/events/193058/theory-group-colloquium-harvey-reall/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/193055/theory-group-colloquium-chiara-caprini/
+DTSTAMP:20251212T145445Z
+DTSTART:20250617T133000Z
+DTEND:20250617T143000Z
+SUMMARY:Theoretical Physics Colloquium: Chiara Caprini – Cosmology with LISA
+LOCATION:711c\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/193055/theory-group-colloquium-chiara-caprini/
+URL:https://www.imperial.ac.uk/events/193055/theory-group-colloquium-chiara-caprini/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/193051/theory-group-colloquium-victor-gorbenko/
+DTSTAMP:20251212T145446Z
+DTSTART:20250609T130000Z
+DTEND:20250609T143000Z
+SUMMARY:Theoretical Physics Colloquium: Victor Gorbenko – QCD flux tube in AdS
+LOCATION:1004\\, Blackett Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/193051/theory-group-colloquium-victor-gorbenko/
+URL:https://www.imperial.ac.uk/events/193051/theory-group-colloquium-victor-gorbenko/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/193046/theory-group-colloquium-joao-penedones/
+DTSTAMP:20251212T145446Z
+DTSTART:20250603T133000Z
+DTEND:20250603T143000Z
+SUMMARY:Theoretical Physics Colloquium: Joao Penedones – Einstein gravity from a matrix integral
+LOCATION:539\\, Blackett Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/193046/theory-group-colloquium-joao-penedones/
+URL:https://www.imperial.ac.uk/events/193046/theory-group-colloquium-joao-penedones/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/193048/theory-group-colloquium-michael-douglas/
+DTSTAMP:20251212T145447Z
+DTSTART:20250528T093000Z
+DTEND:20250528T110000Z
+SUMMARY:Theoretical Physics Colloquium: Michael Douglas – AI in math and theoretical physics: status and prospects
+LOCATION:1004\\, Blackett Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/193048/theory-group-colloquium-michael-douglas/
+URL:https://www.imperial.ac.uk/events/193048/theory-group-colloquium-michael-douglas/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/193043/universe-community-joint-colloquium-john-peacock/
+DTSTAMP:20251212T145447Z
+DTSTART:20250520T133000Z
+DTEND:20250520T143000Z
+SUMMARY:Universe Community Joint Colloquium: John Peacock
+LOCATION:1004\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/193043/universe-community-joint-colloquium-john-peacock/
+URL:https://www.imperial.ac.uk/events/193043/universe-community-joint-colloquium-john-peacock/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/193040/theoretical-physics-colloquium-carl-bender/
+DTSTAMP:20251212T145447Z
+DTSTART:20250513T133000Z
+DTEND:20250513T143000Z
+SUMMARY:Theoretical Physics Colloquium: Carl Bender – PT-symmetric quantum mechanics: Physics off the real axis
+LOCATION:H140\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/193040/theoretical-physics-colloquium-carl-bender/
+URL:https://www.imperial.ac.uk/events/193040/theoretical-physics-colloquium-carl-bender/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/193035/theoretical-physics-colloquium-claudia-de-rham/
+DTSTAMP:20251212T145448Z
+DTSTART:20250506T133000Z
+DTEND:20250506T143000Z
+SUMMARY:Theoretical Physics Colloquium: Claudia de Rham – Positivity in the Sky
+LOCATION:H140\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/193035/theoretical-physics-colloquium-claudia-de-rham/
+URL:https://www.imperial.ac.uk/events/193035/theoretical-physics-colloquium-claudia-de-rham/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/193033/theoretical-physics-colloquium-simon-catterall/
+DTSTAMP:20251212T145448Z
+DTSTART:20250429T133000Z
+DTEND:20250429T143000Z
+SUMMARY:Theoretical Physics Colloquium: Simon Catterall – Sneaking up on lattice chiral fermions
+LOCATION:H140\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/193033/theoretical-physics-colloquium-simon-catterall/
+URL:https://www.imperial.ac.uk/events/193033/theoretical-physics-colloquium-simon-catterall/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/187121/theoretical-physics-colloquium-thomas-hertog/
+DTSTAMP:20251212T145448Z
+DTSTART:20250318T143000Z
+DTEND:20250318T153000Z
+SUMMARY:Theoretical Physics Colloquium: Thomas Hertog – The no-boundary wave function 2.0
+LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/187121/theoretical-physics-colloquium-thomas-hertog/
+URL:https://www.imperial.ac.uk/events/187121/theoretical-physics-colloquium-thomas-hertog/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/191233/universe-community-colloquium-steven-longmore-star-formation-in-the-galactic-centre-and-across-cosmic-time/
+DTSTAMP:20251212T145449Z
+DTSTART:20250311T143000Z
+DTEND:20250311T153000Z
+SUMMARY:Universe Community Colloquium: Steven Longmore – Star formation in the Galactic Centre and across cosmic time
+LOCATION:711 c\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/191233/universe-community-colloquium-steven-longmore-star-formation-in-the-galactic-centre-and-across-cosmic-time/
+URL:https://www.imperial.ac.uk/events/191233/universe-community-colloquium-steven-longmore-star-formation-in-the-galactic-centre-and-across-cosmic-time/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/187118/theoretical-physics-colloquium-andrew-mcleod/
+DTSTAMP:20251212T145449Z
+DTSTART:20250304T143000Z
+DTEND:20250304T153000Z
+SUMMARY:Theoretical Physics Colloquium: Andrew McLeod
+LOCATION:741\\, Blackett Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/187118/theoretical-physics-colloquium-andrew-mcleod/
+URL:https://www.imperial.ac.uk/events/187118/theoretical-physics-colloquium-andrew-mcleod/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/187115/theoretical-physics-colloquium-frank-verstraete/
+DTSTAMP:20251212T145449Z
+DTSTART:20250225T143000Z
+DTEND:20250225T153000Z
+SUMMARY:Theoretical Physics Colloquium: Frank Verstraete
+LOCATION:741\\, Blackett Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/187115/theoretical-physics-colloquium-frank-verstraete/
+URL:https://www.imperial.ac.uk/events/187115/theoretical-physics-colloquium-frank-verstraete/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/187949/theoretical-physics-colloquium-po-shen-shin/
+DTSTAMP:20251212T145450Z
+DTSTART:20250218T140000Z
+DTEND:20250218T150000Z
+SUMMARY:Theoretical Physics Colloquium: Po-Shen Shin
+LOCATION:741\\, Blackett Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/187949/theoretical-physics-colloquium-po-shen-shin/
+URL:https://www.imperial.ac.uk/events/187949/theoretical-physics-colloquium-po-shen-shin/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/187111/theoretical-physics-colloquium-guilherme-pimentel/
+DTSTAMP:20251212T145450Z
+DTSTART:20250211T143000Z
+DTEND:20250211T153000Z
+SUMMARY:Theoretical Physics Colloquium: Guilherme Pimentel – Decoding Primordial Fluctuations
+LOCATION:741\\, Blackett Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/187111/theoretical-physics-colloquium-guilherme-pimentel/
+URL:https://www.imperial.ac.uk/events/187111/theoretical-physics-colloquium-guilherme-pimentel/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/187105/theoretical-physics-colloquium-joe-conlon/
+DTSTAMP:20251212T145451Z
+DTSTART:20250128T143000Z
+DTEND:20250128T153000Z
+SUMMARY:Theoretical Physics Colloquium: Joe Conlon – String Theory and the First Half of the Universe
+LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/187105/theoretical-physics-colloquium-joe-conlon/
+URL:https://www.imperial.ac.uk/events/187105/theoretical-physics-colloquium-joe-conlon/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/187102/theoretical-physics-colloquium-katy-clough/
+DTSTAMP:20251212T145451Z
+DTSTART:20250121T143000Z
+DTEND:20250121T153000Z
+SUMMARY:Theoretical Physics Colloquium: Katy Clough – How to build a warp ship and then blow it up
+LOCATION:741\\, Blackett Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/187102/theoretical-physics-colloquium-katy-clough/
+URL:https://www.imperial.ac.uk/events/187102/theoretical-physics-colloquium-katy-clough/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/187100/theoretical-physics-colloquium-alejandra-castro/
+DTSTAMP:20251212T145451Z
+DTSTART:20250114T143000Z
+DTEND:20250114T153000Z
+SUMMARY:Theoretical Physics Colloquium: Alejandra Castro – Engineering Gravitational Theories
+LOCATION:741\\, Blackett Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/187100/theoretical-physics-colloquium-alejandra-castro/
+URL:https://www.imperial.ac.uk/events/187100/theoretical-physics-colloquium-alejandra-castro/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
