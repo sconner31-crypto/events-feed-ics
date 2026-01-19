@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/204439/abdus-salam-colloquium-geraldine-servant/
-DTSTAMP:20260118T082116Z
+DTSTAMP:20260119T082117Z
 DTSTART:20260317T143000Z
 DTEND:20260317T153000Z
 SUMMARY:Abdus Salam Colloquium:  Geraldine Servant
@@ -20,7 +20,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/204436/universe-community-colloquium-pedro-ferreira/
-DTSTAMP:20260118T082117Z
+DTSTAMP:20260119T082118Z
 DTSTART:20260303T143000Z
 DTEND:20260303T153000Z
 SUMMARY:Universe Community  Colloquium: Pedro Ferreira
@@ -35,7 +35,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/204432/abdus-salam-colloquium-donal-oconnell/
-DTSTAMP:20260118T082117Z
+DTSTAMP:20260119T082119Z
 DTSTART:20260224T143000Z
 DTEND:20260224T153000Z
 SUMMARY:Abdus Salam Colloquium: Donal O’Connell
@@ -50,7 +50,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/204430/abdus-salam-colloquium-beatrice-bonga/
-DTSTAMP:20260118T082117Z
+DTSTAMP:20260119T082119Z
 DTSTART:20260217T143000Z
 DTEND:20260217T153000Z
 SUMMARY:Abdus Salam Colloquium: Beatrice Bonga
@@ -65,7 +65,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/204427/abdus-salam-colloquium-tin-sulejmanpasic/
-DTSTAMP:20260118T082117Z
+DTSTAMP:20260119T082119Z
 DTSTART:20260203T143000Z
 DTEND:20260203T153000Z
 SUMMARY:Abdus Salam Colloquium: Tin Sulejmanpasic
@@ -80,7 +80,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/204421/abdus-salam-colloquium-evgeny-sobko-deep-learning-based-discovery-of-integrable-systems/
-DTSTAMP:20260118T082118Z
+DTSTAMP:20260119T082120Z
 DTSTART:20260127T143000Z
 DTEND:20260127T153000Z
 SUMMARY:Abdus Salam Colloquium: Evgeny Sobko – Deep Learning based discovery of Integrable Systems
@@ -95,7 +95,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/204419/abdus-salam-colloquium-monica-guica-from-black-holes-to-solvable-irrelevant-deformations-and-back/
-DTSTAMP:20260118T082118Z
+DTSTAMP:20260119T082121Z
 DTSTART:20260120T143000Z
 DTEND:20260120T153000Z
 SUMMARY:Abdus Salam Colloquium: Monica Guica – From black holes to solvable irrelevant deformations and back
@@ -110,7 +110,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/198487/abdus-salam-colloquium-aron-wall/
-DTSTAMP:20260118T082118Z
+DTSTAMP:20260119T082121Z
 DTSTART:20260113T143000Z
 DTEND:20260113T153000Z
 SUMMARY:Abdus Salam Colloquium: Aron Wall – How do qubits flow through spacetime?
@@ -125,7 +125,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/198501/abdus-salam-colloquium-axel-kleinschmidt/
-DTSTAMP:20260118T082118Z
+DTSTAMP:20260119T082121Z
 DTSTART:20251209T143000Z
 DTEND:20251209T153000Z
 SUMMARY:Abdus Salam Colloquium: Axel Kleinschmidt – String scattering old and new
@@ -140,7 +140,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/198497/abdus-salam-colloquium-emanuela-dimastrogiovanni/
-DTSTAMP:20260118T082119Z
+DTSTAMP:20260119T082122Z
 DTSTART:20251125T143000Z
 DTEND:20251125T153000Z
 SUMMARY:Abdus Salam Colloquium: Emanuela Dimastrogiovanni – From Quantum Fluctuations to Cosmic Ripples: Gravitational Waves from Inflation
@@ -155,7 +155,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/198493/abdus-salam-colloquium-livia-ferro/
-DTSTAMP:20260118T082119Z
+DTSTAMP:20260119T082122Z
 DTSTART:20251118T143000Z
 DTEND:20251118T153000Z
 SUMMARY:Abdus Salam Colloquium: Livia Ferro – From Geometry to Scattering Amplitudes
@@ -170,7 +170,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/198491/abdus-salam-colloquium-dionysios-anninos/
-DTSTAMP:20260118T082120Z
+DTSTAMP:20260119T082123Z
 DTSTART:20251111T143000Z
 DTEND:20251111T153000Z
 SUMMARY:Abdus Salam Colloquium:  Dionysios Anninos – Features of the Partition Function of a Λ > 0 Universe 
@@ -185,7 +185,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/198483/abdus-salam-colloquium-andrei-bernevig/
-DTSTAMP:20260118T082120Z
+DTSTAMP:20260119T082123Z
 DTSTART:20251028T143000Z
 DTEND:20251028T153000Z
 SUMMARY:Abdus Salam Colloquium: Cancelled
@@ -200,7 +200,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/198480/abdus-salam-colloquium-alessandra-silvestri/
-DTSTAMP:20260118T082120Z
+DTSTAMP:20260119T082123Z
 DTSTART:20251021T133000Z
 DTEND:20251021T143000Z
 SUMMARY:Abdus Salam Colloquium: Alessandra Silvestri – Gravity in the era of Stage IV Surveys
@@ -215,7 +215,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/198478/abdus-salam-colloquium-daniel-maitre/
-DTSTAMP:20260118T082121Z
+DTSTAMP:20260119T082124Z
 DTSTART:20251014T133000Z
 DTEND:20251014T143000Z
 SUMMARY:Abdus Salam Colloquium: Daniel Maitre – Neural Networks for Theoretical Calculations
@@ -230,7 +230,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/198470/abdus-salam-colloquium-andreas-karch/
-DTSTAMP:20260118T082121Z
+DTSTAMP:20260119T082124Z
 DTSTART:20251007T133000Z
 DTEND:20251007T143000Z
 SUMMARY:Abdus Salam Colloquium: Andreas Karch – Sharp Transitions for Subsystem Complexity
@@ -245,7 +245,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/198468/abdus-salam-colloquium-stefan-hollands/
-DTSTAMP:20260118T082121Z
+DTSTAMP:20260119T082124Z
 DTSTART:20250930T133000Z
 DTEND:20250930T143000Z
 SUMMARY:Abdus Salam Colloquium: Stefan Hollands – Negative Energy
@@ -260,7 +260,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/196173/theoretical-physics-colloquium-andrea-mitridate-exploring-the-gravitational-wave-universe-with-pulsar-timing-arrays/
-DTSTAMP:20260118T082121Z
+DTSTAMP:20260119T082125Z
 DTSTART:20250722T133000Z
 DTEND:20250722T143000Z
 SUMMARY:Universe Colloquium: Andrea Mitridate – Exploring the Gravitational Wave Universe with Pulsar Timing Arrays
@@ -275,7 +275,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/193062/theory-group-colloquium-renate-loll/
-DTSTAMP:20260118T082122Z
+DTSTAMP:20260119T082125Z
 DTSTART:20250701T133000Z
 DTEND:20250701T143000Z
 SUMMARY:Theoretical Physics Colloquium: Renate Loll – Causal Dynamical Triangulations: Lattice quantum gravity reloaded
@@ -290,7 +290,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/193058/theory-group-colloquium-harvey-reall/
-DTSTAMP:20260118T082122Z
+DTSTAMP:20260119T082125Z
 DTSTART:20250624T133000Z
 DTEND:20250624T143000Z
 SUMMARY:Theoretical Physics Colloquium: Harvey Reall – Third law of black hole mechanics for supersymmetric black holes
@@ -305,7 +305,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/193055/theory-group-colloquium-chiara-caprini/
-DTSTAMP:20260118T082122Z
+DTSTAMP:20260119T082126Z
 DTSTART:20250617T133000Z
 DTEND:20250617T143000Z
 SUMMARY:Theoretical Physics Colloquium: Chiara Caprini – Cosmology with LISA
@@ -320,7 +320,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/193051/theory-group-colloquium-victor-gorbenko/
-DTSTAMP:20260118T082122Z
+DTSTAMP:20260119T082126Z
 DTSTART:20250609T130000Z
 DTEND:20250609T143000Z
 SUMMARY:Theoretical Physics Colloquium: Victor Gorbenko – QCD flux tube in AdS
@@ -335,7 +335,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/193046/theory-group-colloquium-joao-penedones/
-DTSTAMP:20260118T082123Z
+DTSTAMP:20260119T082127Z
 DTSTART:20250603T133000Z
 DTEND:20250603T143000Z
 SUMMARY:Theoretical Physics Colloquium: Joao Penedones – Einstein gravity from a matrix integral
@@ -350,7 +350,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/193048/theory-group-colloquium-michael-douglas/
-DTSTAMP:20260118T082123Z
+DTSTAMP:20260119T082127Z
 DTSTART:20250528T093000Z
 DTEND:20250528T110000Z
 SUMMARY:Theoretical Physics Colloquium: Michael Douglas – AI in math and theoretical physics: status and prospects
@@ -365,7 +365,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/193043/universe-community-joint-colloquium-john-peacock/
-DTSTAMP:20260118T082123Z
+DTSTAMP:20260119T082129Z
 DTSTART:20250520T133000Z
 DTEND:20250520T143000Z
 SUMMARY:Universe Community Joint Colloquium: John Peacock
@@ -380,7 +380,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/193040/theoretical-physics-colloquium-carl-bender/
-DTSTAMP:20260118T082123Z
+DTSTAMP:20260119T082129Z
 DTSTART:20250513T133000Z
 DTEND:20250513T143000Z
 SUMMARY:Theoretical Physics Colloquium: Carl Bender – PT-symmetric quantum mechanics: Physics off the real axis
@@ -395,7 +395,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/193035/theoretical-physics-colloquium-claudia-de-rham/
-DTSTAMP:20260118T082124Z
+DTSTAMP:20260119T082131Z
 DTSTART:20250506T133000Z
 DTEND:20250506T143000Z
 SUMMARY:Theoretical Physics Colloquium: Claudia de Rham – Positivity in the Sky
@@ -410,7 +410,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/193033/theoretical-physics-colloquium-simon-catterall/
-DTSTAMP:20260118T082124Z
+DTSTAMP:20260119T082131Z
 DTSTART:20250429T133000Z
 DTEND:20250429T143000Z
 SUMMARY:Theoretical Physics Colloquium: Simon Catterall – Sneaking up on lattice chiral fermions
@@ -425,7 +425,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/187121/theoretical-physics-colloquium-thomas-hertog/
-DTSTAMP:20260118T082124Z
+DTSTAMP:20260119T082132Z
 DTSTART:20250318T143000Z
 DTEND:20250318T153000Z
 SUMMARY:Theoretical Physics Colloquium: Thomas Hertog – The no-boundary wave function 2.0
@@ -440,7 +440,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/191233/universe-community-colloquium-steven-longmore-star-formation-in-the-galactic-centre-and-across-cosmic-time/
-DTSTAMP:20260118T082125Z
+DTSTAMP:20260119T082133Z
 DTSTART:20250311T143000Z
 DTEND:20250311T153000Z
 SUMMARY:Universe Community Colloquium: Steven Longmore – Star formation in the Galactic Centre and across cosmic time
@@ -455,7 +455,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/187118/theoretical-physics-colloquium-andrew-mcleod/
-DTSTAMP:20260118T082125Z
+DTSTAMP:20260119T082133Z
 DTSTART:20250304T143000Z
 DTEND:20250304T153000Z
 SUMMARY:Theoretical Physics Colloquium: Andrew McLeod
@@ -470,7 +470,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/187115/theoretical-physics-colloquium-frank-verstraete/
-DTSTAMP:20260118T082125Z
+DTSTAMP:20260119T082134Z
 DTSTART:20250225T143000Z
 DTEND:20250225T153000Z
 SUMMARY:Theoretical Physics Colloquium: Frank Verstraete
@@ -485,7 +485,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/187949/theoretical-physics-colloquium-po-shen-shin/
-DTSTAMP:20260118T082125Z
+DTSTAMP:20260119T082134Z
 DTSTART:20250218T140000Z
 DTEND:20250218T150000Z
 SUMMARY:Theoretical Physics Colloquium: Po-Shen Shin
@@ -500,7 +500,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/187111/theoretical-physics-colloquium-guilherme-pimentel/
-DTSTAMP:20260118T082126Z
+DTSTAMP:20260119T082134Z
 DTSTART:20250211T143000Z
 DTEND:20250211T153000Z
 SUMMARY:Theoretical Physics Colloquium: Guilherme Pimentel – Decoding Primordial Fluctuations
@@ -515,7 +515,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/187105/theoretical-physics-colloquium-joe-conlon/
-DTSTAMP:20260118T082126Z
+DTSTAMP:20260119T082135Z
 DTSTART:20250128T143000Z
 DTEND:20250128T153000Z
 SUMMARY:Theoretical Physics Colloquium: Joe Conlon – String Theory and the First Half of the Universe
@@ -530,7 +530,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/187102/theoretical-physics-colloquium-katy-clough/
-DTSTAMP:20260118T082126Z
+DTSTAMP:20260119T082135Z
 DTSTART:20250121T143000Z
 DTEND:20250121T153000Z
 SUMMARY:Theoretical Physics Colloquium: Katy Clough – How to build a warp ship and then blow it up
@@ -545,7 +545,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/187100/theoretical-physics-colloquium-alejandra-castro/
-DTSTAMP:20260118T082126Z
+DTSTAMP:20260119T082136Z
 DTSTART:20250114T143000Z
 DTEND:20250114T153000Z
 SUMMARY:Theoretical Physics Colloquium: Alejandra Castro – Engineering Gravitational Theories
@@ -560,7 +560,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/182454/theory-group-seminar-rajesh-gopakumar/
-DTSTAMP:20260118T082127Z
+DTSTAMP:20260119T082136Z
 DTSTART:20241211T133000Z
 DTEND:20241211T143000Z
 SUMMARY:Theoretical Physics Colloquium: Rajesh Gopakumar – Deriving Gauge-String Duality
@@ -575,7 +575,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/182449/theory-group-seminar-alessandro-vichi/
-DTSTAMP:20260118T082127Z
+DTSTAMP:20260119T082137Z
 DTSTART:20241203T143000Z
 DTEND:20241203T153000Z
 SUMMARY:Theoretical Physics Colloquium: Alessandro Vichi – Mesons\\, Large N and Positivity
@@ -590,7 +590,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/182445/theory-group-seminar-tessa-baker/
-DTSTAMP:20260118T082127Z
+DTSTAMP:20260119T082137Z
 DTSTART:20241126T143000Z
 DTEND:20241126T153000Z
 SUMMARY:Universe Community Colloquium: Tessa Baker – Cosmology with Gravitational Wave Sirens
@@ -605,7 +605,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/182358/theory-group-seminar-scott-melville/
-DTSTAMP:20260118T082127Z
+DTSTAMP:20260119T082138Z
 DTSTART:20241119T143000Z
 DTEND:20241119T153000Z
 SUMMARY:Theoretical Physics Colloquium: Scott Melville- Scattering in de Sitter
@@ -620,7 +620,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/182355/theory-group-seminar-julio-parra/
-DTSTAMP:20260118T082128Z
+DTSTAMP:20260119T082138Z
 DTSTART:20241112T143000Z
 DTEND:20241112T153000Z
 SUMMARY:Theoretical Physics Colloquium: Julio Parra-Martinez – Tidal Love numbers and scattering amplitudes
@@ -635,7 +635,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/182352/theory-group-seminar-clare-burrage/
-DTSTAMP:20260118T082128Z
+DTSTAMP:20260119T082139Z
 DTSTART:20241105T143000Z
 DTEND:20241105T153000Z
 SUMMARY:Universe Community Colloquia Clare Burrage – The Dark Universe: from Cosmology to the Laboratory
@@ -650,7 +650,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/182345/theory-group-seminar-sakura-schafer-nameki/
-DTSTAMP:20260118T082128Z
+DTSTAMP:20260119T082139Z
 DTSTART:20241029T143000Z
 DTEND:20241029T153000Z
 SUMMARY:Theoretical Physics Colloquium: Sakura Schafer-Nameki – The Landau Paradigm for Categorical Symmetries
@@ -665,7 +665,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/182341/theory-group-seminar-andre-lukas/
-DTSTAMP:20260118T082129Z
+DTSTAMP:20260119T082140Z
 DTSTART:20241022T133000Z
 DTEND:20241022T143000Z
 SUMMARY:Theoretical Physics Colloquium: Andre Lukas – Machine Learning in Particle Theory and String Theory
@@ -680,7 +680,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/182214/theory-group-seminar-23/
-DTSTAMP:20260118T082129Z
+DTSTAMP:20260119T082140Z
 DTSTART:20241015T133000Z
 DTEND:20241015T143000Z
 SUMMARY:Theoretical Physics Colloquium: Curt von Keyserlingk
@@ -695,7 +695,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/182190/theory-group-seminar-22/
-DTSTAMP:20260118T082129Z
+DTSTAMP:20260119T082141Z
 DTSTART:20241008T130000Z
 DTEND:20241008T150000Z
 SUMMARY:Theoretical Physics Colloquium: Shota Komatsu
@@ -710,7 +710,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/179288/lectures-by-prof-massimo-porrati-2/
-DTSTAMP:20260118T082129Z
+DTSTAMP:20260119T082141Z
 DTSTART:20240709T133000Z
 DTEND:20240709T143000Z
 SUMMARY:Lectures by Prof. Massimo Porrati
@@ -725,7 +725,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/179226/lectures-by-prof-massimo-porrati/
-DTSTAMP:20260118T082130Z
+DTSTAMP:20260119T082142Z
 DTSTART:20240701T133000Z
 DTEND:20240701T143000Z
 SUMMARY:Lectures by Prof. Massimo Porrati
@@ -740,7 +740,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/179005/theoretical-physics-colloquium-sumer-jaitly-calvin-chen-tba/
-DTSTAMP:20260118T082130Z
+DTSTAMP:20260119T082142Z
 DTSTART:20240625T133000Z
 DTEND:20240625T143000Z
 SUMMARY:Theoretical Physics Colloquium: Sumer Jaitly\\, Calvin Chen-TBA
@@ -755,7 +755,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/178834/theoretical-physics-colloquium-hongliang-jiang-sadra-jazayeri-tba/
-DTSTAMP:20260118T082130Z
+DTSTAMP:20260119T082143Z
 DTSTART:20240618T133000Z
 DTEND:20240618T143000Z
 SUMMARY:Theoretical Physics Colloquium: Hongliang Jiang\\, Sadra Jazayeri-TBA
@@ -770,7 +770,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/178621/theoretical-physics-colloquium-karapet-mkrtchyan-guillermo-arias-tamargo-tba/
-DTSTAMP:20260118T082130Z
+DTSTAMP:20260119T082143Z
 DTSTART:20240611T120000Z
 DTEND:20240611T130000Z
 SUMMARY:Theoretical Physics Colloquium: Karapet Mkrtchyan\\, Guillermo Arias-Tamargo-TBA
@@ -785,7 +785,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/178072/theoretical-physics-colloquium-seyedmorteza-hosseini-sebastian-cespedes-tba/
-DTSTAMP:20260118T082131Z
+DTSTAMP:20260119T082144Z
 DTSTART:20240528T123000Z
 DTEND:20240528T133000Z
 SUMMARY:Theoretical Physics Colloquium: Seyedmorteza Hosseini\\, Sebastian Cespedes-TBA
@@ -800,7 +800,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/176930/theoretical-physics-colloquium-james-sparks-tba/
-DTSTAMP:20260118T082131Z
+DTSTAMP:20260119T082144Z
 DTSTART:20240521T123000Z
 DTEND:20240521T133000Z
 SUMMARY:Theoretical Physics Colloquium: James Sparks-Localization in supergravity
@@ -815,7 +815,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/176926/universe-community-seminar-paolo-creminelli-tba/
-DTSTAMP:20260118T082131Z
+DTSTAMP:20260119T082145Z
 DTSTART:20240514T133000Z
 DTEND:20240514T143000Z
 SUMMARY:Universe Community seminar: Paolo Creminelli-TBA
@@ -830,7 +830,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/176921/theoretical-physics-colloquium-maria-ubiali-tba/
-DTSTAMP:20260118T082132Z
+DTSTAMP:20260119T082145Z
 DTSTART:20240507T133000Z
 DTEND:20240507T143000Z
 SUMMARY:Theoretical Physics Colloquium: Maria Ubiali-Hide and seek: how new physics can hide in the proton
@@ -845,7 +845,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/176904/theoretical-physics-colloquium-william-coulton-novel-observational-signatures-of-early-universe-physics/
-DTSTAMP:20260118T082132Z
+DTSTAMP:20260119T082146Z
 DTSTART:20240430T133000Z
 DTEND:20240430T143000Z
 SUMMARY:Theoretical Physics Colloquium: William Coulton – Novel observational signatures of early Universe physics
@@ -860,7 +860,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/174904/theory-group-colloquium-tarek-anous-tba/
-DTSTAMP:20260118T082132Z
+DTSTAMP:20260119T082146Z
 DTSTART:20240319T143000Z
 DTEND:20240319T153000Z
 SUMMARY:Theoretical Physics Colloquium: Tarek Anous – Is spacetime a material?
@@ -875,7 +875,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/174863/theory-group-colloquium-edward-hardy-gravitational-waves-from-axion-strings/
-DTSTAMP:20260118T082132Z
+DTSTAMP:20260119T082148Z
 DTSTART:20240312T143000Z
 DTEND:20240312T153000Z
 SUMMARY:Theory group Colloquium: Edward Hardy – Gravitational waves from axion strings
@@ -890,7 +890,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/173551/theory-group-seminar-frank-schindler-crystalline-topological-matter-in-and-out-of-equilibrium/
-DTSTAMP:20260118T082133Z
+DTSTAMP:20260119T082149Z
 DTSTART:20240213T143000Z
 DTEND:20240213T153000Z
 SUMMARY:Theory group seminar: Frank Schindler – Crystalline topological matter in and out of equilibrium
@@ -905,7 +905,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/173170/theory-group-seminar-petr-kravchuk-higher-twist-regge-trajectories-in-cfts/
-DTSTAMP:20260118T082133Z
+DTSTAMP:20260119T082150Z
 DTSTART:20240206T143000Z
 DTEND:20240206T153000Z
 SUMMARY:Theory group seminar: Petr Kravchuk – Higher-twist Regge trajectories in CFTs
@@ -920,7 +920,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/171729/theory-group-seminar-neil-turok-tba/
-DTSTAMP:20260118T082133Z
+DTSTAMP:20260119T082150Z
 DTSTART:20240130T150000Z
 DTEND:20240130T160000Z
 SUMMARY:Theory group seminar: Neil Turok – TBA
@@ -935,7 +935,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/171726/theory-group-seminar-mark-mezei-quantum-chaos-and-gravity/
-DTSTAMP:20260118T082133Z
+DTSTAMP:20260119T082151Z
 DTSTART:20240123T150000Z
 DTEND:20240123T160000Z
 SUMMARY:Theory group seminar: Mark Mezei – Quantum chaos and gravity
@@ -950,7 +950,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/171716/theory-group-seminar-martin-taylor-the-black-hole-stability-problem/
-DTSTAMP:20260118T082133Z
+DTSTAMP:20260119T082151Z
 DTSTART:20240116T150000Z
 DTEND:20240116T160000Z
 SUMMARY:Universe Community seminar: Martin Taylor – The black hole stability problem
@@ -965,7 +965,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/171412/theory-group-seminar-roberto-emparan-tearing-down-spacetime-with-quantum-disentanglement/
-DTSTAMP:20260118T082134Z
+DTSTAMP:20260119T082152Z
 DTSTART:20240109T140000Z
 DTEND:20240109T150000Z
 SUMMARY:Theory group seminar: Roberto Emparan – Tearing down spacetime with quantum disentanglement
@@ -980,7 +980,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/166097/theory-group-seminar-claudia-de-rham-tba/
-DTSTAMP:20260118T082134Z
+DTSTAMP:20260119T082152Z
 DTSTART:20231212T140000Z
 DTEND:20231212T160000Z
 SUMMARY:Theory group seminar: Claudia de Rham – Positivity undeterred by Gravity
@@ -995,7 +995,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/166094/theory-group-seminar-luca-santoni-tba/
-DTSTAMP:20260118T082134Z
+DTSTAMP:20260119T082152Z
 DTSTART:20231128T143000Z
 DTEND:20231128T160000Z
 SUMMARY:Theory group seminar: Luca Santoni – Tidal deformability and symmetries of black holes
@@ -1010,7 +1010,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/166091/theory-group-seminar-thomas-m-mohaupt-tba/
-DTSTAMP:20260118T082134Z
+DTSTAMP:20260119T082153Z
 DTSTART:20231121T140000Z
 DTEND:20231121T160000Z
 SUMMARY:Theory group seminar: Thomas M. Mohaupt – T-duality across event horizons
@@ -1025,7 +1025,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/166088/theory-group-seminar-jorge-santos-tba/
-DTSTAMP:20260118T082135Z
+DTSTAMP:20260119T082153Z
 DTSTART:20231114T140000Z
 DTEND:20231114T160000Z
 SUMMARY:Theory group seminar: Jorge Santos – Static Black Binaries in de Sitter
@@ -1040,7 +1040,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/166085/theory-group-seminar-fiona-seibold-tba/
-DTSTAMP:20260118T082135Z
+DTSTAMP:20260119T082154Z
 DTSTART:20231107T140000Z
 DTEND:20231107T160000Z
 SUMMARY:Theory group seminar: Fiona Seibold – Worldsheet scattering for effective strings and compactified membranes
@@ -1055,7 +1055,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/166082/theory-group-seminar-mariana-carrillo-gonzalez-tba/
-DTSTAMP:20260118T082135Z
+DTSTAMP:20260119T082154Z
 DTSTART:20231031T140000Z
 DTEND:20231031T160000Z
 SUMMARY:Theory group seminar: Mariana Carrillo González – Double copy from momentum space to coordinate and Twistors space
@@ -1070,7 +1070,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/166863/theory-group-seminar-antony-valentini-tba/
-DTSTAMP:20260118T082135Z
+DTSTAMP:20260119T082155Z
 DTSTART:20231024T130000Z
 DTEND:20231024T150000Z
 SUMMARY:Theory group seminar: Antony Valentini – Beyond the Born rule in quantum gravity
@@ -1085,7 +1085,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/166079/theory-group-seminar-yolanda-lozano-tba/
-DTSTAMP:20260118T082136Z
+DTSTAMP:20260119T082155Z
 DTSTART:20231017T130000Z
 DTEND:20231017T150000Z
 SUMMARY:Theory group seminar: Yolanda Lozano – Prospects in AdS/CFT in low dimensions
@@ -1100,7 +1100,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/166076/theory-group-seminar-tim-adamo-tba/
-DTSTAMP:20260118T082136Z
+DTSTAMP:20260119T082156Z
 DTSTART:20231010T130000Z
 DTEND:20231010T150000Z
 SUMMARY:Theory group seminar: Tim Adamo – Progress in strong field scattering
@@ -1115,7 +1115,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/166073/theory-group-seminar-alessandro-sfondrini-tba/
-DTSTAMP:20260118T082136Z
+DTSTAMP:20260119T082156Z
 DTSTART:20231003T130000Z
 DTEND:20231003T150000Z
 SUMMARY:Theory group seminar: Alessandro Sfondrini – Understanding the AdS3/CFT2 correspondence with integrability
@@ -1130,7 +1130,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/163400/theory-group-seminar-gianmassimo-tasinato-a-large-%e2%88%a3%ce%b7%e2%88%a3-approach-to-single-field-inflation/
-DTSTAMP:20260118T082137Z
+DTSTAMP:20260119T082156Z
 DTSTART:20230620T093000Z
 DTEND:20230620T110000Z
 SUMMARY:Theory group seminar: Gianmassimo Tasinato – A large ∣η∣ approach to single field inflation
@@ -1145,7 +1145,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/156877/theory-group-seminar-rishi-mouland/
-DTSTAMP:20260118T082137Z
+DTSTAMP:20260119T082157Z
 DTSTART:20230613T121500Z
 DTEND:20230613T140000Z
 SUMMARY:Theory group seminar: Rishi Mouland – Black Holes in Quantum Mechanics
@@ -1160,7 +1160,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/162168/theory-group-seminar-jorge-e-santos/
-DTSTAMP:20260118T082137Z
+DTSTAMP:20260119T082157Z
 DTSTART:20230606T121500Z
 DTEND:20230606T140000Z
 SUMMARY:Theory group seminar: Jorge E. Santos (Cancelled)
@@ -1175,7 +1175,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/162164/theory-group-seminar-neil-turok/
-DTSTAMP:20260118T082138Z
+DTSTAMP:20260119T082158Z
 DTSTART:20230530T121500Z
 DTEND:20230530T140000Z
 SUMMARY:Theory group seminar: Neil Turok – CPT symmetry\\, analyticity and conformal symmetry: connecting particle physics to LCDM cosmology
@@ -1190,7 +1190,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/162160/theory-group-seminar-daniel-f-litim/
-DTSTAMP:20260118T082138Z
+DTSTAMP:20260119T082158Z
 DTSTART:20230523T121500Z
 DTEND:20230523T140000Z
 SUMMARY:Theory group seminar: Daniel F. Litim – Interacting UV fixed points in QFT and quantum gravity
@@ -1205,7 +1205,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/162156/theory-group-seminar-marco-scalisi/
-DTSTAMP:20260118T082138Z
+DTSTAMP:20260119T082159Z
 DTSTART:20230516T121500Z
 DTEND:20230516T140000Z
 SUMMARY:Theory group seminar: Marco Scalisi – The Scale of Supersymmetry Breaking and the Swampland
@@ -1220,7 +1220,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/156891/theory-group-seminar-laura-engelbrecht/
-DTSTAMP:20260118T082139Z
+DTSTAMP:20260119T082159Z
 DTSTART:20230502T121500Z
 DTEND:20230502T140000Z
 SUMMARY:Theory group seminar: Laura Johnson – Supersymmetric Massive Gravity
@@ -1235,7 +1235,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/158194/theory-group-seminar-luca-buoninfante/
-DTSTAMP:20260118T082139Z
+DTSTAMP:20260119T082200Z
 DTSTART:20230328T120000Z
 DTEND:20230328T140000Z
 SUMMARY:Theory group seminar: Luca Buoninfante – Decoupling limits in Renormalizable Quantum Gravity
@@ -1250,7 +1250,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/156887/theory-group-seminar-alessia-platania/
-DTSTAMP:20260118T082139Z
+DTSTAMP:20260119T082200Z
 DTSTART:20230314T131500Z
 DTEND:20230314T150000Z
 SUMMARY:Theory group seminar: Alessia Platania
@@ -1265,7 +1265,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/156881/theory-group-seminar-kimmo-kainulainen/
-DTSTAMP:20260118T082139Z
+DTSTAMP:20260119T082201Z
 DTSTART:20230307T131500Z
 DTEND:20230307T150000Z
 SUMMARY:Theory group seminar: Kimmo Kainulainen
@@ -1280,7 +1280,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/158189/theory-group-seminar-wenyuan-ai/
-DTSTAMP:20260118T082140Z
+DTSTAMP:20260119T082202Z
 DTSTART:20230213T121500Z
 DTEND:20230213T140000Z
 SUMMARY:Theory group seminar: Wenyuan Ai – Dissipation of oscillating homogeneous scalar condensates
@@ -1295,7 +1295,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/156271/theory-group-seminar-fay-dowker-causal-set-quantum-gravity-and-the-hard-problem-of-consciousness/
-DTSTAMP:20260118T082140Z
+DTSTAMP:20260119T082202Z
 DTSTART:20230207T131500Z
 DTEND:20230207T150000Z
 SUMMARY:Theory group seminar: Fay Dowker – Causal Set Quantum Gravity and the Hard Problem of Consciousness
@@ -1310,7 +1310,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/156873/theory-group-seminar-kento-osuga/
-DTSTAMP:20260118T082140Z
+DTSTAMP:20260119T082203Z
 DTSTART:20230202T130000Z
 DTEND:20230202T140000Z
 SUMMARY:Theory group seminar: Kento Osuga – Topological recursion\\, Airy structures\\, and its generalisations
@@ -1325,7 +1325,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/156868/theory-group-seminar-andreas-stergiou/
-DTSTAMP:20260118T082140Z
+DTSTAMP:20260119T082203Z
 DTSTART:20230124T131500Z
 DTEND:20230124T150000Z
 SUMMARY:Theory group seminar: Andreas Stergiou – Uncovering the Structure of the ε Expansion
@@ -1340,7 +1340,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/156864/theory-group-seminar-costis-papageorgakis/
-DTSTAMP:20260118T082141Z
+DTSTAMP:20260119T082204Z
 DTSTART:20230117T131500Z
 DTEND:20230117T150000Z
 SUMMARY:Theory group seminar: Costis Papageorgakis – Bootstrapping the 6D (2\\,0) theory with Reinforcement Learning
@@ -1355,7 +1355,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/155699/theory-group-seminar-steffen-gielen/
-DTSTAMP:20260118T082141Z
+DTSTAMP:20260119T082204Z
 DTSTART:20221206T131500Z
 DTEND:20221206T150000Z
 SUMMARY:Theory group seminar: Steffen Gielen – Unitarity and clock dependence in quantum cosmology
@@ -1370,7 +1370,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/155693/theory-group-seminar-oliver-janssen/
-DTSTAMP:20260118T082141Z
+DTSTAMP:20260119T082204Z
 DTSTART:20221129T131500Z
 DTEND:20221129T150000Z
 SUMMARY:Theory group seminar: Oliver Janssen – Positivity in EFTs with spontaneously broken boosts
@@ -1385,7 +1385,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/155685/theory-group-seminar-enrico-barausse/
-DTSTAMP:20260118T082142Z
+DTSTAMP:20260119T082205Z
 DTSTART:20221122T131500Z
 DTEND:20221122T150000Z
 SUMMARY:Theory group seminar: Enrico Barausse – Gravitational wave generation in effective field theories of dark energy
@@ -1400,7 +1400,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/155480/theory-group-seminar-david-tong-a-chern-simons-theory-for-the-north-atlantic-ocean/
-DTSTAMP:20260118T082142Z
+DTSTAMP:20260119T082206Z
 DTSTART:20221115T133000Z
 DTEND:20221115T150000Z
 SUMMARY:Theory group seminar: David Tong – A Chern-Simons Theory for the North Atlantic Ocean
@@ -1415,7 +1415,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/154912/theory-group-seminar-piotr-tourkine-non-perturbative-s-matrices-from-dispersive-iterations/
-DTSTAMP:20260118T082142Z
+DTSTAMP:20260119T082206Z
 DTSTART:20221108T133000Z
 DTEND:20221108T150000Z
 SUMMARY:Theory group seminar: Piotr Tourkine – Non-perturbative S-matrices from dispersive iterations
@@ -1430,7 +1430,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/154733/theory-group-seminar-cyril-creque-sarbinowski-chern-simons-gravity-and-neutrino-self-interactions/
-DTSTAMP:20260118T082143Z
+DTSTAMP:20260119T082207Z
 DTSTART:20221104T120000Z
 DTEND:20221104T130000Z
 SUMMARY:Theory group seminar: Cyril Creque-Sarbinowski – Chern-Simons Gravity and Neutrino Self-Interactions
@@ -1445,7 +1445,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/154317/theory-group-seminar-shai-m-chester-pure-supergravity-and-the-conformal-bootstrap/
-DTSTAMP:20260118T082143Z
+DTSTAMP:20260119T082207Z
 DTSTART:20221101T133000Z
 DTEND:20221101T150000Z
 SUMMARY:Theory group seminar: Shai M. Chester – Pure supergravity and the conformal bootstrap
@@ -1460,7 +1460,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/153958/theory-group-seminar-alexey-s-koshelev/
-DTSTAMP:20260118T082143Z
+DTSTAMP:20260119T082208Z
 DTSTART:20221025T123000Z
 DTEND:20221025T140000Z
 SUMMARY:Theory group seminar: Alexey S. Koshelev – Cosmological aspects of non-local infinite derivative gravity theories
@@ -1475,7 +1475,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/153294/theory-group-seminar-vasudev-shyam/
-DTSTAMP:20260118T082143Z
+DTSTAMP:20260119T082208Z
 DTSTART:20221018T123000Z
 DTEND:20221018T140000Z
 SUMMARY:Theory group seminar: Vasudev Shyam – dRGT mass and geometric diffusion
@@ -1490,7 +1490,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/153063/chiral-approach-to-massive-higher-spins/
-DTSTAMP:20260118T082143Z
+DTSTAMP:20260119T082209Z
 DTSTART:20221011T123000Z
 DTEND:20221011T140000Z
 SUMMARY:Theory group seminar: Alexander Ochirov – Chiral approach to massive higher spins
