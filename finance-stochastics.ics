@@ -4,14 +4,15 @@ PRODID:-//Imperial Events Feed//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/208900/abdus-salam-colloquium-miles-blencowe/
-DTSTAMP:20260925T073841Z
-DTSTART:20260623T133000Z
-DTEND:20260623T143000Z
-SUMMARY:Abdus Salam Colloquium – Miles Blencowe – Gravitationally Induced Decoherence
-LOCATION:539\\, Blackett Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/208900/abdus-salam-colloquium-miles-blencowe/
-URL:https://www.imperial.ac.uk/events/208900/abdus-salam-colloquium-miles-blencowe/
+UID:https://www.imperial.ac.uk/events/213941/finance-and-stochastics-seminar-shijia-jin/
+DTSTAMP:20260925T090504Z
+DTSTART:20261013T130000Z
+DTEND:20261013T140000Z
+SUMMARY:Finance and Stochastics Seminar – Shijia Jin
+LOCATION:140\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/213941/finance-and-stochastics-seminar-shijia-jin/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/213941/finance-and-stochastics-seminar-shijia-jin/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -19,14 +20,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/208887/abdus-salam-colloquium-andrei-bernevig-2/
-DTSTAMP:20260925T073842Z
-DTSTART:20260616T133000Z
-DTEND:20260616T143000Z
-SUMMARY:Abdus Salam Colloquium – Andrei Bernevig – The rise of moire systems 
-LOCATION:LT2\\, Blackett Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/208887/abdus-salam-colloquium-andrei-bernevig-2/
-URL:https://www.imperial.ac.uk/events/208887/abdus-salam-colloquium-andrei-bernevig-2/
+UID:https://www.imperial.ac.uk/events/213759/finance-and-stochastics-seminar-martin-herdegen/
+DTSTAMP:20260925T090505Z
+DTSTART:20261006T130000Z
+DTEND:20261006T140000Z
+SUMMARY:Finance and Stochastics Seminar – Martin Herdegen
+LOCATION:140\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/213759/finance-and-stochastics-seminar-martin-herdegen/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/213759/finance-and-stochastics-seminar-martin-herdegen/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -34,14 +36,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/210294/abdus-salam-colloquium-cumrun-vafa-string-theory-dark-dimension-and-the-fading-dark-sector/
-DTSTAMP:20260925T073843Z
-DTSTART:20260604T133000Z
-DTEND:20260604T143000Z
-SUMMARY:Abdus Salam Colloquium – Cumrun Vafa – String Theory\\, Dark Dimension\\, and the Fading Dark Sector
-LOCATION:1004\\, Blackett Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/210294/abdus-salam-colloquium-cumrun-vafa-string-theory-dark-dimension-and-the-fading-dark-sector/
-URL:https://www.imperial.ac.uk/events/210294/abdus-salam-colloquium-cumrun-vafa-string-theory-dark-dimension-and-the-fading-dark-sector/
+UID:https://www.imperial.ac.uk/events/213201/finance-and-stochastics-seminar-dorje-brody/
+DTSTAMP:20260925T090506Z
+DTSTART:20260929T130000Z
+DTEND:20260929T140000Z
+SUMMARY:Finance and Stochastics Seminar – Dorje Brody
+LOCATION:145\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/213201/finance-and-stochastics-seminar-dorje-brody/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/213201/finance-and-stochastics-seminar-dorje-brody/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -49,14 +52,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/208898/universe-community-colloquium-chris-clarkson/
-DTSTAMP:20260925T073844Z
-DTSTART:20260526T133000Z
-DTEND:20260526T143000Z
-SUMMARY:Universe Community Colloquium – Chris Clarkson
-LOCATION:1004\\, Blackett Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/208898/universe-community-colloquium-chris-clarkson/
-URL:https://www.imperial.ac.uk/events/208898/universe-community-colloquium-chris-clarkson/
+UID:https://www.imperial.ac.uk/events/211031/statistics-seminar-vicky-kouni-lamsade-lab-paris-dauphine/
+DTSTAMP:20260925T090506Z
+DTSTART:20260624T130000Z
+DTEND:20260624T140000Z
+SUMMARY:Statistics Seminar: Vicky Kouni (LAMSADE lab\, Paris Dauphine)
+LOCATION:140\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/211031/statistics-seminar-vicky-kouni-lamsade-lab-paris-dauphine/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/211031/statistics-seminar-vicky-kouni-lamsade-lab-paris-dauphine/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -64,14 +68,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/208895/abdus-salam-colloquium-susha-parameswaran/
-DTSTAMP:20260925T073844Z
-DTSTART:20260519T133000Z
-DTEND:20260519T143000Z
-SUMMARY:Abdus Salam Colloquium – Susha Parameswaran – On the Cosmological Constant and Dark Energy in String Theory
-LOCATION:1004\\, Blackett Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/208895/abdus-salam-colloquium-susha-parameswaran/
-URL:https://www.imperial.ac.uk/events/208895/abdus-salam-colloquium-susha-parameswaran/
+UID:https://www.imperial.ac.uk/events/202852/finance-and-stochastics-seminar-gudmund-pammer/
+DTSTAMP:20260925T090507Z
+DTSTART:20260317T140000Z
+DTEND:20260317T150000Z
+SUMMARY:Finance and Stochastics Seminar – Gudmund Pammer
+LOCATION:410\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/202852/finance-and-stochastics-seminar-gudmund-pammer/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/202852/finance-and-stochastics-seminar-gudmund-pammer/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -79,14 +84,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/208892/universe-community-colloquium-michele-vallisneri/
-DTSTAMP:20260925T073845Z
-DTSTART:20260514T133000Z
-DTEND:20260514T143000Z
-SUMMARY:Abdus Salam Colloquium – Michele Vallisneri – AI for LISA
-LOCATION:1004\\, Blackett Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/208892/universe-community-colloquium-michele-vallisneri/
-URL:https://www.imperial.ac.uk/events/208892/universe-community-colloquium-michele-vallisneri/
+UID:https://www.imperial.ac.uk/events/202848/finance-and-stochastics-seminar-stefan-ankirchner/
+DTSTAMP:20260925T090508Z
+DTSTART:20260303T140000Z
+DTEND:20260303T150000Z
+SUMMARY:Finance and Stochastics Seminar – Stefan Ankirchner
+LOCATION:410\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/202848/finance-and-stochastics-seminar-stefan-ankirchner/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/202848/finance-and-stochastics-seminar-stefan-ankirchner/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -94,14 +100,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/208890/universe-community-colloquium-hiranya-peiris/
-DTSTAMP:20260925T073845Z
-DTSTART:20260505T133000Z
-DTEND:20260505T143000Z
-SUMMARY:Universe Community Colloquium – Hiranya Peiris – Surfing the Big Data Wave
-LOCATION:1004\\, Blackett Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/208890/universe-community-colloquium-hiranya-peiris/
-URL:https://www.imperial.ac.uk/events/208890/universe-community-colloquium-hiranya-peiris/
+UID:https://www.imperial.ac.uk/events/202844/finance-and-stochastics-seminar-agostino-capponi/
+DTSTAMP:20260925T090509Z
+DTSTART:20260224T140000Z
+DTEND:20260224T150000Z
+SUMMARY:Finance and Stochastics Seminar – Agostino Capponi
+LOCATION:410\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/202844/finance-and-stochastics-seminar-agostino-capponi/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/202844/finance-and-stochastics-seminar-agostino-capponi/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -109,14 +116,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/207690/kellogg-stelle-memorial-conference/
-DTSTAMP:20260925T073845Z
-DTSTART:20260326T090000Z
-DTEND:20260326T170000Z
-SUMMARY:Kellogg Stelle Memorial Conference
-LOCATION:H308\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/207690/kellogg-stelle-memorial-conference/
-URL:https://www.imperial.ac.uk/events/207690/kellogg-stelle-memorial-conference/
+UID:https://www.imperial.ac.uk/events/202840/finance-and-stochastics-seminar-roxana-dumitrescu/
+DTSTAMP:20260925T090509Z
+DTSTART:20260217T140000Z
+DTEND:20260217T150000Z
+SUMMARY:Finance and Stochastics Seminar – Roxana Dumitrescu
+LOCATION:410\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/202840/finance-and-stochastics-seminar-roxana-dumitrescu/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/202840/finance-and-stochastics-seminar-roxana-dumitrescu/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -124,14 +132,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/207452/uk-cosmo/
-DTSTAMP:20260925T073846Z
-DTSTART:20260325T090000Z
-DTEND:20260325T170000Z
-SUMMARY:UK Cosmo
-LOCATION:LT 664\\, City and Guilds Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/207452/uk-cosmo/
-URL:https://www.imperial.ac.uk/events/207452/uk-cosmo/
+UID:https://www.imperial.ac.uk/events/202836/finance-and-stochastics-seminar-paolo-guasoni/
+DTSTAMP:20260925T090515Z
+DTSTART:20260210T140000Z
+DTEND:20260210T150000Z
+SUMMARY:Finance and Stochastics Seminar – Paolo Guasoni
+LOCATION:410\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/202836/finance-and-stochastics-seminar-paolo-guasoni/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/202836/finance-and-stochastics-seminar-paolo-guasoni/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -139,14 +148,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/204439/abdus-salam-colloquium-geraldine-servant/
-DTSTAMP:20260925T073846Z
-DTSTART:20260317T143000Z
-DTEND:20260317T153000Z
-SUMMARY:Abdus Salam Colloquium:  Geraldine Servant – Creating the Matter Antimatter Asymmetry of the Universe out of Higgs Bubble Collisions 
-LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/204439/abdus-salam-colloquium-geraldine-servant/
-URL:https://www.imperial.ac.uk/events/204439/abdus-salam-colloquium-geraldine-servant/
+UID:https://www.imperial.ac.uk/events/202832/finance-and-stochastics-seminar-leonard-wong/
+DTSTAMP:20260925T090516Z
+DTSTART:20260203T140000Z
+DTEND:20260203T150000Z
+SUMMARY:Finance and Stochastics Seminar – Ting-Kam Leonard Wong
+LOCATION:410\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/202832/finance-and-stochastics-seminar-leonard-wong/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/202832/finance-and-stochastics-seminar-leonard-wong/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -154,14 +164,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/204436/universe-community-colloquium-pedro-ferreira/
-DTSTAMP:20260925T073847Z
-DTSTART:20260303T143000Z
-DTEND:20260303T153000Z
-SUMMARY:Universe Community  Colloquium: Pedro Ferreira – The Battle Against the Underdetermination of Dark Energy
-LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/204436/universe-community-colloquium-pedro-ferreira/
-URL:https://www.imperial.ac.uk/events/204436/universe-community-colloquium-pedro-ferreira/
+UID:https://www.imperial.ac.uk/events/199613/finance-and-stochastics-seminar-johannes-wiesel/
+DTSTAMP:20260925T090517Z
+DTSTART:20260127T140000Z
+DTEND:20260127T150000Z
+SUMMARY:Finance and Stochastics Seminar – Johannes Wiesel
+LOCATION:410\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/199613/finance-and-stochastics-seminar-johannes-wiesel/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/199613/finance-and-stochastics-seminar-johannes-wiesel/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -169,14 +180,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/204432/abdus-salam-colloquium-donal-oconnell/
-DTSTAMP:20260925T073847Z
-DTSTART:20260224T143000Z
-DTEND:20260224T153000Z
-SUMMARY:Abdus Salam Colloquium: Donal O’Connell – Gravitational Radiation from Quantum Fields
-LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/204432/abdus-salam-colloquium-donal-oconnell/
-URL:https://www.imperial.ac.uk/events/204432/abdus-salam-colloquium-donal-oconnell/
+UID:https://www.imperial.ac.uk/events/199609/finance-and-stochastics-seminar-nicole-bauerle/
+DTSTAMP:20260925T090517Z
+DTSTART:20260120T140000Z
+DTEND:20260120T150000Z
+SUMMARY:Finance and Stochastics Seminar – Nicole Bäuerle
+LOCATION:410\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/199609/finance-and-stochastics-seminar-nicole-bauerle/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/199609/finance-and-stochastics-seminar-nicole-bauerle/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -184,14 +196,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/204430/abdus-salam-colloquium-beatrice-bonga/
-DTSTAMP:20260925T073848Z
-DTSTART:20260217T143000Z
-DTEND:20260217T153000Z
-SUMMARY:Abdus Salam Colloquium: Beatrice Bonga – Beyond the Basics: the Messy Reality of Gravitational Wave Ringdowns
-LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/204430/abdus-salam-colloquium-beatrice-bonga/
-URL:https://www.imperial.ac.uk/events/204430/abdus-salam-colloquium-beatrice-bonga/
+UID:https://www.imperial.ac.uk/events/199605/finance-and-stochastics-seminar-mathieu-lauriere/
+DTSTAMP:20260925T090517Z
+DTSTART:20260113T140000Z
+DTEND:20260113T150000Z
+SUMMARY:Finance and Stochastics Seminar – Mathieu Laurière
+LOCATION:410\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/199605/finance-and-stochastics-seminar-mathieu-lauriere/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/199605/finance-and-stochastics-seminar-mathieu-lauriere/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -199,14 +212,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/204427/abdus-salam-colloquium-tin-sulejmanpasic/
-DTSTAMP:20260925T073848Z
-DTSTART:20260203T143000Z
-DTEND:20260203T153000Z
-SUMMARY:Abdus Salam Colloquium: Tin Sulejmanpasic – Chasing the Photon
-LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/204427/abdus-salam-colloquium-tin-sulejmanpasic/
-URL:https://www.imperial.ac.uk/events/204427/abdus-salam-colloquium-tin-sulejmanpasic/
+UID:https://www.imperial.ac.uk/events/201930/finance-and-stochastics-seminar-jonathan-tam/
+DTSTAMP:20260925T090518Z
+DTSTART:20260106T140000Z
+DTEND:20260106T150000Z
+SUMMARY:Finance and Stochastics Seminar – Jonathan Tam
+LOCATION:410\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/201930/finance-and-stochastics-seminar-jonathan-tam/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/201930/finance-and-stochastics-seminar-jonathan-tam/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -214,14 +228,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/204421/abdus-salam-colloquium-evgeny-sobko-deep-learning-based-discovery-of-integrable-systems/
-DTSTAMP:20260925T073849Z
-DTSTART:20260127T143000Z
-DTEND:20260127T153000Z
-SUMMARY:Abdus Salam Colloquium: Evgeny Sobko – Deep Learning based discovery of Integrable Systems
-LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/204421/abdus-salam-colloquium-evgeny-sobko-deep-learning-based-discovery-of-integrable-systems/
-URL:https://www.imperial.ac.uk/events/204421/abdus-salam-colloquium-evgeny-sobko-deep-learning-based-discovery-of-integrable-systems/
+UID:https://www.imperial.ac.uk/events/197640/finance-and-stochastics-seminar-02-11-25/
+DTSTAMP:20260925T090518Z
+DTSTART:20251202T140000Z
+DTEND:20251202T150000Z
+SUMMARY:Finance and Stochastics Seminar – Çağın Ararat
+LOCATION:341\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/197640/finance-and-stochastics-seminar-02-11-25/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/197640/finance-and-stochastics-seminar-02-11-25/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -229,59 +244,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/204419/abdus-salam-colloquium-monica-guica-from-black-holes-to-solvable-irrelevant-deformations-and-back/
-DTSTAMP:20260925T073849Z
-DTSTART:20260120T143000Z
-DTEND:20260120T153000Z
-SUMMARY:Abdus Salam Colloquium: Monica Guica – From black holes to solvable irrelevant deformations and back
-LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/204419/abdus-salam-colloquium-monica-guica-from-black-holes-to-solvable-irrelevant-deformations-and-back/
-URL:https://www.imperial.ac.uk/events/204419/abdus-salam-colloquium-monica-guica-from-black-holes-to-solvable-irrelevant-deformations-and-back/
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/198487/abdus-salam-colloquium-aron-wall/
-DTSTAMP:20260925T073849Z
-DTSTART:20260113T143000Z
-DTEND:20260113T153000Z
-SUMMARY:Abdus Salam Colloquium: Aron Wall – How do qubits flow through spacetime?
-LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/198487/abdus-salam-colloquium-aron-wall/
-URL:https://www.imperial.ac.uk/events/198487/abdus-salam-colloquium-aron-wall/
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/198501/abdus-salam-colloquium-axel-kleinschmidt/
-DTSTAMP:20260925T073850Z
-DTSTART:20251209T143000Z
-DTEND:20251209T153000Z
-SUMMARY:Abdus Salam Colloquium: Axel Kleinschmidt – String scattering old and new
-LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/198501/abdus-salam-colloquium-axel-kleinschmidt/
-URL:https://www.imperial.ac.uk/events/198501/abdus-salam-colloquium-axel-kleinschmidt/
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/198497/abdus-salam-colloquium-emanuela-dimastrogiovanni/
-DTSTAMP:20260925T073850Z
+UID:https://www.imperial.ac.uk/events/197639/finance-and-stochastics-seminar-25-11-25/
+DTSTAMP:20260925T090519Z
 DTSTART:20251125T143000Z
 DTEND:20251125T153000Z
-SUMMARY:Abdus Salam Colloquium: Emanuela Dimastrogiovanni – From Quantum Fluctuations to Cosmic Ripples: Gravitational Waves from Inflation
-LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/198497/abdus-salam-colloquium-emanuela-dimastrogiovanni/
-URL:https://www.imperial.ac.uk/events/198497/abdus-salam-colloquium-emanuela-dimastrogiovanni/
+SUMMARY:Finance and Stochastics Seminar – Julius Bonart
+LOCATION:145\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/197639/finance-and-stochastics-seminar-25-11-25/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/197639/finance-and-stochastics-seminar-25-11-25/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -289,14 +260,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/198493/abdus-salam-colloquium-livia-ferro/
-DTSTAMP:20260925T073850Z
-DTSTART:20251118T143000Z
-DTEND:20251118T153000Z
-SUMMARY:Abdus Salam Colloquium: Livia Ferro – From Geometry to Scattering Amplitudes
-LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/198493/abdus-salam-colloquium-livia-ferro/
-URL:https://www.imperial.ac.uk/events/198493/abdus-salam-colloquium-livia-ferro/
+UID:https://www.imperial.ac.uk/events/197630/finance-and-stochastics-seminar-18-11-25/
+DTSTAMP:20260925T090519Z
+DTSTART:20251118T140000Z
+DTEND:20251118T150000Z
+SUMMARY:Finance and Stochastics Seminar – Anna De Crescenzo
+LOCATION:341\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/197630/finance-and-stochastics-seminar-18-11-25/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/197630/finance-and-stochastics-seminar-18-11-25/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -304,14 +276,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/198491/abdus-salam-colloquium-dionysios-anninos/
-DTSTAMP:20260925T073851Z
-DTSTART:20251111T143000Z
-DTEND:20251111T153000Z
-SUMMARY:Abdus Salam Colloquium:  Dionysios Anninos – Features of the Partition Function of a Λ > 0 Universe 
-LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/198491/abdus-salam-colloquium-dionysios-anninos/
-URL:https://www.imperial.ac.uk/events/198491/abdus-salam-colloquium-dionysios-anninos/
+UID:https://www.imperial.ac.uk/events/197625/finance-and-stochastics-seminar-11-11-25/
+DTSTAMP:20260925T090520Z
+DTSTART:20251111T140000Z
+DTEND:20251111T150000Z
+SUMMARY:Finance and Stochastics Seminar – Xinghua Zheng
+LOCATION:341\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/197625/finance-and-stochastics-seminar-11-11-25/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/197625/finance-and-stochastics-seminar-11-11-25/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -319,14 +292,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/198483/abdus-salam-colloquium-andrei-bernevig/
-DTSTAMP:20260925T073851Z
-DTSTART:20251028T143000Z
-DTEND:20251028T153000Z
-SUMMARY:Abdus Salam Colloquium: Cancelled
-LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/198483/abdus-salam-colloquium-andrei-bernevig/
-URL:https://www.imperial.ac.uk/events/198483/abdus-salam-colloquium-andrei-bernevig/
+UID:https://www.imperial.ac.uk/events/197626/finance-and-stochastics-seminar-04-11-25/
+DTSTAMP:20260925T090520Z
+DTSTART:20251104T140000Z
+DTEND:20251104T150000Z
+SUMMARY:Finance and Stochastics Seminar – Renyuan Xu
+LOCATION:341\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/197626/finance-and-stochastics-seminar-04-11-25/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/197626/finance-and-stochastics-seminar-04-11-25/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -334,14 +308,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/198480/abdus-salam-colloquium-alessandra-silvestri/
-DTSTAMP:20260925T073851Z
-DTSTART:20251021T133000Z
-DTEND:20251021T143000Z
-SUMMARY:Abdus Salam Colloquium: Alessandra Silvestri – Gravity in the era of Stage IV Surveys
-LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/198480/abdus-salam-colloquium-alessandra-silvestri/
-URL:https://www.imperial.ac.uk/events/198480/abdus-salam-colloquium-alessandra-silvestri/
+UID:https://www.imperial.ac.uk/events/197627/finance-and-stochastics-seminar-28-10-25/
+DTSTAMP:20260925T090520Z
+DTSTART:20251028T140000Z
+DTEND:20251028T150000Z
+SUMMARY:Finance and Stochastics Seminar – Steven Campbell
+LOCATION:341\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/197627/finance-and-stochastics-seminar-28-10-25/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/197627/finance-and-stochastics-seminar-28-10-25/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -349,14 +324,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/198478/abdus-salam-colloquium-daniel-maitre/
-DTSTAMP:20260925T073852Z
-DTSTART:20251014T133000Z
-DTEND:20251014T143000Z
-SUMMARY:Abdus Salam Colloquium: Daniel Maitre – Neural Networks for Theoretical Calculations
-LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/198478/abdus-salam-colloquium-daniel-maitre/
-URL:https://www.imperial.ac.uk/events/198478/abdus-salam-colloquium-daniel-maitre/
+UID:https://www.imperial.ac.uk/events/197628/finance-and-stochastics-seminar-21-10-25/
+DTSTAMP:20260925T090521Z
+DTSTART:20251021T130000Z
+DTEND:20251021T140000Z
+SUMMARY:Finance and Stochastics Seminar – Leandro Sánchez-Betancourt
+LOCATION:410\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/197628/finance-and-stochastics-seminar-21-10-25/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/197628/finance-and-stochastics-seminar-21-10-25/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -364,14 +340,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/198470/abdus-salam-colloquium-andreas-karch/
-DTSTAMP:20260925T073852Z
-DTSTART:20251007T133000Z
-DTEND:20251007T143000Z
-SUMMARY:Abdus Salam Colloquium: Andreas Karch – Sharp Transitions for Subsystem Complexity
-LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/198470/abdus-salam-colloquium-andreas-karch/
-URL:https://www.imperial.ac.uk/events/198470/abdus-salam-colloquium-andreas-karch/
+UID:https://www.imperial.ac.uk/events/197629/finance-and-stochastics-seminar-14-10-25/
+DTSTAMP:20260925T090521Z
+DTSTART:20251014T130000Z
+DTEND:20251014T140000Z
+SUMMARY:Finance and Stochastics Seminar – Christoph Reisinger
+LOCATION:642\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/197629/finance-and-stochastics-seminar-14-10-25/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/197629/finance-and-stochastics-seminar-14-10-25/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -379,14 +356,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/198468/abdus-salam-colloquium-stefan-hollands/
-DTSTAMP:20260925T073853Z
-DTSTART:20250930T133000Z
-DTEND:20250930T143000Z
-SUMMARY:Abdus Salam Colloquium: Stefan Hollands – Negative Energy
-LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/198468/abdus-salam-colloquium-stefan-hollands/
-URL:https://www.imperial.ac.uk/events/198468/abdus-salam-colloquium-stefan-hollands/
+UID:https://www.imperial.ac.uk/events/197623/finance-and-stochastics-seminar-07-10-25/
+DTSTAMP:20260925T090523Z
+DTSTART:20251007T130000Z
+DTEND:20251007T140000Z
+SUMMARY:Finance and Stochastics Seminar – Jingjie Zhang
+LOCATION:642\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/197623/finance-and-stochastics-seminar-07-10-25/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/197623/finance-and-stochastics-seminar-07-10-25/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -394,14 +372,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/196173/theoretical-physics-colloquium-andrea-mitridate-exploring-the-gravitational-wave-universe-with-pulsar-timing-arrays/
-DTSTAMP:20260925T073853Z
-DTSTART:20250722T133000Z
-DTEND:20250722T143000Z
-SUMMARY:Universe Colloquium: Andrea Mitridate – Exploring the Gravitational Wave Universe with Pulsar Timing Arrays
-LOCATION:1004\\, Blackett Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/196173/theoretical-physics-colloquium-andrea-mitridate-exploring-the-gravitational-wave-universe-with-pulsar-timing-arrays/
-URL:https://www.imperial.ac.uk/events/196173/theoretical-physics-colloquium-andrea-mitridate-exploring-the-gravitational-wave-universe-with-pulsar-timing-arrays/
+UID:https://www.imperial.ac.uk/events/197613/finance-and-stochastics-seminar-30-09-25/
+DTSTAMP:20260925T090524Z
+DTSTART:20250930T130000Z
+DTEND:20250930T140000Z
+SUMMARY:Finance and Stochastics Seminar – Yifan Jiang
+LOCATION:658\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/197613/finance-and-stochastics-seminar-30-09-25/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/197613/finance-and-stochastics-seminar-30-09-25/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -409,14 +388,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/193062/theory-group-colloquium-renate-loll/
-DTSTAMP:20260925T073853Z
-DTSTART:20250701T133000Z
-DTEND:20250701T143000Z
-SUMMARY:Theoretical Physics Colloquium: Renate Loll – Causal Dynamical Triangulations: Lattice quantum gravity reloaded
-LOCATION:LT 145\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/193062/theory-group-colloquium-renate-loll/
-URL:https://www.imperial.ac.uk/events/193062/theory-group-colloquium-renate-loll/
+UID:https://www.imperial.ac.uk/events/192022/finance-and-stochastics-seminar-filippo-beretta/
+DTSTAMP:20260925T090526Z
+DTSTART:20250401T100000Z
+DTEND:20250401T110000Z
+SUMMARY:Finance and Stochastics seminar – Filippo Beretta
+LOCATION:130\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/192022/finance-and-stochastics-seminar-filippo-beretta/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/192022/finance-and-stochastics-seminar-filippo-beretta/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -424,14 +404,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/193058/theory-group-colloquium-harvey-reall/
-DTSTAMP:20260925T073854Z
-DTSTART:20250624T133000Z
-DTEND:20250624T143000Z
-SUMMARY:Theoretical Physics Colloquium: Harvey Reall – Third law of black hole mechanics for supersymmetric black holes
-LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/193058/theory-group-colloquium-harvey-reall/
-URL:https://www.imperial.ac.uk/events/193058/theory-group-colloquium-harvey-reall/
+UID:https://www.imperial.ac.uk/events/188592/alexander_schied/
+DTSTAMP:20260925T090527Z
+DTSTART:20250325T110000Z
+DTEND:20250325T120000Z
+SUMMARY:Finance and Stochastics seminar – Alexander Schied
+LOCATION:131\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/188592/alexander_schied/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/188592/alexander_schied/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -439,14 +420,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/193055/theory-group-colloquium-chiara-caprini/
-DTSTAMP:20260925T073854Z
-DTSTART:20250617T133000Z
-DTEND:20250617T143000Z
-SUMMARY:Theoretical Physics Colloquium: Chiara Caprini – Cosmology with LISA
-LOCATION:711c\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/193055/theory-group-colloquium-chiara-caprini/
-URL:https://www.imperial.ac.uk/events/193055/theory-group-colloquium-chiara-caprini/
+UID:https://www.imperial.ac.uk/events/186359/john-armstrong/
+DTSTAMP:20260925T090527Z
+DTSTART:20250318T110000Z
+DTEND:20250318T120000Z
+SUMMARY:Finance and Stochastics seminar – John Armstrong
+LOCATION:130\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/186359/john-armstrong/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/186359/john-armstrong/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -454,14 +436,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/193051/theory-group-colloquium-victor-gorbenko/
-DTSTAMP:20260925T073855Z
-DTSTART:20250609T130000Z
-DTEND:20250609T143000Z
-SUMMARY:Theoretical Physics Colloquium: Victor Gorbenko – QCD flux tube in AdS
-LOCATION:1004\\, Blackett Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/193051/theory-group-colloquium-victor-gorbenko/
-URL:https://www.imperial.ac.uk/events/193051/theory-group-colloquium-victor-gorbenko/
+UID:https://www.imperial.ac.uk/events/186356/speaker_daniel_lacker/
+DTSTAMP:20260925T090528Z
+DTSTART:20250311T110000Z
+DTEND:20250311T120000Z
+SUMMARY:Finance and Stochastics seminar – Daniel Lacker
+LOCATION:130\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/186356/speaker_daniel_lacker/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/186356/speaker_daniel_lacker/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -469,14 +452,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/193046/theory-group-colloquium-joao-penedones/
-DTSTAMP:20260925T073855Z
-DTSTART:20250603T133000Z
-DTEND:20250603T143000Z
-SUMMARY:Theoretical Physics Colloquium: Joao Penedones – Einstein gravity from a matrix integral
-LOCATION:539\\, Blackett Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/193046/theory-group-colloquium-joao-penedones/
-URL:https://www.imperial.ac.uk/events/193046/theory-group-colloquium-joao-penedones/
+UID:https://www.imperial.ac.uk/events/186354/ulrich_horst/
+DTSTAMP:20260925T090528Z
+DTSTART:20250304T110000Z
+DTEND:20250304T120000Z
+SUMMARY:Finance and Stochastics seminar – Ulrich Horst
+LOCATION:130\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/186354/ulrich_horst/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/186354/ulrich_horst/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -484,14 +468,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/193048/theory-group-colloquium-michael-douglas/
-DTSTAMP:20260925T073855Z
-DTSTART:20250528T093000Z
-DTEND:20250528T110000Z
-SUMMARY:Theoretical Physics Colloquium: Michael Douglas – AI in math and theoretical physics: status and prospects
-LOCATION:1004\\, Blackett Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/193048/theory-group-colloquium-michael-douglas/
-URL:https://www.imperial.ac.uk/events/193048/theory-group-colloquium-michael-douglas/
+UID:https://www.imperial.ac.uk/events/186343/speaker_david-itkin/
+DTSTAMP:20260925T090528Z
+DTSTART:20250225T110000Z
+DTEND:20250225T120000Z
+SUMMARY:Finance and Stochastics seminar – David Itkin
+LOCATION:130\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/186343/speaker_david-itkin/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/186343/speaker_david-itkin/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -499,14 +484,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/193043/universe-community-joint-colloquium-john-peacock/
-DTSTAMP:20260925T073856Z
-DTSTART:20250520T133000Z
-DTEND:20250520T143000Z
-SUMMARY:Universe Community Joint Colloquium: John Peacock
-LOCATION:1004\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/193043/universe-community-joint-colloquium-john-peacock/
-URL:https://www.imperial.ac.uk/events/193043/universe-community-joint-colloquium-john-peacock/
+UID:https://www.imperial.ac.uk/events/186339/luciano_campi/
+DTSTAMP:20260925T090529Z
+DTSTART:20250218T110000Z
+DTEND:20250218T120000Z
+SUMMARY:Finance and Stochastics seminar – Luciano Campi
+LOCATION:130\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/186339/luciano_campi/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/186339/luciano_campi/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -514,14 +500,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/193040/theoretical-physics-colloquium-carl-bender/
-DTSTAMP:20260925T073856Z
-DTSTART:20250513T133000Z
-DTEND:20250513T143000Z
-SUMMARY:Theoretical Physics Colloquium: Carl Bender – PT-symmetric quantum mechanics: Physics off the real axis
-LOCATION:H140\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/193040/theoretical-physics-colloquium-carl-bender/
-URL:https://www.imperial.ac.uk/events/193040/theoretical-physics-colloquium-carl-bender/
+UID:https://www.imperial.ac.uk/events/186332/speaker_nazem_khan/
+DTSTAMP:20260925T090530Z
+DTSTART:20250211T110000Z
+DTEND:20250211T120000Z
+SUMMARY:Finance and Stochastics seminar – Nazem Khan
+LOCATION:130\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/186332/speaker_nazem_khan/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/186332/speaker_nazem_khan/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -529,14 +516,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/193035/theoretical-physics-colloquium-claudia-de-rham/
-DTSTAMP:20260925T073856Z
-DTSTART:20250506T133000Z
-DTEND:20250506T143000Z
-SUMMARY:Theoretical Physics Colloquium: Claudia de Rham – Positivity in the Sky
-LOCATION:H140\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/193035/theoretical-physics-colloquium-claudia-de-rham/
-URL:https://www.imperial.ac.uk/events/193035/theoretical-physics-colloquium-claudia-de-rham/
+UID:https://www.imperial.ac.uk/events/186345/bayesian-nonparametric-inference-in-a-mckean-vlasov-model/
+DTSTAMP:20260925T090531Z
+DTSTART:20250205T110000Z
+DTEND:20250205T120000Z
+SUMMARY:Mathematical Finance Seminar: Dr Kolyan Ray (Imperial)
+LOCATION:342\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/186345/bayesian-nonparametric-inference-in-a-mckean-vlasov-model/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/186345/bayesian-nonparametric-inference-in-a-mckean-vlasov-model/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -544,14 +532,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/193033/theoretical-physics-colloquium-simon-catterall/
-DTSTAMP:20260925T073857Z
-DTSTART:20250429T133000Z
-DTEND:20250429T143000Z
-SUMMARY:Theoretical Physics Colloquium: Simon Catterall – Sneaking up on lattice chiral fermions
-LOCATION:H140\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/193033/theoretical-physics-colloquium-simon-catterall/
-URL:https://www.imperial.ac.uk/events/193033/theoretical-physics-colloquium-simon-catterall/
+UID:https://www.imperial.ac.uk/events/188537/rough-differential-equations-for-volatility/
+DTSTAMP:20260925T090531Z
+DTSTART:20250130T120000Z
+DTEND:20250130T130000Z
+SUMMARY:Rough differential equations for volatility
+LOCATION:139\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/188537/rough-differential-equations-for-volatility/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/188537/rough-differential-equations-for-volatility/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -559,14 +548,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/187121/theoretical-physics-colloquium-thomas-hertog/
-DTSTAMP:20260925T073857Z
-DTSTART:20250318T143000Z
-DTEND:20250318T153000Z
-SUMMARY:Theoretical Physics Colloquium: Thomas Hertog – The no-boundary wave function 2.0
-LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/187121/theoretical-physics-colloquium-thomas-hertog/
-URL:https://www.imperial.ac.uk/events/187121/theoretical-physics-colloquium-thomas-hertog/
+UID:https://www.imperial.ac.uk/events/186327/stefanie-hesse/
+DTSTAMP:20260925T090533Z
+DTSTART:20250121T110000Z
+DTEND:20250121T120000Z
+SUMMARY:Common Noise by Random Measures:  Mean-Field Equilibria for Competitive Investment and Hedging
+LOCATION:130\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/186327/stefanie-hesse/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/186327/stefanie-hesse/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -574,14 +564,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/191233/universe-community-colloquium-steven-longmore-star-formation-in-the-galactic-centre-and-across-cosmic-time/
-DTSTAMP:20260925T073857Z
-DTSTART:20250311T143000Z
-DTEND:20250311T153000Z
-SUMMARY:Universe Community Colloquium: Steven Longmore – Star formation in the Galactic Centre and across cosmic time
-LOCATION:711 c\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/191233/universe-community-colloquium-steven-longmore-star-formation-in-the-galactic-centre-and-across-cosmic-time/
-URL:https://www.imperial.ac.uk/events/191233/universe-community-colloquium-steven-longmore-star-formation-in-the-galactic-centre-and-across-cosmic-time/
+UID:https://www.imperial.ac.uk/events/186320/dante_kalise_2025/
+DTSTAMP:20260925T090533Z
+DTSTART:20250114T110000Z
+DTEND:20250114T120000Z
+SUMMARY:Convex optimization methods for variational mean field games\, control\, and optimal transport
+LOCATION:130\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/186320/dante_kalise_2025/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/186320/dante_kalise_2025/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -589,14 +580,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/187118/theoretical-physics-colloquium-andrew-mcleod/
-DTSTAMP:20260925T073858Z
-DTSTART:20250304T143000Z
-DTEND:20250304T153000Z
-SUMMARY:Theoretical Physics Colloquium: Andrew McLeod
-LOCATION:741\\, Blackett Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/187118/theoretical-physics-colloquium-andrew-mcleod/
-URL:https://www.imperial.ac.uk/events/187118/theoretical-physics-colloquium-andrew-mcleod/
+UID:https://www.imperial.ac.uk/events/181470/david-promel-2024/
+DTSTAMP:20260925T090534Z
+DTSTART:20241126T110000Z
+DTEND:20241126T120000Z
+SUMMARY:Stochastic Volterra equations: well-posedness and supervised learning
+LOCATION:140\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/181470/david-promel-2024/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/181470/david-promel-2024/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -604,14 +596,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/187115/theoretical-physics-colloquium-frank-verstraete/
-DTSTAMP:20260925T073858Z
-DTSTART:20250225T143000Z
-DTEND:20250225T153000Z
-SUMMARY:Theoretical Physics Colloquium: Frank Verstraete
-LOCATION:741\\, Blackett Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/187115/theoretical-physics-colloquium-frank-verstraete/
-URL:https://www.imperial.ac.uk/events/187115/theoretical-physics-colloquium-frank-verstraete/
+UID:https://www.imperial.ac.uk/events/181463/paul-hager-2024/
+DTSTAMP:20260925T090534Z
+DTSTART:20241119T110000Z
+DTEND:20241119T120000Z
+SUMMARY:Paul Hager: Stochastic Control with Signatures
+LOCATION:140\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/181463/paul-hager-2024/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/181463/paul-hager-2024/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -619,14 +612,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/187949/theoretical-physics-colloquium-po-shen-shin/
-DTSTAMP:20260925T073859Z
-DTSTART:20250218T140000Z
-DTEND:20250218T150000Z
-SUMMARY:Theoretical Physics Colloquium: Po-Shen Shin
-LOCATION:741\\, Blackett Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/187949/theoretical-physics-colloquium-po-shen-shin/
-URL:https://www.imperial.ac.uk/events/187949/theoretical-physics-colloquium-po-shen-shin/
+UID:https://www.imperial.ac.uk/events/181460/marcus-wunsch-2024/
+DTSTAMP:20260925T090535Z
+DTSTART:20241112T110000Z
+DTEND:20241112T120000Z
+SUMMARY:Marcus Wunsch: How (not) to manage your portfolio with liquidity provision
+LOCATION:140\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/181460/marcus-wunsch-2024/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/181460/marcus-wunsch-2024/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -634,14 +628,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/187111/theoretical-physics-colloquium-guilherme-pimentel/
-DTSTAMP:20260925T073859Z
-DTSTART:20250211T143000Z
-DTEND:20250211T153000Z
-SUMMARY:Theoretical Physics Colloquium: Guilherme Pimentel – Decoding Primordial Fluctuations
-LOCATION:741\\, Blackett Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/187111/theoretical-physics-colloquium-guilherme-pimentel/
-URL:https://www.imperial.ac.uk/events/187111/theoretical-physics-colloquium-guilherme-pimentel/
+UID:https://www.imperial.ac.uk/events/181664/fatimah-rita-ahmadi-a-rendezvous-with-quantum-computing/
+DTSTAMP:20260925T090535Z
+DTSTART:20241029T110000Z
+DTEND:20241029T120000Z
+SUMMARY:Fatimah Rita Ahmadi: A Rendezvous with Quantum Computing
+LOCATION:140\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/181664/fatimah-rita-ahmadi-a-rendezvous-with-quantum-computing/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/181664/fatimah-rita-ahmadi-a-rendezvous-with-quantum-computing/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -649,14 +644,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/187105/theoretical-physics-colloquium-joe-conlon/
-DTSTAMP:20260925T073900Z
-DTSTART:20250128T143000Z
-DTEND:20250128T153000Z
-SUMMARY:Theoretical Physics Colloquium: Joe Conlon – String Theory and the First Half of the Universe
-LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/187105/theoretical-physics-colloquium-joe-conlon/
-URL:https://www.imperial.ac.uk/events/187105/theoretical-physics-colloquium-joe-conlon/
+UID:https://www.imperial.ac.uk/events/183748/alessandro-bondi-boundary-attainment-conditions-for-stochastic-volterra-processes/
+DTSTAMP:20260925T090535Z
+DTSTART:20241022T104500Z
+DTEND:20241022T113000Z
+SUMMARY:Alessandro Bondi: Boundary attainment conditions for stochastic Volterra processes
+LOCATION:140\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/183748/alessandro-bondi-boundary-attainment-conditions-for-stochastic-volterra-processes/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/183748/alessandro-bondi-boundary-attainment-conditions-for-stochastic-volterra-processes/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -664,14 +660,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/187102/theoretical-physics-colloquium-katy-clough/
-DTSTAMP:20260925T073900Z
-DTSTART:20250121T143000Z
-DTEND:20250121T153000Z
-SUMMARY:Theoretical Physics Colloquium: Katy Clough – How to build a warp ship and then blow it up
-LOCATION:741\\, Blackett Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/187102/theoretical-physics-colloquium-katy-clough/
-URL:https://www.imperial.ac.uk/events/187102/theoretical-physics-colloquium-katy-clough/
+UID:https://www.imperial.ac.uk/events/181453/eduardo-abi-jaber-2024/
+DTSTAMP:20260925T090536Z
+DTSTART:20241022T100000Z
+DTEND:20241022T104500Z
+SUMMARY:Eduardo Abi Jaber: Stochastic Fredholm equations: a passe-partout for propagator models and market impact
+LOCATION:140\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/181453/eduardo-abi-jaber-2024/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/181453/eduardo-abi-jaber-2024/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -679,14 +676,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/187100/theoretical-physics-colloquium-alejandra-castro/
-DTSTAMP:20260925T073901Z
-DTSTART:20250114T143000Z
-DTEND:20250114T153000Z
-SUMMARY:Theoretical Physics Colloquium: Alejandra Castro – Engineering Gravitational Theories
-LOCATION:741\\, Blackett Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/187100/theoretical-physics-colloquium-alejandra-castro/
-URL:https://www.imperial.ac.uk/events/187100/theoretical-physics-colloquium-alejandra-castro/
+UID:https://www.imperial.ac.uk/events/181450/yushi-hamaguchi-2024/
+DTSTAMP:20260925T090536Z
+DTSTART:20241015T100000Z
+DTEND:20241015T110000Z
+SUMMARY:Yushi Hamaguchi:  Markovian lifts of stochastic Volterra equations
+LOCATION:140\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/181450/yushi-hamaguchi-2024/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/181450/yushi-hamaguchi-2024/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -694,14 +692,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/182454/theory-group-seminar-rajesh-gopakumar/
-DTSTAMP:20260925T073901Z
-DTSTART:20241211T133000Z
-DTEND:20241211T143000Z
-SUMMARY:Theoretical Physics Colloquium: Rajesh Gopakumar – Deriving Gauge-String Duality
-LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/182454/theory-group-seminar-rajesh-gopakumar/
-URL:https://www.imperial.ac.uk/events/182454/theory-group-seminar-rajesh-gopakumar/
+UID:https://www.imperial.ac.uk/events/181444/faycal-drissi-2024/
+DTSTAMP:20260925T090537Z
+DTSTART:20241008T100000Z
+DTEND:20241008T110000Z
+SUMMARY:Fayçal Drissi: The microstructure of decentralised exchanges
+LOCATION:140\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/181444/faycal-drissi-2024/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/181444/faycal-drissi-2024/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -709,14 +708,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/182449/theory-group-seminar-alessandro-vichi/
-DTSTAMP:20260925T073902Z
-DTSTART:20241203T143000Z
-DTEND:20241203T153000Z
-SUMMARY:Theoretical Physics Colloquium: Alessandro Vichi – Mesons\\, Large N and Positivity
-LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/182449/theory-group-seminar-alessandro-vichi/
-URL:https://www.imperial.ac.uk/events/182449/theory-group-seminar-alessandro-vichi/
+UID:https://www.imperial.ac.uk/events/181436/alexander-kalinin-2024/
+DTSTAMP:20260925T090537Z
+DTSTART:20241001T100000Z
+DTEND:20241001T110000Z
+SUMMARY:Alexander Kalinin: The oriented derivative in stochastic calculus
+LOCATION:140\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/181436/alexander-kalinin-2024/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/181436/alexander-kalinin-2024/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -724,14 +724,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/182445/theory-group-seminar-tessa-baker/
-DTSTAMP:20260925T073902Z
-DTSTART:20241126T143000Z
-DTEND:20241126T153000Z
-SUMMARY:Universe Community Colloquium: Tessa Baker – Cosmology with Gravitational Wave Sirens
-LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/182445/theory-group-seminar-tessa-baker/
-URL:https://www.imperial.ac.uk/events/182445/theory-group-seminar-tessa-baker/
+UID:https://www.imperial.ac.uk/events/177194/paul-gassiat-gradient-flow-on-control-space-with-rough-initial-condition/
+DTSTAMP:20260925T090537Z
+DTSTART:20240521T130000Z
+DTEND:20240521T140000Z
+SUMMARY:Paul Gassiat: Gradient flow on control space with rough initial condition
+LOCATION:144\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/177194/paul-gassiat-gradient-flow-on-control-space-with-rough-initial-condition/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/177194/paul-gassiat-gradient-flow-on-control-space-with-rough-initial-condition/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -739,14 +740,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/182358/theory-group-seminar-scott-melville/
-DTSTAMP:20260925T073902Z
-DTSTART:20241119T143000Z
-DTEND:20241119T153000Z
-SUMMARY:Theoretical Physics Colloquium: Scott Melville- Scattering in de Sitter
-LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/182358/theory-group-seminar-scott-melville/
-URL:https://www.imperial.ac.uk/events/182358/theory-group-seminar-scott-melville/
+UID:https://www.imperial.ac.uk/events/177192/paolo-perrone-markov-categories-towards-user-friendly-probability-theory/
+DTSTAMP:20260925T090538Z
+DTSTART:20240514T130000Z
+DTEND:20240514T140000Z
+SUMMARY:Paolo Perrone: Markov categories: towards user-friendly probability theory
+LOCATION:144\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/177192/paolo-perrone-markov-categories-towards-user-friendly-probability-theory/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/177192/paolo-perrone-markov-categories-towards-user-friendly-probability-theory/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -754,14 +756,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/182355/theory-group-seminar-julio-parra/
-DTSTAMP:20260925T073903Z
-DTSTART:20241112T143000Z
-DTEND:20241112T153000Z
-SUMMARY:Theoretical Physics Colloquium: Julio Parra-Martinez – Tidal Love numbers and scattering amplitudes
-LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/182355/theory-group-seminar-julio-parra/
-URL:https://www.imperial.ac.uk/events/182355/theory-group-seminar-julio-parra/
+UID:https://www.imperial.ac.uk/events/177189/ruixun-zhang-a-quantitative-approach-to-optimal-impact-portfolios/
+DTSTAMP:20260925T090539Z
+DTSTART:20240507T100000Z
+DTEND:20240507T110000Z
+SUMMARY:Ruixun Zhang: A Quantitative Approach to Optimal Impact Portfolios
+LOCATION:130\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/177189/ruixun-zhang-a-quantitative-approach-to-optimal-impact-portfolios/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/177189/ruixun-zhang-a-quantitative-approach-to-optimal-impact-portfolios/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -769,14 +772,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/182352/theory-group-seminar-clare-burrage/
-DTSTAMP:20260925T073903Z
-DTSTART:20241105T143000Z
-DTEND:20241105T153000Z
-SUMMARY:Universe Community Colloquia Clare Burrage – The Dark Universe: from Cosmology to the Laboratory
-LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/182352/theory-group-seminar-clare-burrage/
-URL:https://www.imperial.ac.uk/events/182352/theory-group-seminar-clare-burrage/
+UID:https://www.imperial.ac.uk/events/172314/gudmund-pammer-eth-zurich-calibration-of-the-bass-local-volatility-model/
+DTSTAMP:20260925T090539Z
+DTSTART:20240430T140000Z
+DTEND:20240430T150000Z
+SUMMARY:Gudmund Pammer: Calibration of the Bass Local Volatility model
+LOCATION:139\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/172314/gudmund-pammer-eth-zurich-calibration-of-the-bass-local-volatility-model/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/172314/gudmund-pammer-eth-zurich-calibration-of-the-bass-local-volatility-model/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -784,14 +788,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/182345/theory-group-seminar-sakura-schafer-nameki/
-DTSTAMP:20260925T073904Z
-DTSTART:20241029T143000Z
-DTEND:20241029T153000Z
-SUMMARY:Theoretical Physics Colloquium: Sakura Schafer-Nameki – The Landau Paradigm for Categorical Symmetries
-LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/182345/theory-group-seminar-sakura-schafer-nameki/
-URL:https://www.imperial.ac.uk/events/182345/theory-group-seminar-sakura-schafer-nameki/
+UID:https://www.imperial.ac.uk/events/172320/serdar-yuksel-stochastic-control-with-partial-information-regularity-optimality-approximations-and-learning/
+DTSTAMP:20260925T090540Z
+DTSTART:20240430T130000Z
+DTEND:20240430T140000Z
+SUMMARY:Serdar Yüksel: Stochastic Control with Partial Information: Regularity\, Optimality\, Approximations\, and Learning
+LOCATION:139\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/172320/serdar-yuksel-stochastic-control-with-partial-information-regularity-optimality-approximations-and-learning/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/172320/serdar-yuksel-stochastic-control-with-partial-information-regularity-optimality-approximations-and-learning/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -799,14 +804,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/182341/theory-group-seminar-andre-lukas/
-DTSTAMP:20260925T073904Z
-DTSTART:20241022T133000Z
-DTEND:20241022T143000Z
-SUMMARY:Theoretical Physics Colloquium: Andre Lukas – Machine Learning in Particle Theory and String Theory
-LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/182341/theory-group-seminar-andre-lukas/
-URL:https://www.imperial.ac.uk/events/182341/theory-group-seminar-andre-lukas/
+UID:https://www.imperial.ac.uk/events/172317/clemens-possnig-reinforcement-learning-and-collusion/
+DTSTAMP:20260925T090540Z
+DTSTART:20240423T130000Z
+DTEND:20240423T140000Z
+SUMMARY:Clemens Possnig: Reinforcement Learning and Collusion
+LOCATION:140\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/172317/clemens-possnig-reinforcement-learning-and-collusion/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/172317/clemens-possnig-reinforcement-learning-and-collusion/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -814,14 +820,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/182214/theory-group-seminar-23/
-DTSTAMP:20260925T073904Z
-DTSTART:20241015T133000Z
-DTEND:20241015T143000Z
-SUMMARY:Theoretical Physics Colloquium: Curt von Keyserlingk
-LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/182214/theory-group-seminar-23/
-URL:https://www.imperial.ac.uk/events/182214/theory-group-seminar-23/
+UID:https://www.imperial.ac.uk/events/172311/marcel-nutz-columbia-university/
+DTSTAMP:20260925T090541Z
+DTSTART:20240409T130000Z
+DTEND:20240409T140000Z
+SUMMARY:Marcel Nutz (Columbia University)
+LOCATION:140\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/172311/marcel-nutz-columbia-university/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/172311/marcel-nutz-columbia-university/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -829,14 +836,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/182190/theory-group-seminar-22/
-DTSTAMP:20260925T073905Z
-DTSTART:20241008T130000Z
-DTEND:20241008T150000Z
-SUMMARY:Theoretical Physics Colloquium: Shota Komatsu
-LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/182190/theory-group-seminar-22/
-URL:https://www.imperial.ac.uk/events/182190/theory-group-seminar-22/
+UID:https://www.imperial.ac.uk/events/172308/jiacheng-zhang-itos-formula-for-flows-of-conditional-measures/
+DTSTAMP:20260925T090542Z
+DTSTART:20240326T140000Z
+DTEND:20240326T150000Z
+SUMMARY:Jiacheng Zhang: It\^o’s formula for flows of conditional measures
+LOCATION:140\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/172308/jiacheng-zhang-itos-formula-for-flows-of-conditional-measures/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/172308/jiacheng-zhang-itos-formula-for-flows-of-conditional-measures/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -844,14 +852,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/179288/lectures-by-prof-massimo-porrati-2/
-DTSTAMP:20260925T073905Z
-DTSTART:20240709T133000Z
-DTEND:20240709T143000Z
-SUMMARY:Lectures by Prof. Massimo Porrati
-LOCATION:BLKT 112 \\, Blackett Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/179288/lectures-by-prof-massimo-porrati-2/
-URL:https://www.imperial.ac.uk/events/179288/lectures-by-prof-massimo-porrati-2/
+UID:https://www.imperial.ac.uk/events/173435/joshua-mollner-northwestern-university/
+DTSTAMP:20260925T090542Z
+DTSTART:20240322T140000Z
+DTEND:20240322T150000Z
+SUMMARY:Joshua Mollner: Competition and Information Leakage
+LOCATION:144\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/173435/joshua-mollner-northwestern-university/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/173435/joshua-mollner-northwestern-university/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -859,14 +868,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/179226/lectures-by-prof-massimo-porrati/
-DTSTAMP:20260925T073905Z
-DTSTART:20240701T133000Z
-DTEND:20240701T143000Z
-SUMMARY:Lectures by Prof. Massimo Porrati
-LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/179226/lectures-by-prof-massimo-porrati/
-URL:https://www.imperial.ac.uk/events/179226/lectures-by-prof-massimo-porrati/
+UID:https://www.imperial.ac.uk/events/175224/niklas-weber-graph-neural-network-methods-for-systemic-risk-management/
+DTSTAMP:20260925T090543Z
+DTSTART:20240321T140000Z
+DTEND:20240321T150000Z
+SUMMARY:Niklas Weber: Graph Neural Network Methods for Systemic Risk Management
+LOCATION:130\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/175224/niklas-weber-graph-neural-network-methods-for-systemic-risk-management/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/175224/niklas-weber-graph-neural-network-methods-for-systemic-risk-management/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -874,14 +884,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/179005/theoretical-physics-colloquium-sumer-jaitly-calvin-chen-tba/
-DTSTAMP:20260925T073906Z
-DTSTART:20240625T133000Z
-DTEND:20240625T143000Z
-SUMMARY:Theoretical Physics Colloquium: Sumer Jaitly\\, Calvin Chen-TBA
-LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/179005/theoretical-physics-colloquium-sumer-jaitly-calvin-chen-tba/
-URL:https://www.imperial.ac.uk/events/179005/theoretical-physics-colloquium-sumer-jaitly-calvin-chen-tba/
+UID:https://www.imperial.ac.uk/events/172297/steven-campbell-columbia-university/
+DTSTAMP:20260925T090543Z
+DTSTART:20240312T140000Z
+DTEND:20240312T150000Z
+SUMMARY:Steven Campbell: Relative Arbitrage with Market Frictions
+LOCATION:140\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/172297/steven-campbell-columbia-university/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/172297/steven-campbell-columbia-university/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -889,14 +900,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/178834/theoretical-physics-colloquium-hongliang-jiang-sadra-jazayeri-tba/
-DTSTAMP:20260925T073907Z
-DTSTART:20240618T133000Z
-DTEND:20240618T143000Z
-SUMMARY:Theoretical Physics Colloquium: Hongliang Jiang\\, Sadra Jazayeri-TBA
-LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/178834/theoretical-physics-colloquium-hongliang-jiang-sadra-jazayeri-tba/
-URL:https://www.imperial.ac.uk/events/178834/theoretical-physics-colloquium-hongliang-jiang-sadra-jazayeri-tba/
+UID:https://www.imperial.ac.uk/events/172306/mete-soner-synchronization-games/
+DTSTAMP:20260925T090544Z
+DTSTART:20240305T140000Z
+DTEND:20240305T150000Z
+SUMMARY:Mete Soner: Synchronization Games
+LOCATION:140\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/172306/mete-soner-synchronization-games/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/172306/mete-soner-synchronization-games/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -904,14 +916,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/178621/theoretical-physics-colloquium-karapet-mkrtchyan-guillermo-arias-tamargo-tba/
-DTSTAMP:20260925T073907Z
-DTSTART:20240611T120000Z
-DTEND:20240611T130000Z
-SUMMARY:Theoretical Physics Colloquium: Karapet Mkrtchyan\\, Guillermo Arias-Tamargo-TBA
-LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/178621/theoretical-physics-colloquium-karapet-mkrtchyan-guillermo-arias-tamargo-tba/
-URL:https://www.imperial.ac.uk/events/178621/theoretical-physics-colloquium-karapet-mkrtchyan-guillermo-arias-tamargo-tba/
+UID:https://www.imperial.ac.uk/events/172293/yan-dolinsky-optimal-investment-with-a-noisy-signal-of-future-stock-prices/
+DTSTAMP:20260925T090544Z
+DTSTART:20240227T140000Z
+DTEND:20240227T150000Z
+SUMMARY:Yan Dolinsky: Optimal Investment with a Noisy Signal of Future Stock Prices
+LOCATION:140\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/172293/yan-dolinsky-optimal-investment-with-a-noisy-signal-of-future-stock-prices/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/172293/yan-dolinsky-optimal-investment-with-a-noisy-signal-of-future-stock-prices/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -919,14 +932,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/178072/theoretical-physics-colloquium-seyedmorteza-hosseini-sebastian-cespedes-tba/
-DTSTAMP:20260925T073907Z
-DTSTART:20240528T123000Z
-DTEND:20240528T133000Z
-SUMMARY:Theoretical Physics Colloquium: Seyedmorteza Hosseini\\, Sebastian Cespedes-TBA
-LOCATION:B1004\\, Blackett Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/178072/theoretical-physics-colloquium-seyedmorteza-hosseini-sebastian-cespedes-tba/
-URL:https://www.imperial.ac.uk/events/178072/theoretical-physics-colloquium-seyedmorteza-hosseini-sebastian-cespedes-tba/
+UID:https://www.imperial.ac.uk/events/172291/andy-allan-rough-stochastic-analysis-with-jumps/
+DTSTAMP:20260925T090545Z
+DTSTART:20240220T140000Z
+DTEND:20240220T150000Z
+SUMMARY:Andy Allan: Rough Stochastic Analysis with Jumps
+LOCATION:140\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/172291/andy-allan-rough-stochastic-analysis-with-jumps/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/172291/andy-allan-rough-stochastic-analysis-with-jumps/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -934,14 +948,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/176930/theoretical-physics-colloquium-james-sparks-tba/
-DTSTAMP:20260925T073908Z
-DTSTART:20240521T123000Z
-DTEND:20240521T133000Z
-SUMMARY:Theoretical Physics Colloquium: James Sparks-Localization in supergravity
-LOCATION:B1004\\, Blackett Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/176930/theoretical-physics-colloquium-james-sparks-tba/
-URL:https://www.imperial.ac.uk/events/176930/theoretical-physics-colloquium-james-sparks-tba/
+UID:https://www.imperial.ac.uk/events/172288/fabian-andsem-harang-on-the-signature-of-an-image/
+DTSTAMP:20260925T090545Z
+DTSTART:20240213T140000Z
+DTEND:20240213T150000Z
+SUMMARY:Fabian Andsem Harang: On the Signature of an Image
+LOCATION:140\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/172288/fabian-andsem-harang-on-the-signature-of-an-image/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/172288/fabian-andsem-harang-on-the-signature-of-an-image/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -949,14 +964,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/176926/universe-community-seminar-paolo-creminelli-tba/
-DTSTAMP:20260925T073908Z
-DTSTART:20240514T133000Z
-DTEND:20240514T143000Z
-SUMMARY:Universe Community seminar: Paolo Creminelli-TBA
-LOCATION:H130\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/176926/universe-community-seminar-paolo-creminelli-tba/
-URL:https://www.imperial.ac.uk/events/176926/universe-community-seminar-paolo-creminelli-tba/
+UID:https://www.imperial.ac.uk/events/172285/yifan-jiang-causal-distributionally-robust-optimization-duality-and-sensitivity/
+DTSTAMP:20260925T090546Z
+DTSTART:20240206T140000Z
+DTEND:20240206T150000Z
+SUMMARY:Yifan Jiang: Causal distributionally robust optimization – duality and sensitivity
+LOCATION:140\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/172285/yifan-jiang-causal-distributionally-robust-optimization-duality-and-sensitivity/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/172285/yifan-jiang-causal-distributionally-robust-optimization-duality-and-sensitivity/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -964,14 +980,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/176921/theoretical-physics-colloquium-maria-ubiali-tba/
-DTSTAMP:20260925T073908Z
-DTSTART:20240507T133000Z
-DTEND:20240507T143000Z
-SUMMARY:Theoretical Physics Colloquium: Maria Ubiali-Hide and seek: how new physics can hide in the proton
-LOCATION:B539\\, Blackett Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/176921/theoretical-physics-colloquium-maria-ubiali-tba/
-URL:https://www.imperial.ac.uk/events/176921/theoretical-physics-colloquium-maria-ubiali-tba/
+UID:https://www.imperial.ac.uk/events/172280/christian-bayer-efficient-markovian-approximations-of-rough-volatility-models/
+DTSTAMP:20260925T090546Z
+DTSTART:20240130T140000Z
+DTEND:20240130T150000Z
+SUMMARY:Christian Bayer: Efficient Markovian approximations of rough volatility models
+LOCATION:140\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/172280/christian-bayer-efficient-markovian-approximations-of-rough-volatility-models/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/172280/christian-bayer-efficient-markovian-approximations-of-rough-volatility-models/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -979,14 +996,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/176904/theoretical-physics-colloquium-william-coulton-novel-observational-signatures-of-early-universe-physics/
-DTSTAMP:20260925T073909Z
-DTSTART:20240430T133000Z
-DTEND:20240430T143000Z
-SUMMARY:Theoretical Physics Colloquium: William Coulton – Novel observational signatures of early Universe physics
-LOCATION:H130\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/176904/theoretical-physics-colloquium-william-coulton-novel-observational-signatures-of-early-universe-physics/
-URL:https://www.imperial.ac.uk/events/176904/theoretical-physics-colloquium-william-coulton-novel-observational-signatures-of-early-universe-physics/
+UID:https://www.imperial.ac.uk/events/171887/xiaocheng-li-uncertainty-quantification-via-nonparametric-approaches/
+DTSTAMP:20260925T090547Z
+DTSTART:20240123T140000Z
+DTEND:20240123T150000Z
+SUMMARY:Xiaocheng Li: Uncertainty Quantification via Nonparametric Approaches
+LOCATION:140\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/171887/xiaocheng-li-uncertainty-quantification-via-nonparametric-approaches/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/171887/xiaocheng-li-uncertainty-quantification-via-nonparametric-approaches/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -994,14 +1012,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/174904/theory-group-colloquium-tarek-anous-tba/
-DTSTAMP:20260925T073909Z
-DTSTART:20240319T143000Z
-DTEND:20240319T153000Z
-SUMMARY:Theoretical Physics Colloquium: Tarek Anous – Is spacetime a material?
-LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/174904/theory-group-colloquium-tarek-anous-tba/
-URL:https://www.imperial.ac.uk/events/174904/theory-group-colloquium-tarek-anous-tba/
+UID:https://www.imperial.ac.uk/events/171665/giorgia-callegaro-optimal-reinsurance-via-bsdes-in-a-partially-observable-contagion-model-with-jump-clusters-2/
+DTSTAMP:20260925T090547Z
+DTSTART:20240116T140000Z
+DTEND:20240116T150000Z
+SUMMARY:Giorgia Callegaro: Optimal reinsurance via BSDEs in a partially observable contagion model with jump clusters
+LOCATION:140\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/171665/giorgia-callegaro-optimal-reinsurance-via-bsdes-in-a-partially-observable-contagion-model-with-jump-clusters-2/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/171665/giorgia-callegaro-optimal-reinsurance-via-bsdes-in-a-partially-observable-contagion-model-with-jump-clusters-2/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -1009,104 +1028,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/174863/theory-group-colloquium-edward-hardy-gravitational-waves-from-axion-strings/
-DTSTAMP:20260925T073909Z
-DTSTART:20240312T143000Z
-DTEND:20240312T153000Z
-SUMMARY:Theory group Colloquium: Edward Hardy – Gravitational waves from axion strings
-LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/174863/theory-group-colloquium-edward-hardy-gravitational-waves-from-axion-strings/
-URL:https://www.imperial.ac.uk/events/174863/theory-group-colloquium-edward-hardy-gravitational-waves-from-axion-strings/
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/173551/theory-group-seminar-frank-schindler-crystalline-topological-matter-in-and-out-of-equilibrium/
-DTSTAMP:20260925T073910Z
-DTSTART:20240213T143000Z
-DTEND:20240213T153000Z
-SUMMARY:Theory group seminar: Frank Schindler – Crystalline topological matter in and out of equilibrium
-LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/173551/theory-group-seminar-frank-schindler-crystalline-topological-matter-in-and-out-of-equilibrium/
-URL:https://www.imperial.ac.uk/events/173551/theory-group-seminar-frank-schindler-crystalline-topological-matter-in-and-out-of-equilibrium/
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/173170/theory-group-seminar-petr-kravchuk-higher-twist-regge-trajectories-in-cfts/
-DTSTAMP:20260925T073910Z
-DTSTART:20240206T143000Z
-DTEND:20240206T153000Z
-SUMMARY:Theory group seminar: Petr Kravchuk – Higher-twist Regge trajectories in CFTs
-LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/173170/theory-group-seminar-petr-kravchuk-higher-twist-regge-trajectories-in-cfts/
-URL:https://www.imperial.ac.uk/events/173170/theory-group-seminar-petr-kravchuk-higher-twist-regge-trajectories-in-cfts/
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/171729/theory-group-seminar-neil-turok-tba/
-DTSTAMP:20260925T073911Z
-DTSTART:20240130T150000Z
-DTEND:20240130T160000Z
-SUMMARY:Theory group seminar: Neil Turok – TBA
-LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/171729/theory-group-seminar-neil-turok-tba/
-URL:https://www.imperial.ac.uk/events/171729/theory-group-seminar-neil-turok-tba/
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/171726/theory-group-seminar-mark-mezei-quantum-chaos-and-gravity/
-DTSTAMP:20260925T073911Z
-DTSTART:20240123T150000Z
-DTEND:20240123T160000Z
-SUMMARY:Theory group seminar: Mark Mezei – Quantum chaos and gravity
-LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/171726/theory-group-seminar-mark-mezei-quantum-chaos-and-gravity/
-URL:https://www.imperial.ac.uk/events/171726/theory-group-seminar-mark-mezei-quantum-chaos-and-gravity/
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/171716/theory-group-seminar-martin-taylor-the-black-hole-stability-problem/
-DTSTAMP:20260925T073911Z
-DTSTART:20240116T150000Z
-DTEND:20240116T160000Z
-SUMMARY:Universe Community seminar: Martin Taylor – The black hole stability problem
-LOCATION:H340\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/171716/theory-group-seminar-martin-taylor-the-black-hole-stability-problem/
-URL:https://www.imperial.ac.uk/events/171716/theory-group-seminar-martin-taylor-the-black-hole-stability-problem/
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/171412/theory-group-seminar-roberto-emparan-tearing-down-spacetime-with-quantum-disentanglement/
-DTSTAMP:20260925T073911Z
+UID:https://www.imperial.ac.uk/events/171338/thibaut-mastrolia-recent-advances-in-auction-markets-design-and-regulation-policies/
+DTSTAMP:20260925T090547Z
 DTSTART:20240109T140000Z
 DTEND:20240109T150000Z
-SUMMARY:Theory group seminar: Roberto Emparan – Tearing down spacetime with quantum disentanglement
-LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/171412/theory-group-seminar-roberto-emparan-tearing-down-spacetime-with-quantum-disentanglement/
-URL:https://www.imperial.ac.uk/events/171412/theory-group-seminar-roberto-emparan-tearing-down-spacetime-with-quantum-disentanglement/
+SUMMARY:Thibaut Mastrolia: Recent Advances in Auction Markets Design and Regulation Policies
+LOCATION:140\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/171338/thibaut-mastrolia-recent-advances-in-auction-markets-design-and-regulation-policies/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/171338/thibaut-mastrolia-recent-advances-in-auction-markets-design-and-regulation-policies/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -1114,14 +1044,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/166097/theory-group-seminar-claudia-de-rham-tba/
-DTSTAMP:20260925T073912Z
-DTSTART:20231212T140000Z
-DTEND:20231212T160000Z
-SUMMARY:Theory group seminar: Claudia de Rham – Positivity undeterred by Gravity
-LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/166097/theory-group-seminar-claudia-de-rham-tba/
-URL:https://www.imperial.ac.uk/events/166097/theory-group-seminar-claudia-de-rham-tba/
+UID:https://www.imperial.ac.uk/events/170339/anran-hu-mean-field-approximations-in-heterogeneous-n-player-games/
+DTSTAMP:20260925T090548Z
+DTSTART:20231205T140000Z
+DTEND:20231205T150000Z
+SUMMARY:Anran Hu: Mean-Field Approximations in Heterogeneous N-Player Games
+LOCATION:340\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/170339/anran-hu-mean-field-approximations-in-heterogeneous-n-player-games/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/170339/anran-hu-mean-field-approximations-in-heterogeneous-n-player-games/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -1129,14 +1060,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/166094/theory-group-seminar-luca-santoni-tba/
-DTSTAMP:20260925T073912Z
-DTSTART:20231128T143000Z
-DTEND:20231128T160000Z
-SUMMARY:Theory group seminar: Luca Santoni – Tidal deformability and symmetries of black holes
-LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/166094/theory-group-seminar-luca-santoni-tba/
-URL:https://www.imperial.ac.uk/events/166094/theory-group-seminar-luca-santoni-tba/
+UID:https://www.imperial.ac.uk/events/169350/bruno-bouchard-on-the-regularity-of-solutions-of-some-linear-path-dependent-parabolic-pdes/
+DTSTAMP:20260925T090548Z
+DTSTART:20231128T140000Z
+DTEND:20231128T150000Z
+SUMMARY:Bruno Bouchard: On the Regularity of Solutions of Some Linear Path-dependent Parabolic PDEs
+LOCATION:340\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/169350/bruno-bouchard-on-the-regularity-of-solutions-of-some-linear-path-dependent-parabolic-pdes/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/169350/bruno-bouchard-on-the-regularity-of-solutions-of-some-linear-path-dependent-parabolic-pdes/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -1144,14 +1076,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/166091/theory-group-seminar-thomas-m-mohaupt-tba/
-DTSTAMP:20260925T073912Z
+UID:https://www.imperial.ac.uk/events/169329/david-siska-automated-market-makers-designs/
+DTSTAMP:20260925T090549Z
 DTSTART:20231121T140000Z
-DTEND:20231121T160000Z
-SUMMARY:Theory group seminar: Thomas M. Mohaupt – T-duality across event horizons
-LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/166091/theory-group-seminar-thomas-m-mohaupt-tba/
-URL:https://www.imperial.ac.uk/events/166091/theory-group-seminar-thomas-m-mohaupt-tba/
+DTEND:20231121T150000Z
+SUMMARY:David Siska: Automated Market Makers Designs Beyond Constant Functions
+LOCATION:340\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/169329/david-siska-automated-market-makers-designs/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/169329/david-siska-automated-market-makers-designs/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -1159,14 +1092,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/166088/theory-group-seminar-jorge-santos-tba/
-DTSTAMP:20260925T073913Z
+UID:https://www.imperial.ac.uk/events/169021/philippe-bergault-liquidity-modelling-in-corporate-bond-markets/
+DTSTAMP:20260925T090550Z
 DTSTART:20231114T140000Z
-DTEND:20231114T160000Z
-SUMMARY:Theory group seminar: Jorge Santos – Static Black Binaries in de Sitter
-LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/166088/theory-group-seminar-jorge-santos-tba/
-URL:https://www.imperial.ac.uk/events/166088/theory-group-seminar-jorge-santos-tba/
+DTEND:20231114T150000Z
+SUMMARY:Philippe Bergault: Modeling liquidity in corporate bond markets: applications to price adjustments 
+LOCATION:340\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/169021/philippe-bergault-liquidity-modelling-in-corporate-bond-markets/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/169021/philippe-bergault-liquidity-modelling-in-corporate-bond-markets/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -1174,14 +1108,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/166085/theory-group-seminar-fiona-seibold-tba/
-DTSTAMP:20260925T073913Z
+UID:https://www.imperial.ac.uk/events/168582/yonatan-shadmi-fluid-and-diffusion-limits-in-queueing-and-communication-networks/
+DTSTAMP:20260925T090550Z
 DTSTART:20231107T140000Z
-DTEND:20231107T160000Z
-SUMMARY:Theory group seminar: Fiona Seibold – Worldsheet scattering for effective strings and compactified membranes
-LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/166085/theory-group-seminar-fiona-seibold-tba/
-URL:https://www.imperial.ac.uk/events/166085/theory-group-seminar-fiona-seibold-tba/
+DTEND:20231107T150000Z
+SUMMARY:Yonatan Shadmi: Fluid and diffusion limits in queueing and communication networks: measure-valued processes and robustness
+LOCATION:340\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/168582/yonatan-shadmi-fluid-and-diffusion-limits-in-queueing-and-communication-networks/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/168582/yonatan-shadmi-fluid-and-diffusion-limits-in-queueing-and-communication-networks/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -1189,14 +1124,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/166082/theory-group-seminar-mariana-carrillo-gonzalez-tba/
-DTSTAMP:20260925T073913Z
+UID:https://www.imperial.ac.uk/events/168232/alexander-merkel-optimal-adaptive-control-with-separable-drift-uncertainty/
+DTSTAMP:20260925T090551Z
 DTSTART:20231031T140000Z
-DTEND:20231031T160000Z
-SUMMARY:Theory group seminar: Mariana Carrillo González – Double copy from momentum space to coordinate and Twistors space
-LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/166082/theory-group-seminar-mariana-carrillo-gonzalez-tba/
-URL:https://www.imperial.ac.uk/events/166082/theory-group-seminar-mariana-carrillo-gonzalez-tba/
+DTEND:20231031T150000Z
+SUMMARY:Alexander Merkel: Optimal adaptive control with separable drift uncertainty
+LOCATION:340\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/168232/alexander-merkel-optimal-adaptive-control-with-separable-drift-uncertainty/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/168232/alexander-merkel-optimal-adaptive-control-with-separable-drift-uncertainty/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -1204,14 +1140,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/166863/theory-group-seminar-antony-valentini-tba/
-DTSTAMP:20260925T073914Z
+UID:https://www.imperial.ac.uk/events/167880/yufei-zhang-an-offline-learning-approach-to-propagator-models/
+DTSTAMP:20260925T090551Z
 DTSTART:20231024T130000Z
-DTEND:20231024T150000Z
-SUMMARY:Theory group seminar: Antony Valentini – Beyond the Born rule in quantum gravity
-LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/166863/theory-group-seminar-antony-valentini-tba/
-URL:https://www.imperial.ac.uk/events/166863/theory-group-seminar-antony-valentini-tba/
+DTEND:20231024T140000Z
+SUMMARY:Yufei Zhang: An offline learning approach to propagator models
+LOCATION:140\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/167880/yufei-zhang-an-offline-learning-approach-to-propagator-models/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/167880/yufei-zhang-an-offline-learning-approach-to-propagator-models/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -1219,29 +1156,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/166079/theory-group-seminar-yolanda-lozano-tba/
-DTSTAMP:20260925T073914Z
-DTSTART:20231017T130000Z
-DTEND:20231017T150000Z
-SUMMARY:Theory group seminar: Yolanda Lozano – Prospects in AdS/CFT in low dimensions
-LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/166079/theory-group-seminar-yolanda-lozano-tba/
-URL:https://www.imperial.ac.uk/events/166079/theory-group-seminar-yolanda-lozano-tba/
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/166076/theory-group-seminar-tim-adamo-tba/
-DTSTAMP:20260925T073914Z
+UID:https://www.imperial.ac.uk/events/166965/xin-guo-mathematics-of-transfer-learning-and-transfer-risk/
+DTSTAMP:20260925T090552Z
 DTSTART:20231010T130000Z
-DTEND:20231010T150000Z
-SUMMARY:Theory group seminar: Tim Adamo – Progress in strong field scattering
-LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/166076/theory-group-seminar-tim-adamo-tba/
-URL:https://www.imperial.ac.uk/events/166076/theory-group-seminar-tim-adamo-tba/
+DTEND:20231010T140000Z
+SUMMARY:Xin Guo: Optimization framework and sensitivity analysis of Stackelberg MFGs
+LOCATION:140\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/166965/xin-guo-mathematics-of-transfer-learning-and-transfer-risk/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/166965/xin-guo-mathematics-of-transfer-learning-and-transfer-risk/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -1249,14 +1172,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/166073/theory-group-seminar-alessandro-sfondrini-tba/
-DTSTAMP:20260925T073915Z
-DTSTART:20231003T130000Z
-DTEND:20231003T150000Z
-SUMMARY:Theory group seminar: Alessandro Sfondrini – Understanding the AdS3/CFT2 correspondence with integrability
-LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/166073/theory-group-seminar-alessandro-sfondrini-tba/
-URL:https://www.imperial.ac.uk/events/166073/theory-group-seminar-alessandro-sfondrini-tba/
+UID:https://www.imperial.ac.uk/events/166961/charles-albert-lehalle-tbd/
+DTSTAMP:20260925T090552Z
+DTSTART:20231004T140000Z
+DTEND:20231004T150000Z
+SUMMARY:Charles-Albert Lehalle: Survey of MFG papers in Finance\, with a focus on the Price Formation Process
+LOCATION:144\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/166961/charles-albert-lehalle-tbd/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/166961/charles-albert-lehalle-tbd/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -1264,14 +1188,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/163400/theory-group-seminar-gianmassimo-tasinato-a-large-%e2%88%a3%ce%b7%e2%88%a3-approach-to-single-field-inflation/
-DTSTAMP:20260925T073915Z
-DTSTART:20230620T093000Z
-DTEND:20230620T110000Z
-SUMMARY:Theory group seminar: Gianmassimo Tasinato – A large ∣η∣ approach to single field inflation
-LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/163400/theory-group-seminar-gianmassimo-tasinato-a-large-%e2%88%a3%ce%b7%e2%88%a3-approach-to-single-field-inflation/
-URL:https://www.imperial.ac.uk/events/163400/theory-group-seminar-gianmassimo-tasinato-a-large-%e2%88%a3%ce%b7%e2%88%a3-approach-to-single-field-inflation/
+UID:https://www.imperial.ac.uk/events/165622/overcoming-the-curse-of-dimensionality-from-nonlinear-monte-carlo-to-the-training-of-neural-networks-by-prof-dr-jentzen/
+DTSTAMP:20260925T090552Z
+DTSTART:20231004T130000Z
+DTEND:20231004T140000Z
+SUMMARY:Arnulf Jentzen: Overcoming the curse of dimensionality:  from nonlinear Monte Carlo to the training of neural networks
+LOCATION:144\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/165622/overcoming-the-curse-of-dimensionality-from-nonlinear-monte-carlo-to-the-training-of-neural-networks-by-prof-dr-jentzen/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/165622/overcoming-the-curse-of-dimensionality-from-nonlinear-monte-carlo-to-the-training-of-neural-networks-by-prof-dr-jentzen/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -1279,14 +1204,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/156877/theory-group-seminar-rishi-mouland/
-DTSTAMP:20260925T073915Z
-DTSTART:20230613T121500Z
-DTEND:20230613T140000Z
-SUMMARY:Theory group seminar: Rishi Mouland – Black Holes in Quantum Mechanics
-LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/156877/theory-group-seminar-rishi-mouland/
-URL:https://www.imperial.ac.uk/events/156877/theory-group-seminar-rishi-mouland/
+UID:https://www.imperial.ac.uk/events/165003/convex-stochastic-optimization-by-dr-perkkio/
+DTSTAMP:20260925T090553Z
+DTSTART:20230920T130000Z
+DTEND:20230920T140000Z
+SUMMARY:Convex Stochastic Optimization by Dr Perkkiö
+LOCATION:Ground Floor G03\, Weeks Hall\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/165003/convex-stochastic-optimization-by-dr-perkkio/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/165003/convex-stochastic-optimization-by-dr-perkkio/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -1294,14 +1220,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/162168/theory-group-seminar-jorge-e-santos/
-DTSTAMP:20260925T073916Z
-DTSTART:20230606T121500Z
-DTEND:20230606T140000Z
-SUMMARY:Theory group seminar: Jorge E. Santos (Cancelled)
-LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/162168/theory-group-seminar-jorge-e-santos/
-URL:https://www.imperial.ac.uk/events/162168/theory-group-seminar-jorge-e-santos/
+UID:https://www.imperial.ac.uk/events/162944/mikko-pakkanen-learning-to-remove-the-drift/
+DTSTAMP:20260925T090553Z
+DTSTART:20230531T133000Z
+DTEND:20230531T143000Z
+SUMMARY:Mikko Pakkanen: Learning to Remove the Drift
+LOCATION:Room 410\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/162944/mikko-pakkanen-learning-to-remove-the-drift/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/162944/mikko-pakkanen-learning-to-remove-the-drift/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -1309,14 +1236,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/162164/theory-group-seminar-neil-turok/
-DTSTAMP:20260925T073916Z
-DTSTART:20230530T121500Z
-DTEND:20230530T140000Z
-SUMMARY:Theory group seminar: Neil Turok – CPT symmetry\\, analyticity and conformal symmetry: connecting particle physics to LCDM cosmology
-LOCATION:LT3\\, Blackett Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/162164/theory-group-seminar-neil-turok/
-URL:https://www.imperial.ac.uk/events/162164/theory-group-seminar-neil-turok/
+UID:https://www.imperial.ac.uk/events/162200/scott-robertson-equilibrium-with-heterogenous-information-flows/
+DTSTAMP:20260925T090553Z
+DTSTART:20230511T130000Z
+DTEND:20230511T140000Z
+SUMMARY:Scott Robertson: Equilibrium with Heterogenous Information Flows
+LOCATION:140\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/162200/scott-robertson-equilibrium-with-heterogenous-information-flows/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/162200/scott-robertson-equilibrium-with-heterogenous-information-flows/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -1324,14 +1252,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/162160/theory-group-seminar-daniel-f-litim/
-DTSTAMP:20260925T073917Z
-DTSTART:20230523T121500Z
-DTEND:20230523T140000Z
-SUMMARY:Theory group seminar: Daniel F. Litim – Interacting UV fixed points in QFT and quantum gravity
-LOCATION:LT3\\, Blackett Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/162160/theory-group-seminar-daniel-f-litim/
-URL:https://www.imperial.ac.uk/events/162160/theory-group-seminar-daniel-f-litim/
+UID:https://www.imperial.ac.uk/events/161021/sam-cohen-stability-and-approximation-of-projection-filters/
+DTSTAMP:20260925T090554Z
+DTSTART:20230418T130000Z
+DTEND:20230418T140000Z
+SUMMARY:Sam Cohen: Stability and approximation of projection filters
+LOCATION:410\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/161021/sam-cohen-stability-and-approximation-of-projection-filters/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/161021/sam-cohen-stability-and-approximation-of-projection-filters/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -1339,44 +1268,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/162156/theory-group-seminar-marco-scalisi/
-DTSTAMP:20260925T073917Z
-DTSTART:20230516T121500Z
-DTEND:20230516T140000Z
-SUMMARY:Theory group seminar: Marco Scalisi – The Scale of Supersymmetry Breaking and the Swampland
-LOCATION:LT3\\, Blackett Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/162156/theory-group-seminar-marco-scalisi/
-URL:https://www.imperial.ac.uk/events/162156/theory-group-seminar-marco-scalisi/
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/156891/theory-group-seminar-laura-engelbrecht/
-DTSTAMP:20260925T073918Z
-DTSTART:20230502T121500Z
-DTEND:20230502T140000Z
-SUMMARY:Theory group seminar: Laura Johnson – Supersymmetric Massive Gravity
-LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/156891/theory-group-seminar-laura-engelbrecht/
-URL:https://www.imperial.ac.uk/events/156891/theory-group-seminar-laura-engelbrecht/
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/158194/theory-group-seminar-luca-buoninfante/
-DTSTAMP:20260925T073918Z
-DTSTART:20230328T120000Z
+UID:https://www.imperial.ac.uk/events/158029/eduardo-abi-jaber-tbd/
+DTSTAMP:20260925T090554Z
+DTSTART:20230328T130000Z
 DTEND:20230328T140000Z
-SUMMARY:Theory group seminar: Luca Buoninfante – Decoupling limits in Renormalizable Quantum Gravity
-LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/158194/theory-group-seminar-luca-buoninfante/
-URL:https://www.imperial.ac.uk/events/158194/theory-group-seminar-luca-buoninfante/
+SUMMARY:Eduardo Abi Jaber: From the Quintic model that jointly calibrates SPX/VIX to Sig-Volatility models
+LOCATION:410\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/158029/eduardo-abi-jaber-tbd/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/158029/eduardo-abi-jaber-tbd/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -1384,14 +1284,31 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/156887/theory-group-seminar-alessia-platania/
-DTSTAMP:20260925T073919Z
-DTSTART:20230314T131500Z
+UID:https://www.imperial.ac.uk/events/158024/alex-kalinin-tbd/
+DTSTAMP:20260925T090555Z
+DTSTART:20230321T140000Z
+DTEND:20230321T150000Z
+SUMMARY:Alex Kalinin: Derivation of unique stable solutions to McKean-Vlasov SDEs
+LOCATION:410\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/158024/alex-kalinin-tbd/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/158024/alex-kalinin-tbd/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/158021/julien-guyon-tbd/
+DTSTAMP:20260925T090555Z
+DTSTART:20230314T140000Z
 DTEND:20230314T150000Z
-SUMMARY:Theory group seminar: Alessia Platania
-LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/156887/theory-group-seminar-alessia-platania/
-URL:https://www.imperial.ac.uk/events/156887/theory-group-seminar-alessia-platania/
+SUMMARY:Julien Guyon: Volatility Is (Mostly) Path-Dependent
+LOCATION:410\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/158021/julien-guyon-tbd/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/158021/julien-guyon-tbd/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -1399,14 +1316,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/156881/theory-group-seminar-kimmo-kainulainen/
-DTSTAMP:20260925T073920Z
-DTSTART:20230307T131500Z
+UID:https://www.imperial.ac.uk/events/158018/oleksii-mostovyi-tbd/
+DTSTAMP:20260925T090556Z
+DTSTART:20230307T140000Z
 DTEND:20230307T150000Z
-SUMMARY:Theory group seminar: Kimmo Kainulainen
-LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/156881/theory-group-seminar-kimmo-kainulainen/
-URL:https://www.imperial.ac.uk/events/156881/theory-group-seminar-kimmo-kainulainen/
+SUMMARY:Oleksii Mostovyi: On the analyticity of the value function in optimal investment and stochastically dominant markets
+LOCATION:410\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/158018/oleksii-mostovyi-tbd/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/158018/oleksii-mostovyi-tbd/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -1414,14 +1332,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/158189/theory-group-seminar-wenyuan-ai/
-DTSTAMP:20260925T073920Z
-DTSTART:20230213T121500Z
-DTEND:20230213T140000Z
-SUMMARY:Theory group seminar: Wenyuan Ai – Dissipation of oscillating homogeneous scalar condensates
-LOCATION:B630\\, Blackett Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/158189/theory-group-seminar-wenyuan-ai/
-URL:https://www.imperial.ac.uk/events/158189/theory-group-seminar-wenyuan-ai/
+UID:https://www.imperial.ac.uk/events/158015/peter-bank-tbd/
+DTSTAMP:20260925T090556Z
+DTSTART:20230228T140000Z
+DTEND:20230228T150000Z
+SUMMARY:Peter Bank: A High-Frequency Model for Trading on Signals: Optimal Meyer Controls in a Self-Exciting Environment
+LOCATION:410\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/158015/peter-bank-tbd/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/158015/peter-bank-tbd/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -1429,14 +1348,31 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/156271/theory-group-seminar-fay-dowker-causal-set-quantum-gravity-and-the-hard-problem-of-consciousness/
-DTSTAMP:20260925T073920Z
-DTSTART:20230207T131500Z
+UID:https://www.imperial.ac.uk/events/158936/ofelia-bonesini-tbd/
+DTSTAMP:20260925T090557Z
+DTSTART:20230221T140000Z
+DTEND:20230221T150000Z
+SUMMARY:Ofelia Bonesini : Rough volatility\, path-dependent PDEs and weak rates of convergence
+LOCATION:410\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/158936/ofelia-bonesini-tbd/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/158936/ofelia-bonesini-tbd/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/158011/eyal-neuman-tbd/
+DTSTAMP:20260925T090558Z
+DTSTART:20230207T140000Z
 DTEND:20230207T150000Z
-SUMMARY:Theory group seminar: Fay Dowker – Causal Set Quantum Gravity and the Hard Problem of Consciousness
-LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/156271/theory-group-seminar-fay-dowker-causal-set-quantum-gravity-and-the-hard-problem-of-consciousness/
-URL:https://www.imperial.ac.uk/events/156271/theory-group-seminar-fay-dowker-causal-set-quantum-gravity-and-the-hard-problem-of-consciousness/
+SUMMARY:Eyal Neuman: Optimality in General Propagator with Signals
+LOCATION:410\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/158011/eyal-neuman-tbd/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/158011/eyal-neuman-tbd/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -1444,14 +1380,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/156873/theory-group-seminar-kento-osuga/
-DTSTAMP:20260925T073920Z
-DTSTART:20230202T130000Z
-DTEND:20230202T140000Z
-SUMMARY:Theory group seminar: Kento Osuga – Topological recursion\\, Airy structures\\, and its generalisations
-LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/156873/theory-group-seminar-kento-osuga/
-URL:https://www.imperial.ac.uk/events/156873/theory-group-seminar-kento-osuga/
+UID:https://www.imperial.ac.uk/events/156693/cecilia-aubrun-multivariate-quadratic-hawkes-to-model-price-changes-in-financial-time-series/
+DTSTAMP:20260925T090558Z
+DTSTART:20230131T140000Z
+DTEND:20230131T150000Z
+SUMMARY:Cecilia Aubrun:  Multivariate Quadratic Hawkes to Model Price Changes in Financial Time Series
+LOCATION:Room 410\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/156693/cecilia-aubrun-multivariate-quadratic-hawkes-to-model-price-changes-in-financial-time-series/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/156693/cecilia-aubrun-multivariate-quadratic-hawkes-to-model-price-changes-in-financial-time-series/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -1459,14 +1396,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/156868/theory-group-seminar-andreas-stergiou/
-DTSTAMP:20260925T073921Z
-DTSTART:20230124T131500Z
+UID:https://www.imperial.ac.uk/events/156542/alexander-barzykin-market-making-by-a-foreign-exchange-dealer/
+DTSTAMP:20260925T090559Z
+DTSTART:20230124T140000Z
 DTEND:20230124T150000Z
-SUMMARY:Theory group seminar: Andreas Stergiou – Uncovering the Structure of the ε Expansion
-LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/156868/theory-group-seminar-andreas-stergiou/
-URL:https://www.imperial.ac.uk/events/156868/theory-group-seminar-andreas-stergiou/
+SUMMARY:Alexander Barzykin: Market-Making by a Foreign Exchange Dealer
+LOCATION:Room 410\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/156542/alexander-barzykin-market-making-by-a-foreign-exchange-dealer/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/156542/alexander-barzykin-market-making-by-a-foreign-exchange-dealer/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -1474,14 +1412,15 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/156864/theory-group-seminar-costis-papageorgakis/
-DTSTAMP:20260925T073921Z
-DTSTART:20230117T131500Z
+UID:https://www.imperial.ac.uk/events/156580/wolfgang-stockinger-linear-convergence-of-a-policy-gradient-method-for-finite-horizon-continuous-time-stochastic-control-problems/
+DTSTAMP:20260925T090559Z
+DTSTART:20230117T140000Z
 DTEND:20230117T150000Z
-SUMMARY:Theory group seminar: Costis Papageorgakis – Bootstrapping the 6D (2\\,0) theory with Reinforcement Learning
-LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/156864/theory-group-seminar-costis-papageorgakis/
-URL:https://www.imperial.ac.uk/events/156864/theory-group-seminar-costis-papageorgakis/
+SUMMARY:Wolfgang Stockinger: Linear Convergence of a Policy Gradient Method for Finite Horizon Continuous Time Stochastic Control Problems
+LOCATION:Room 410\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/156580/wolfgang-stockinger-linear-convergence-of-a-policy-gradient-method-for-finite-horizon-continuous-time-stochastic-control-problems/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/156580/wolfgang-stockinger-linear-convergence-of-a-policy-gradient-method-for-finite-horizon-continuous-time-stochastic-control-problems/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -1489,14 +1428,175 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:https://www.imperial.ac.uk/events/155699/theory-group-seminar-steffen-gielen/
-DTSTAMP:20260925T073921Z
-DTSTART:20221206T131500Z
-DTEND:20221206T150000Z
-SUMMARY:Theory group seminar: Steffen Gielen – Unitarity and clock dependence in quantum cosmology
-LOCATION:H503\\, Huxley Building\\, South Kensington Campus\\, Imperial College London\\, London\\, SW7 2AZ\\, United Kingdom
-DESCRIPTION:More info: https://www.imperial.ac.uk/events/155699/theory-group-seminar-steffen-gielen/
-URL:https://www.imperial.ac.uk/events/155699/theory-group-seminar-steffen-gielen/
+UID:https://www.imperial.ac.uk/events/156573/christa-cuchiero-joint-calibration-of-spx-and-vix-options-with-signature-based-models/
+DTSTAMP:20260925T090600Z
+DTSTART:20230112T133000Z
+DTEND:20230112T143000Z
+SUMMARY:Christa Cuchiero:  Joint Calibration of SPX and VIX Options with Signature-Based Models
+LOCATION:Room 130 \, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/156573/christa-cuchiero-joint-calibration-of-spx-and-vix-options-with-signature-based-models/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/156573/christa-cuchiero-joint-calibration-of-spx-and-vix-options-with-signature-based-models/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/154203/julio-backhoff-tbd/
+DTSTAMP:20260925T090600Z
+DTSTART:20221220T133000Z
+DTEND:20221220T143000Z
+SUMMARY:Julio Backhoff: Quantitative Fundamental Theorem of Asset Pricing
+LOCATION:G03\, Weeks Hall\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/154203/julio-backhoff-tbd/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/154203/julio-backhoff-tbd/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/154193/ioannis-gasteratos-tbd/
+DTSTAMP:20260925T090600Z
+DTSTART:20221213T143000Z
+DTEND:20221213T153000Z
+SUMMARY:Ioannis Gasteratos: Large Deviations for Slow-Fast Systems Driven by Fractional Brownian Motion
+LOCATION:G03\, Weeks Hall\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/154193/ioannis-gasteratos-tbd/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/154193/ioannis-gasteratos-tbd/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/154198/andreas-sojmark-tbd/
+DTSTAMP:20260925T090600Z
+DTSTART:20221213T133000Z
+DTEND:20221213T143000Z
+SUMMARY:Andreas Søjmark: Convergence of Stochastic Integrals in Skorokhod Space and some Applications in Finance and Econometrics
+LOCATION:G03\, Weeks Hall\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/154198/andreas-sojmark-tbd/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/154198/andreas-sojmark-tbd/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/154186/martin-keller-ressel-tbd/
+DTSTAMP:20260925T090601Z
+DTSTART:20221129T133000Z
+DTEND:20221129T143000Z
+SUMMARY:Martin Keller-Ressel: Bartlett’s Delta revisited: Variance-optimal hedging in the lognormal SABR and in the rough Bergomi model
+LOCATION:G03\, Weeks Hall\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/154186/martin-keller-ressel-tbd/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/154186/martin-keller-ressel-tbd/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/154180/lukas-szpruch-tbd/
+DTSTAMP:20260925T090601Z
+DTSTART:20221122T133000Z
+DTEND:20221122T143000Z
+SUMMARY:Lukasz Szpruch: Exploration-exploitation trade-off for continuous-time episodic reinforcement learning
+LOCATION:G03\, Weeks Hall\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/154180/lukas-szpruch-tbd/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/154180/lukas-szpruch-tbd/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/154888/zi-li-dynamic-inventory-management-with-mean-field-competition/
+DTSTAMP:20260925T090602Z
+DTSTART:20221115T133000Z
+DTEND:20221115T143000Z
+SUMMARY:Zi Li: Dynamic Inventory Management with Mean-Field Competition
+LOCATION:G03\, Weeks Hall\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/154888/zi-li-dynamic-inventory-management-with-mean-field-competition/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/154888/zi-li-dynamic-inventory-management-with-mean-field-competition/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/154157/henry-chiu-tbd/
+DTSTAMP:20260925T090602Z
+DTSTART:20221101T133000Z
+DTEND:20221101T143000Z
+SUMMARY:Henry Chiu: A model-free approach to continuous-time finance
+LOCATION:G03\, Weeks Hall\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/154157/henry-chiu-tbd/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/154157/henry-chiu-tbd/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/154092/lukas-gonon-detecting-asset-price-bubbles-using-deep-learning/
+DTSTAMP:20260925T090603Z
+DTSTART:20221025T123000Z
+DTEND:20221025T133000Z
+SUMMARY:Lukas Gonon: Detecting Asset Price Bubbles using Deep Learning
+LOCATION:G03\, Weeks Hall\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/154092/lukas-gonon-detecting-asset-price-bubbles-using-deep-learning/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/154092/lukas-gonon-detecting-asset-price-bubbles-using-deep-learning/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/153650/david-itkin-ergodic-robust-maximization-of-asymptotic-growth-in-the-presence-of-stochastic-volatility/
+DTSTAMP:20260925T090604Z
+DTSTART:20221018T123000Z
+DTEND:20221018T133000Z
+SUMMARY:David Itkin: Ergodic Robust Maximization of Asymptotic Growth in the Presence of Stochastic Volatility
+LOCATION:G03\, Weeks Hall\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/153650/david-itkin-ergodic-robust-maximization-of-asymptotic-growth-in-the-presence-of-stochastic-volatility/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/153650/david-itkin-ergodic-robust-maximization-of-asymptotic-growth-in-the-presence-of-stochastic-volatility/
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.imperial.ac.uk/events/152582/kevin-webster-pandl/
+DTSTAMP:20260925T090604Z
+DTSTART:20221011T123000Z
+DTEND:20221011T133000Z
+SUMMARY:Kevin Webster: How Price Impact Distorts Accounting P&L
+LOCATION:Room 144\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
+DESCRIPTION:More info: https://www.imperial.ac.uk/events/152582/kevin-webster-pandl/
+CATEGORIES:Seminar
+URL:https://www.imperial.ac.uk/events/152582/kevin-webster-pandl/
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
