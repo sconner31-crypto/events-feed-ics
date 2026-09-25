@@ -5,7 +5,9 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/213941/finance-and-stochastics-seminar-shijia-jin/
-DTSTAMP:20260925T092415Z
+DTSTAMP:20260925T093647Z
+DTSTART;TZID=Europe/London:20261013T130000
+DTEND;TZID=Europe/London:20261013T140000
 SUMMARY:Finance and Stochastics Seminar – Shijia Jin
 LOCATION:140\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/213941/finance-and-stochastics-seminar-shijia-jin/
@@ -19,7 +21,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/213759/finance-and-stochastics-seminar-martin-herdegen/
-DTSTAMP:20260925T092415Z
+DTSTAMP:20260925T093647Z
+DTSTART;TZID=Europe/London:20261006T130000
+DTEND;TZID=Europe/London:20261006T140000
 SUMMARY:Finance and Stochastics Seminar – Martin Herdegen
 LOCATION:140\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/213759/finance-and-stochastics-seminar-martin-herdegen/
@@ -33,7 +37,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/213201/finance-and-stochastics-seminar-dorje-brody/
-DTSTAMP:20260925T092416Z
+DTSTAMP:20260925T093648Z
+DTSTART;TZID=Europe/London:20260929T130000
+DTEND;TZID=Europe/London:20260929T140000
 SUMMARY:Finance and Stochastics Seminar – Dorje Brody
 LOCATION:145\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/213201/finance-and-stochastics-seminar-dorje-brody/
@@ -47,7 +53,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/211031/statistics-seminar-vicky-kouni-lamsade-lab-paris-dauphine/
-DTSTAMP:20260925T092416Z
+DTSTAMP:20260925T093648Z
+DTSTART;TZID=Europe/London:20260624T130000
+DTEND;TZID=Europe/London:20260624T140000
 SUMMARY:Statistics Seminar: Vicky Kouni (LAMSADE lab\, Paris Dauphine)
 LOCATION:140\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/211031/statistics-seminar-vicky-kouni-lamsade-lab-paris-dauphine/
@@ -61,7 +69,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/202852/finance-and-stochastics-seminar-gudmund-pammer/
-DTSTAMP:20260925T092417Z
+DTSTAMP:20260925T093648Z
+DTSTART;TZID=Europe/London:20260317T140000
+DTEND;TZID=Europe/London:20260317T150000
 SUMMARY:Finance and Stochastics Seminar – Gudmund Pammer
 LOCATION:410\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/202852/finance-and-stochastics-seminar-gudmund-pammer/
@@ -75,7 +85,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/202848/finance-and-stochastics-seminar-stefan-ankirchner/
-DTSTAMP:20260925T092418Z
+DTSTAMP:20260925T093649Z
+DTSTART;TZID=Europe/London:20260303T140000
+DTEND;TZID=Europe/London:20260303T150000
 SUMMARY:Finance and Stochastics Seminar – Stefan Ankirchner
 LOCATION:410\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/202848/finance-and-stochastics-seminar-stefan-ankirchner/
@@ -89,7 +101,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/202844/finance-and-stochastics-seminar-agostino-capponi/
-DTSTAMP:20260925T092419Z
+DTSTAMP:20260925T093649Z
+DTSTART;TZID=Europe/London:20260224T140000
+DTEND;TZID=Europe/London:20260224T150000
 SUMMARY:Finance and Stochastics Seminar – Agostino Capponi
 LOCATION:410\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/202844/finance-and-stochastics-seminar-agostino-capponi/
@@ -103,7 +117,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/202840/finance-and-stochastics-seminar-roxana-dumitrescu/
-DTSTAMP:20260925T092420Z
+DTSTAMP:20260925T093649Z
+DTSTART;TZID=Europe/London:20260217T140000
+DTEND;TZID=Europe/London:20260217T150000
 SUMMARY:Finance and Stochastics Seminar – Roxana Dumitrescu
 LOCATION:410\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/202840/finance-and-stochastics-seminar-roxana-dumitrescu/
@@ -117,7 +133,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/202836/finance-and-stochastics-seminar-paolo-guasoni/
-DTSTAMP:20260925T092420Z
+DTSTAMP:20260925T093649Z
+DTSTART;TZID=Europe/London:20260210T140000
+DTEND;TZID=Europe/London:20260210T150000
 SUMMARY:Finance and Stochastics Seminar – Paolo Guasoni
 LOCATION:410\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/202836/finance-and-stochastics-seminar-paolo-guasoni/
@@ -131,7 +149,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/202832/finance-and-stochastics-seminar-leonard-wong/
-DTSTAMP:20260925T092422Z
+DTSTAMP:20260925T093650Z
+DTSTART;TZID=Europe/London:20260203T140000
+DTEND;TZID=Europe/London:20260203T150000
 SUMMARY:Finance and Stochastics Seminar – Ting-Kam Leonard Wong
 LOCATION:410\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/202832/finance-and-stochastics-seminar-leonard-wong/
@@ -145,7 +165,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/199613/finance-and-stochastics-seminar-johannes-wiesel/
-DTSTAMP:20260925T092422Z
+DTSTAMP:20260925T093650Z
+DTSTART;TZID=Europe/London:20260127T140000
+DTEND;TZID=Europe/London:20260127T150000
 SUMMARY:Finance and Stochastics Seminar – Johannes Wiesel
 LOCATION:410\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/199613/finance-and-stochastics-seminar-johannes-wiesel/
@@ -159,7 +181,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/199609/finance-and-stochastics-seminar-nicole-bauerle/
-DTSTAMP:20260925T092423Z
+DTSTAMP:20260925T093650Z
+DTSTART;TZID=Europe/London:20260120T140000
+DTEND;TZID=Europe/London:20260120T150000
 SUMMARY:Finance and Stochastics Seminar – Nicole Bäuerle
 LOCATION:410\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/199609/finance-and-stochastics-seminar-nicole-bauerle/
@@ -173,7 +197,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/199605/finance-and-stochastics-seminar-mathieu-lauriere/
-DTSTAMP:20260925T092423Z
+DTSTAMP:20260925T093651Z
+DTSTART;TZID=Europe/London:20260113T140000
+DTEND;TZID=Europe/London:20260113T150000
 SUMMARY:Finance and Stochastics Seminar – Mathieu Laurière
 LOCATION:410\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/199605/finance-and-stochastics-seminar-mathieu-lauriere/
@@ -187,7 +213,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/201930/finance-and-stochastics-seminar-jonathan-tam/
-DTSTAMP:20260925T092424Z
+DTSTAMP:20260925T093651Z
+DTSTART;TZID=Europe/London:20260106T140000
+DTEND;TZID=Europe/London:20260106T150000
 SUMMARY:Finance and Stochastics Seminar – Jonathan Tam
 LOCATION:410\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/201930/finance-and-stochastics-seminar-jonathan-tam/
@@ -201,7 +229,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/197640/finance-and-stochastics-seminar-02-11-25/
-DTSTAMP:20260925T092425Z
+DTSTAMP:20260925T093651Z
+DTSTART;TZID=Europe/London:20251202T140000
+DTEND;TZID=Europe/London:20251202T150000
 SUMMARY:Finance and Stochastics Seminar – Çağın Ararat
 LOCATION:341\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/197640/finance-and-stochastics-seminar-02-11-25/
@@ -215,7 +245,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/197639/finance-and-stochastics-seminar-25-11-25/
-DTSTAMP:20260925T092426Z
+DTSTAMP:20260925T093651Z
+DTSTART;TZID=Europe/London:20251125T143000
+DTEND;TZID=Europe/London:20251125T153000
 SUMMARY:Finance and Stochastics Seminar – Julius Bonart
 LOCATION:145\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/197639/finance-and-stochastics-seminar-25-11-25/
@@ -229,7 +261,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/197630/finance-and-stochastics-seminar-18-11-25/
-DTSTAMP:20260925T092426Z
+DTSTAMP:20260925T093652Z
+DTSTART;TZID=Europe/London:20251118T140000
+DTEND;TZID=Europe/London:20251118T150000
 SUMMARY:Finance and Stochastics Seminar – Anna De Crescenzo
 LOCATION:341\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/197630/finance-and-stochastics-seminar-18-11-25/
@@ -243,7 +277,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/197625/finance-and-stochastics-seminar-11-11-25/
-DTSTAMP:20260925T092427Z
+DTSTAMP:20260925T093652Z
+DTSTART;TZID=Europe/London:20251111T140000
+DTEND;TZID=Europe/London:20251111T150000
 SUMMARY:Finance and Stochastics Seminar – Xinghua Zheng
 LOCATION:341\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/197625/finance-and-stochastics-seminar-11-11-25/
@@ -257,7 +293,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/197626/finance-and-stochastics-seminar-04-11-25/
-DTSTAMP:20260925T092428Z
+DTSTAMP:20260925T093652Z
+DTSTART;TZID=Europe/London:20251104T140000
+DTEND;TZID=Europe/London:20251104T150000
 SUMMARY:Finance and Stochastics Seminar – Renyuan Xu
 LOCATION:341\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/197626/finance-and-stochastics-seminar-04-11-25/
@@ -271,7 +309,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/197627/finance-and-stochastics-seminar-28-10-25/
-DTSTAMP:20260925T092430Z
+DTSTAMP:20260925T093652Z
+DTSTART;TZID=Europe/London:20251028T140000
+DTEND;TZID=Europe/London:20251028T150000
 SUMMARY:Finance and Stochastics Seminar – Steven Campbell
 LOCATION:341\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/197627/finance-and-stochastics-seminar-28-10-25/
@@ -285,7 +325,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/197628/finance-and-stochastics-seminar-21-10-25/
-DTSTAMP:20260925T092431Z
+DTSTAMP:20260925T093653Z
+DTSTART;TZID=Europe/London:20251021T130000
+DTEND;TZID=Europe/London:20251021T140000
 SUMMARY:Finance and Stochastics Seminar – Leandro Sánchez-Betancourt
 LOCATION:410\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/197628/finance-and-stochastics-seminar-21-10-25/
@@ -299,7 +341,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/197629/finance-and-stochastics-seminar-14-10-25/
-DTSTAMP:20260925T092432Z
+DTSTAMP:20260925T093653Z
+DTSTART;TZID=Europe/London:20251014T130000
+DTEND;TZID=Europe/London:20251014T140000
 SUMMARY:Finance and Stochastics Seminar – Christoph Reisinger
 LOCATION:642\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/197629/finance-and-stochastics-seminar-14-10-25/
@@ -313,7 +357,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/197623/finance-and-stochastics-seminar-07-10-25/
-DTSTAMP:20260925T092433Z
+DTSTAMP:20260925T093654Z
+DTSTART;TZID=Europe/London:20251007T130000
+DTEND;TZID=Europe/London:20251007T140000
 SUMMARY:Finance and Stochastics Seminar – Jingjie Zhang
 LOCATION:642\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/197623/finance-and-stochastics-seminar-07-10-25/
@@ -327,7 +373,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/197613/finance-and-stochastics-seminar-30-09-25/
-DTSTAMP:20260925T092434Z
+DTSTAMP:20260925T093654Z
+DTSTART;TZID=Europe/London:20250930T130000
+DTEND;TZID=Europe/London:20250930T140000
 SUMMARY:Finance and Stochastics Seminar – Yifan Jiang
 LOCATION:658\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/197613/finance-and-stochastics-seminar-30-09-25/
@@ -341,7 +389,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/192022/finance-and-stochastics-seminar-filippo-beretta/
-DTSTAMP:20260925T092435Z
+DTSTAMP:20260925T093654Z
+DTSTART;TZID=Europe/London:20250401T100000
+DTEND;TZID=Europe/London:20250401T110000
 SUMMARY:Finance and Stochastics seminar – Filippo Beretta
 LOCATION:130\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/192022/finance-and-stochastics-seminar-filippo-beretta/
@@ -355,7 +405,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/188592/alexander_schied/
-DTSTAMP:20260925T092436Z
+DTSTAMP:20260925T093655Z
+DTSTART;TZID=Europe/London:20250325T110000
+DTEND;TZID=Europe/London:20250325T120000
 SUMMARY:Finance and Stochastics seminar – Alexander Schied
 LOCATION:131\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/188592/alexander_schied/
@@ -369,7 +421,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/186359/john-armstrong/
-DTSTAMP:20260925T092437Z
+DTSTAMP:20260925T093655Z
+DTSTART;TZID=Europe/London:20250318T110000
+DTEND;TZID=Europe/London:20250318T120000
 SUMMARY:Finance and Stochastics seminar – John Armstrong
 LOCATION:130\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/186359/john-armstrong/
@@ -383,7 +437,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/186356/speaker_daniel_lacker/
-DTSTAMP:20260925T092438Z
+DTSTAMP:20260925T093655Z
+DTSTART;TZID=Europe/London:20250311T110000
+DTEND;TZID=Europe/London:20250311T120000
 SUMMARY:Finance and Stochastics seminar – Daniel Lacker
 LOCATION:130\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/186356/speaker_daniel_lacker/
@@ -397,7 +453,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/186354/ulrich_horst/
-DTSTAMP:20260925T092439Z
+DTSTAMP:20260925T093656Z
+DTSTART;TZID=Europe/London:20250304T110000
+DTEND;TZID=Europe/London:20250304T120000
 SUMMARY:Finance and Stochastics seminar – Ulrich Horst
 LOCATION:130\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/186354/ulrich_horst/
@@ -411,7 +469,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/186343/speaker_david-itkin/
-DTSTAMP:20260925T092440Z
+DTSTAMP:20260925T093656Z
+DTSTART;TZID=Europe/London:20250225T110000
+DTEND;TZID=Europe/London:20250225T120000
 SUMMARY:Finance and Stochastics seminar – David Itkin
 LOCATION:130\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/186343/speaker_david-itkin/
@@ -425,7 +485,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/186339/luciano_campi/
-DTSTAMP:20260925T092441Z
+DTSTAMP:20260925T093656Z
+DTSTART;TZID=Europe/London:20250218T110000
+DTEND;TZID=Europe/London:20250218T120000
 SUMMARY:Finance and Stochastics seminar – Luciano Campi
 LOCATION:130\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/186339/luciano_campi/
@@ -439,7 +501,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/186332/speaker_nazem_khan/
-DTSTAMP:20260925T092442Z
+DTSTAMP:20260925T093657Z
+DTSTART;TZID=Europe/London:20250211T110000
+DTEND;TZID=Europe/London:20250211T120000
 SUMMARY:Finance and Stochastics seminar – Nazem Khan
 LOCATION:130\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/186332/speaker_nazem_khan/
@@ -453,7 +517,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/186345/bayesian-nonparametric-inference-in-a-mckean-vlasov-model/
-DTSTAMP:20260925T092443Z
+DTSTAMP:20260925T093658Z
+DTSTART;TZID=Europe/London:20250205T110000
+DTEND;TZID=Europe/London:20250205T120000
 SUMMARY:Mathematical Finance Seminar: Dr Kolyan Ray (Imperial)
 LOCATION:342\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/186345/bayesian-nonparametric-inference-in-a-mckean-vlasov-model/
@@ -467,7 +533,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/188537/rough-differential-equations-for-volatility/
-DTSTAMP:20260925T092444Z
+DTSTAMP:20260925T093658Z
+DTSTART;TZID=Europe/London:20250130T120000
+DTEND;TZID=Europe/London:20250130T130000
 SUMMARY:Rough differential equations for volatility
 LOCATION:139\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/188537/rough-differential-equations-for-volatility/
@@ -481,7 +549,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/186327/stefanie-hesse/
-DTSTAMP:20260925T092446Z
+DTSTAMP:20260925T093658Z
+DTSTART;TZID=Europe/London:20250121T110000
+DTEND;TZID=Europe/London:20250121T120000
 SUMMARY:Common Noise by Random Measures:  Mean-Field Equilibria for Competitive Investment and Hedging
 LOCATION:130\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/186327/stefanie-hesse/
@@ -495,7 +565,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/186320/dante_kalise_2025/
-DTSTAMP:20260925T092447Z
+DTSTAMP:20260925T093659Z
+DTSTART;TZID=Europe/London:20250114T110000
+DTEND;TZID=Europe/London:20250114T120000
 SUMMARY:Convex optimization methods for variational mean field games\, control\, and optimal transport
 LOCATION:130\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/186320/dante_kalise_2025/
@@ -509,7 +581,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/181470/david-promel-2024/
-DTSTAMP:20260925T092448Z
+DTSTAMP:20260925T093659Z
+DTSTART;TZID=Europe/London:20241126T110000
+DTEND;TZID=Europe/London:20241126T120000
 SUMMARY:Stochastic Volterra equations: well-posedness and supervised learning
 LOCATION:140\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/181470/david-promel-2024/
@@ -523,7 +597,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/181463/paul-hager-2024/
-DTSTAMP:20260925T092449Z
+DTSTAMP:20260925T093659Z
+DTSTART;TZID=Europe/London:20241119T110000
+DTEND;TZID=Europe/London:20241119T120000
 SUMMARY:Paul Hager: Stochastic Control with Signatures
 LOCATION:140\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/181463/paul-hager-2024/
@@ -537,7 +613,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/181460/marcus-wunsch-2024/
-DTSTAMP:20260925T092450Z
+DTSTAMP:20260925T093659Z
+DTSTART;TZID=Europe/London:20241112T110000
+DTEND;TZID=Europe/London:20241112T120000
 SUMMARY:Marcus Wunsch: How (not) to manage your portfolio with liquidity provision
 LOCATION:140\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/181460/marcus-wunsch-2024/
@@ -551,7 +629,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/181664/fatimah-rita-ahmadi-a-rendezvous-with-quantum-computing/
-DTSTAMP:20260925T092451Z
+DTSTAMP:20260925T093700Z
+DTSTART;TZID=Europe/London:20241029T110000
+DTEND;TZID=Europe/London:20241029T120000
 SUMMARY:Fatimah Rita Ahmadi: A Rendezvous with Quantum Computing
 LOCATION:140\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/181664/fatimah-rita-ahmadi-a-rendezvous-with-quantum-computing/
@@ -565,7 +645,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/183748/alessandro-bondi-boundary-attainment-conditions-for-stochastic-volterra-processes/
-DTSTAMP:20260925T092452Z
+DTSTAMP:20260925T093700Z
+DTSTART;TZID=Europe/London:20241022T104500
+DTEND;TZID=Europe/London:20241022T113000
 SUMMARY:Alessandro Bondi: Boundary attainment conditions for stochastic Volterra processes
 LOCATION:140\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/183748/alessandro-bondi-boundary-attainment-conditions-for-stochastic-volterra-processes/
@@ -579,7 +661,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/181453/eduardo-abi-jaber-2024/
-DTSTAMP:20260925T092453Z
+DTSTAMP:20260925T093700Z
+DTSTART;TZID=Europe/London:20241022T100000
+DTEND;TZID=Europe/London:20241022T104500
 SUMMARY:Eduardo Abi Jaber: Stochastic Fredholm equations: a passe-partout for propagator models and market impact
 LOCATION:140\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/181453/eduardo-abi-jaber-2024/
@@ -593,7 +677,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/181450/yushi-hamaguchi-2024/
-DTSTAMP:20260925T092454Z
+DTSTAMP:20260925T093701Z
+DTSTART;TZID=Europe/London:20241015T100000
+DTEND;TZID=Europe/London:20241015T110000
 SUMMARY:Yushi Hamaguchi:  Markovian lifts of stochastic Volterra equations
 LOCATION:140\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/181450/yushi-hamaguchi-2024/
@@ -607,7 +693,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/181444/faycal-drissi-2024/
-DTSTAMP:20260925T092455Z
+DTSTAMP:20260925T093702Z
+DTSTART;TZID=Europe/London:20241008T100000
+DTEND;TZID=Europe/London:20241008T110000
 SUMMARY:Fayçal Drissi: The microstructure of decentralised exchanges
 LOCATION:140\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/181444/faycal-drissi-2024/
@@ -621,7 +709,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/181436/alexander-kalinin-2024/
-DTSTAMP:20260925T092456Z
+DTSTAMP:20260925T093702Z
+DTSTART;TZID=Europe/London:20241001T100000
+DTEND;TZID=Europe/London:20241001T110000
 SUMMARY:Alexander Kalinin: The oriented derivative in stochastic calculus
 LOCATION:140\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/181436/alexander-kalinin-2024/
@@ -635,7 +725,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/177194/paul-gassiat-gradient-flow-on-control-space-with-rough-initial-condition/
-DTSTAMP:20260925T092457Z
+DTSTAMP:20260925T093702Z
+DTSTART;TZID=Europe/London:20240521T130000
+DTEND;TZID=Europe/London:20240521T140000
 SUMMARY:Paul Gassiat: Gradient flow on control space with rough initial condition
 LOCATION:144\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/177194/paul-gassiat-gradient-flow-on-control-space-with-rough-initial-condition/
@@ -649,7 +741,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/177192/paolo-perrone-markov-categories-towards-user-friendly-probability-theory/
-DTSTAMP:20260925T092458Z
+DTSTAMP:20260925T093703Z
+DTSTART;TZID=Europe/London:20240514T130000
+DTEND;TZID=Europe/London:20240514T140000
 SUMMARY:Paolo Perrone: Markov categories: towards user-friendly probability theory
 LOCATION:144\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/177192/paolo-perrone-markov-categories-towards-user-friendly-probability-theory/
@@ -663,7 +757,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/177189/ruixun-zhang-a-quantitative-approach-to-optimal-impact-portfolios/
-DTSTAMP:20260925T092458Z
+DTSTAMP:20260925T093703Z
+DTSTART;TZID=Europe/London:20240507T100000
+DTEND;TZID=Europe/London:20240507T110000
 SUMMARY:Ruixun Zhang: A Quantitative Approach to Optimal Impact Portfolios
 LOCATION:130\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/177189/ruixun-zhang-a-quantitative-approach-to-optimal-impact-portfolios/
@@ -677,7 +773,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/172314/gudmund-pammer-eth-zurich-calibration-of-the-bass-local-volatility-model/
-DTSTAMP:20260925T092459Z
+DTSTAMP:20260925T093704Z
+DTSTART;TZID=Europe/London:20240430T140000
+DTEND;TZID=Europe/London:20240430T150000
 SUMMARY:Gudmund Pammer: Calibration of the Bass Local Volatility model
 LOCATION:139\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/172314/gudmund-pammer-eth-zurich-calibration-of-the-bass-local-volatility-model/
@@ -691,7 +789,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/172320/serdar-yuksel-stochastic-control-with-partial-information-regularity-optimality-approximations-and-learning/
-DTSTAMP:20260925T092459Z
+DTSTAMP:20260925T093705Z
+DTSTART;TZID=Europe/London:20240430T130000
+DTEND;TZID=Europe/London:20240430T140000
 SUMMARY:Serdar Yüksel: Stochastic Control with Partial Information: Regularity\, Optimality\, Approximations\, and Learning
 LOCATION:139\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/172320/serdar-yuksel-stochastic-control-with-partial-information-regularity-optimality-approximations-and-learning/
@@ -705,7 +805,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/172317/clemens-possnig-reinforcement-learning-and-collusion/
-DTSTAMP:20260925T092500Z
+DTSTAMP:20260925T093705Z
+DTSTART;TZID=Europe/London:20240423T130000
+DTEND;TZID=Europe/London:20240423T140000
 SUMMARY:Clemens Possnig: Reinforcement Learning and Collusion
 LOCATION:140\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/172317/clemens-possnig-reinforcement-learning-and-collusion/
@@ -719,7 +821,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/172311/marcel-nutz-columbia-university/
-DTSTAMP:20260925T092501Z
+DTSTAMP:20260925T093705Z
+DTSTART;TZID=Europe/London:20240409T130000
+DTEND;TZID=Europe/London:20240409T140000
 SUMMARY:Marcel Nutz (Columbia University)
 LOCATION:140\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/172311/marcel-nutz-columbia-university/
@@ -733,7 +837,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/172308/jiacheng-zhang-itos-formula-for-flows-of-conditional-measures/
-DTSTAMP:20260925T092502Z
+DTSTAMP:20260925T093706Z
+DTSTART;TZID=Europe/London:20240326T140000
+DTEND;TZID=Europe/London:20240326T150000
 SUMMARY:Jiacheng Zhang: It\^o’s formula for flows of conditional measures
 LOCATION:140\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/172308/jiacheng-zhang-itos-formula-for-flows-of-conditional-measures/
@@ -747,7 +853,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/173435/joshua-mollner-northwestern-university/
-DTSTAMP:20260925T092502Z
+DTSTAMP:20260925T093706Z
+DTSTART;TZID=Europe/London:20240322T140000
+DTEND;TZID=Europe/London:20240322T150000
 SUMMARY:Joshua Mollner: Competition and Information Leakage
 LOCATION:144\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/173435/joshua-mollner-northwestern-university/
@@ -761,7 +869,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/175224/niklas-weber-graph-neural-network-methods-for-systemic-risk-management/
-DTSTAMP:20260925T092503Z
+DTSTAMP:20260925T093706Z
+DTSTART;TZID=Europe/London:20240321T140000
+DTEND;TZID=Europe/London:20240321T150000
 SUMMARY:Niklas Weber: Graph Neural Network Methods for Systemic Risk Management
 LOCATION:130\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/175224/niklas-weber-graph-neural-network-methods-for-systemic-risk-management/
@@ -775,7 +885,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/172297/steven-campbell-columbia-university/
-DTSTAMP:20260925T092504Z
+DTSTAMP:20260925T093707Z
+DTSTART;TZID=Europe/London:20240312T140000
+DTEND;TZID=Europe/London:20240312T150000
 SUMMARY:Steven Campbell: Relative Arbitrage with Market Frictions
 LOCATION:140\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/172297/steven-campbell-columbia-university/
@@ -789,7 +901,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/172306/mete-soner-synchronization-games/
-DTSTAMP:20260925T092505Z
+DTSTAMP:20260925T093707Z
+DTSTART;TZID=Europe/London:20240305T140000
+DTEND;TZID=Europe/London:20240305T150000
 SUMMARY:Mete Soner: Synchronization Games
 LOCATION:140\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/172306/mete-soner-synchronization-games/
@@ -803,7 +917,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/172293/yan-dolinsky-optimal-investment-with-a-noisy-signal-of-future-stock-prices/
-DTSTAMP:20260925T092506Z
+DTSTAMP:20260925T093710Z
+DTSTART;TZID=Europe/London:20240227T140000
+DTEND;TZID=Europe/London:20240227T150000
 SUMMARY:Yan Dolinsky: Optimal Investment with a Noisy Signal of Future Stock Prices
 LOCATION:140\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/172293/yan-dolinsky-optimal-investment-with-a-noisy-signal-of-future-stock-prices/
@@ -817,7 +933,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/172291/andy-allan-rough-stochastic-analysis-with-jumps/
-DTSTAMP:20260925T092507Z
+DTSTAMP:20260925T093710Z
+DTSTART;TZID=Europe/London:20240220T140000
+DTEND;TZID=Europe/London:20240220T150000
 SUMMARY:Andy Allan: Rough Stochastic Analysis with Jumps
 LOCATION:140\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/172291/andy-allan-rough-stochastic-analysis-with-jumps/
@@ -831,7 +949,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/172288/fabian-andsem-harang-on-the-signature-of-an-image/
-DTSTAMP:20260925T092508Z
+DTSTAMP:20260925T093711Z
+DTSTART;TZID=Europe/London:20240213T140000
+DTEND;TZID=Europe/London:20240213T150000
 SUMMARY:Fabian Andsem Harang: On the Signature of an Image
 LOCATION:140\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/172288/fabian-andsem-harang-on-the-signature-of-an-image/
@@ -845,7 +965,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/172285/yifan-jiang-causal-distributionally-robust-optimization-duality-and-sensitivity/
-DTSTAMP:20260925T092508Z
+DTSTAMP:20260925T093711Z
+DTSTART;TZID=Europe/London:20240206T140000
+DTEND;TZID=Europe/London:20240206T150000
 SUMMARY:Yifan Jiang: Causal distributionally robust optimization – duality and sensitivity
 LOCATION:140\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/172285/yifan-jiang-causal-distributionally-robust-optimization-duality-and-sensitivity/
@@ -859,7 +981,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/172280/christian-bayer-efficient-markovian-approximations-of-rough-volatility-models/
-DTSTAMP:20260925T092509Z
+DTSTAMP:20260925T093712Z
+DTSTART;TZID=Europe/London:20240130T140000
+DTEND;TZID=Europe/London:20240130T150000
 SUMMARY:Christian Bayer: Efficient Markovian approximations of rough volatility models
 LOCATION:140\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/172280/christian-bayer-efficient-markovian-approximations-of-rough-volatility-models/
@@ -873,7 +997,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/171887/xiaocheng-li-uncertainty-quantification-via-nonparametric-approaches/
-DTSTAMP:20260925T092510Z
+DTSTAMP:20260925T093712Z
+DTSTART;TZID=Europe/London:20240123T140000
+DTEND;TZID=Europe/London:20240123T150000
 SUMMARY:Xiaocheng Li: Uncertainty Quantification via Nonparametric Approaches
 LOCATION:140\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/171887/xiaocheng-li-uncertainty-quantification-via-nonparametric-approaches/
@@ -887,7 +1013,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/171665/giorgia-callegaro-optimal-reinsurance-via-bsdes-in-a-partially-observable-contagion-model-with-jump-clusters-2/
-DTSTAMP:20260925T092511Z
+DTSTAMP:20260925T093712Z
+DTSTART;TZID=Europe/London:20240116T140000
+DTEND;TZID=Europe/London:20240116T150000
 SUMMARY:Giorgia Callegaro: Optimal reinsurance via BSDEs in a partially observable contagion model with jump clusters
 LOCATION:140\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/171665/giorgia-callegaro-optimal-reinsurance-via-bsdes-in-a-partially-observable-contagion-model-with-jump-clusters-2/
@@ -901,7 +1029,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/171338/thibaut-mastrolia-recent-advances-in-auction-markets-design-and-regulation-policies/
-DTSTAMP:20260925T092512Z
+DTSTAMP:20260925T093712Z
+DTSTART;TZID=Europe/London:20240109T140000
+DTEND;TZID=Europe/London:20240109T150000
 SUMMARY:Thibaut Mastrolia: Recent Advances in Auction Markets Design and Regulation Policies
 LOCATION:140\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/171338/thibaut-mastrolia-recent-advances-in-auction-markets-design-and-regulation-policies/
@@ -915,7 +1045,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/170339/anran-hu-mean-field-approximations-in-heterogeneous-n-player-games/
-DTSTAMP:20260925T092513Z
+DTSTAMP:20260925T093713Z
+DTSTART;TZID=Europe/London:20231205T140000
+DTEND;TZID=Europe/London:20231205T150000
 SUMMARY:Anran Hu: Mean-Field Approximations in Heterogeneous N-Player Games
 LOCATION:340\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/170339/anran-hu-mean-field-approximations-in-heterogeneous-n-player-games/
@@ -929,7 +1061,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/169350/bruno-bouchard-on-the-regularity-of-solutions-of-some-linear-path-dependent-parabolic-pdes/
-DTSTAMP:20260925T092514Z
+DTSTAMP:20260925T093713Z
+DTSTART;TZID=Europe/London:20231128T140000
+DTEND;TZID=Europe/London:20231128T150000
 SUMMARY:Bruno Bouchard: On the Regularity of Solutions of Some Linear Path-dependent Parabolic PDEs
 LOCATION:340\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/169350/bruno-bouchard-on-the-regularity-of-solutions-of-some-linear-path-dependent-parabolic-pdes/
@@ -943,7 +1077,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/169329/david-siska-automated-market-makers-designs/
-DTSTAMP:20260925T092515Z
+DTSTAMP:20260925T093714Z
+DTSTART;TZID=Europe/London:20231121T140000
+DTEND;TZID=Europe/London:20231121T150000
 SUMMARY:David Siska: Automated Market Makers Designs Beyond Constant Functions
 LOCATION:340\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/169329/david-siska-automated-market-makers-designs/
@@ -957,7 +1093,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/169021/philippe-bergault-liquidity-modelling-in-corporate-bond-markets/
-DTSTAMP:20260925T092516Z
+DTSTAMP:20260925T093714Z
+DTSTART;TZID=Europe/London:20231114T140000
+DTEND;TZID=Europe/London:20231114T150000
 SUMMARY:Philippe Bergault: Modeling liquidity in corporate bond markets: applications to price adjustments 
 LOCATION:340\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/169021/philippe-bergault-liquidity-modelling-in-corporate-bond-markets/
@@ -971,7 +1109,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/168582/yonatan-shadmi-fluid-and-diffusion-limits-in-queueing-and-communication-networks/
-DTSTAMP:20260925T092517Z
+DTSTAMP:20260925T093714Z
+DTSTART;TZID=Europe/London:20231107T140000
+DTEND;TZID=Europe/London:20231107T150000
 SUMMARY:Yonatan Shadmi: Fluid and diffusion limits in queueing and communication networks: measure-valued processes and robustness
 LOCATION:340\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/168582/yonatan-shadmi-fluid-and-diffusion-limits-in-queueing-and-communication-networks/
@@ -985,7 +1125,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/168232/alexander-merkel-optimal-adaptive-control-with-separable-drift-uncertainty/
-DTSTAMP:20260925T092517Z
+DTSTAMP:20260925T093714Z
+DTSTART;TZID=Europe/London:20231031T140000
+DTEND;TZID=Europe/London:20231031T150000
 SUMMARY:Alexander Merkel: Optimal adaptive control with separable drift uncertainty
 LOCATION:340\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/168232/alexander-merkel-optimal-adaptive-control-with-separable-drift-uncertainty/
@@ -999,7 +1141,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/167880/yufei-zhang-an-offline-learning-approach-to-propagator-models/
-DTSTAMP:20260925T092517Z
+DTSTAMP:20260925T093715Z
+DTSTART;TZID=Europe/London:20231024T130000
+DTEND;TZID=Europe/London:20231024T140000
 SUMMARY:Yufei Zhang: An offline learning approach to propagator models
 LOCATION:140\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/167880/yufei-zhang-an-offline-learning-approach-to-propagator-models/
@@ -1013,7 +1157,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/166965/xin-guo-mathematics-of-transfer-learning-and-transfer-risk/
-DTSTAMP:20260925T092518Z
+DTSTAMP:20260925T093715Z
+DTSTART;TZID=Europe/London:20231010T130000
+DTEND;TZID=Europe/London:20231010T140000
 SUMMARY:Xin Guo: Optimization framework and sensitivity analysis of Stackelberg MFGs
 LOCATION:140\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/166965/xin-guo-mathematics-of-transfer-learning-and-transfer-risk/
@@ -1027,7 +1173,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/166961/charles-albert-lehalle-tbd/
-DTSTAMP:20260925T092518Z
+DTSTAMP:20260925T093715Z
+DTSTART;TZID=Europe/London:20231004T140000
+DTEND;TZID=Europe/London:20231004T150000
 SUMMARY:Charles-Albert Lehalle: Survey of MFG papers in Finance\, with a focus on the Price Formation Process
 LOCATION:144\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/166961/charles-albert-lehalle-tbd/
@@ -1041,7 +1189,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/165622/overcoming-the-curse-of-dimensionality-from-nonlinear-monte-carlo-to-the-training-of-neural-networks-by-prof-dr-jentzen/
-DTSTAMP:20260925T092518Z
+DTSTAMP:20260925T093717Z
+DTSTART;TZID=Europe/London:20231004T130000
+DTEND;TZID=Europe/London:20231004T140000
 SUMMARY:Arnulf Jentzen: Overcoming the curse of dimensionality:  from nonlinear Monte Carlo to the training of neural networks
 LOCATION:144\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/165622/overcoming-the-curse-of-dimensionality-from-nonlinear-monte-carlo-to-the-training-of-neural-networks-by-prof-dr-jentzen/
@@ -1055,7 +1205,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/165003/convex-stochastic-optimization-by-dr-perkkio/
-DTSTAMP:20260925T092519Z
+DTSTAMP:20260925T093718Z
+DTSTART;TZID=Europe/London:20230920T130000
+DTEND;TZID=Europe/London:20230920T140000
 SUMMARY:Convex Stochastic Optimization by Dr Perkkiö
 LOCATION:Ground Floor G03\, Weeks Hall\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/165003/convex-stochastic-optimization-by-dr-perkkio/
@@ -1069,7 +1221,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/162944/mikko-pakkanen-learning-to-remove-the-drift/
-DTSTAMP:20260925T092519Z
+DTSTAMP:20260925T093718Z
+DTSTART;TZID=Europe/London:20230531T133000
+DTEND;TZID=Europe/London:20230531T143000
 SUMMARY:Mikko Pakkanen: Learning to Remove the Drift
 LOCATION:Room 410\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/162944/mikko-pakkanen-learning-to-remove-the-drift/
@@ -1083,7 +1237,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/162200/scott-robertson-equilibrium-with-heterogenous-information-flows/
-DTSTAMP:20260925T092520Z
+DTSTAMP:20260925T093719Z
+DTSTART;TZID=Europe/London:20230511T130000
+DTEND;TZID=Europe/London:20230511T140000
 SUMMARY:Scott Robertson: Equilibrium with Heterogenous Information Flows
 LOCATION:140\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/162200/scott-robertson-equilibrium-with-heterogenous-information-flows/
@@ -1097,7 +1253,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/161021/sam-cohen-stability-and-approximation-of-projection-filters/
-DTSTAMP:20260925T092520Z
+DTSTAMP:20260925T093719Z
+DTSTART;TZID=Europe/London:20230418T130000
+DTEND;TZID=Europe/London:20230418T140000
 SUMMARY:Sam Cohen: Stability and approximation of projection filters
 LOCATION:410\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/161021/sam-cohen-stability-and-approximation-of-projection-filters/
@@ -1111,7 +1269,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/158029/eduardo-abi-jaber-tbd/
-DTSTAMP:20260925T092521Z
+DTSTAMP:20260925T093719Z
+DTSTART;TZID=Europe/London:20230328T130000
+DTEND;TZID=Europe/London:20230328T140000
 SUMMARY:Eduardo Abi Jaber: From the Quintic model that jointly calibrates SPX/VIX to Sig-Volatility models
 LOCATION:410\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/158029/eduardo-abi-jaber-tbd/
@@ -1125,7 +1285,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/158024/alex-kalinin-tbd/
-DTSTAMP:20260925T092521Z
+DTSTAMP:20260925T093720Z
+DTSTART;TZID=Europe/London:20230321T140000
+DTEND;TZID=Europe/London:20230321T150000
 SUMMARY:Alex Kalinin: Derivation of unique stable solutions to McKean-Vlasov SDEs
 LOCATION:410\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/158024/alex-kalinin-tbd/
@@ -1139,7 +1301,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/158021/julien-guyon-tbd/
-DTSTAMP:20260925T092522Z
+DTSTAMP:20260925T093720Z
+DTSTART;TZID=Europe/London:20230314T140000
+DTEND;TZID=Europe/London:20230314T150000
 SUMMARY:Julien Guyon: Volatility Is (Mostly) Path-Dependent
 LOCATION:410\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/158021/julien-guyon-tbd/
@@ -1153,7 +1317,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/158018/oleksii-mostovyi-tbd/
-DTSTAMP:20260925T092522Z
+DTSTAMP:20260925T093721Z
+DTSTART;TZID=Europe/London:20230307T140000
+DTEND;TZID=Europe/London:20230307T150000
 SUMMARY:Oleksii Mostovyi: On the analyticity of the value function in optimal investment and stochastically dominant markets
 LOCATION:410\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/158018/oleksii-mostovyi-tbd/
@@ -1167,7 +1333,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/158015/peter-bank-tbd/
-DTSTAMP:20260925T092522Z
+DTSTAMP:20260925T093721Z
+DTSTART;TZID=Europe/London:20230228T140000
+DTEND;TZID=Europe/London:20230228T150000
 SUMMARY:Peter Bank: A High-Frequency Model for Trading on Signals: Optimal Meyer Controls in a Self-Exciting Environment
 LOCATION:410\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/158015/peter-bank-tbd/
@@ -1181,7 +1349,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/158936/ofelia-bonesini-tbd/
-DTSTAMP:20260925T092522Z
+DTSTAMP:20260925T093721Z
+DTSTART;TZID=Europe/London:20230221T140000
+DTEND;TZID=Europe/London:20230221T150000
 SUMMARY:Ofelia Bonesini : Rough volatility\, path-dependent PDEs and weak rates of convergence
 LOCATION:410\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/158936/ofelia-bonesini-tbd/
@@ -1195,7 +1365,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/158011/eyal-neuman-tbd/
-DTSTAMP:20260925T092523Z
+DTSTAMP:20260925T093722Z
+DTSTART;TZID=Europe/London:20230207T140000
+DTEND;TZID=Europe/London:20230207T150000
 SUMMARY:Eyal Neuman: Optimality in General Propagator with Signals
 LOCATION:410\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/158011/eyal-neuman-tbd/
@@ -1209,7 +1381,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/156693/cecilia-aubrun-multivariate-quadratic-hawkes-to-model-price-changes-in-financial-time-series/
-DTSTAMP:20260925T092523Z
+DTSTAMP:20260925T093722Z
+DTSTART;TZID=Europe/London:20230131T140000
+DTEND;TZID=Europe/London:20230131T150000
 SUMMARY:Cecilia Aubrun:  Multivariate Quadratic Hawkes to Model Price Changes in Financial Time Series
 LOCATION:Room 410\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/156693/cecilia-aubrun-multivariate-quadratic-hawkes-to-model-price-changes-in-financial-time-series/
@@ -1223,7 +1397,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/156542/alexander-barzykin-market-making-by-a-foreign-exchange-dealer/
-DTSTAMP:20260925T092524Z
+DTSTAMP:20260925T093722Z
+DTSTART;TZID=Europe/London:20230124T140000
+DTEND;TZID=Europe/London:20230124T150000
 SUMMARY:Alexander Barzykin: Market-Making by a Foreign Exchange Dealer
 LOCATION:Room 410\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/156542/alexander-barzykin-market-making-by-a-foreign-exchange-dealer/
@@ -1237,7 +1413,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/156580/wolfgang-stockinger-linear-convergence-of-a-policy-gradient-method-for-finite-horizon-continuous-time-stochastic-control-problems/
-DTSTAMP:20260925T092524Z
+DTSTAMP:20260925T093723Z
+DTSTART;TZID=Europe/London:20230117T140000
+DTEND;TZID=Europe/London:20230117T150000
 SUMMARY:Wolfgang Stockinger: Linear Convergence of a Policy Gradient Method for Finite Horizon Continuous Time Stochastic Control Problems
 LOCATION:Room 410\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/156580/wolfgang-stockinger-linear-convergence-of-a-policy-gradient-method-for-finite-horizon-continuous-time-stochastic-control-problems/
@@ -1251,7 +1429,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/156573/christa-cuchiero-joint-calibration-of-spx-and-vix-options-with-signature-based-models/
-DTSTAMP:20260925T092524Z
+DTSTAMP:20260925T093723Z
+DTSTART;TZID=Europe/London:20230112T133000
+DTEND;TZID=Europe/London:20230112T143000
 SUMMARY:Christa Cuchiero:  Joint Calibration of SPX and VIX Options with Signature-Based Models
 LOCATION:Room 130 \, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/156573/christa-cuchiero-joint-calibration-of-spx-and-vix-options-with-signature-based-models/
@@ -1265,7 +1445,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/154203/julio-backhoff-tbd/
-DTSTAMP:20260925T092525Z
+DTSTAMP:20260925T093723Z
+DTSTART;TZID=Europe/London:20221220T133000
+DTEND;TZID=Europe/London:20221220T143000
 SUMMARY:Julio Backhoff: Quantitative Fundamental Theorem of Asset Pricing
 LOCATION:G03\, Weeks Hall\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/154203/julio-backhoff-tbd/
@@ -1279,7 +1461,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/154193/ioannis-gasteratos-tbd/
-DTSTAMP:20260925T092525Z
+DTSTAMP:20260925T093723Z
+DTSTART;TZID=Europe/London:20221213T143000
+DTEND;TZID=Europe/London:20221213T153000
 SUMMARY:Ioannis Gasteratos: Large Deviations for Slow-Fast Systems Driven by Fractional Brownian Motion
 LOCATION:G03\, Weeks Hall\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/154193/ioannis-gasteratos-tbd/
@@ -1293,7 +1477,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/154198/andreas-sojmark-tbd/
-DTSTAMP:20260925T092525Z
+DTSTAMP:20260925T093724Z
+DTSTART;TZID=Europe/London:20221213T133000
+DTEND;TZID=Europe/London:20221213T143000
 SUMMARY:Andreas Søjmark: Convergence of Stochastic Integrals in Skorokhod Space and some Applications in Finance and Econometrics
 LOCATION:G03\, Weeks Hall\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/154198/andreas-sojmark-tbd/
@@ -1307,7 +1493,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/154186/martin-keller-ressel-tbd/
-DTSTAMP:20260925T092526Z
+DTSTAMP:20260925T093724Z
+DTSTART;TZID=Europe/London:20221129T133000
+DTEND;TZID=Europe/London:20221129T143000
 SUMMARY:Martin Keller-Ressel: Bartlett’s Delta revisited: Variance-optimal hedging in the lognormal SABR and in the rough Bergomi model
 LOCATION:G03\, Weeks Hall\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/154186/martin-keller-ressel-tbd/
@@ -1321,7 +1509,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/154180/lukas-szpruch-tbd/
-DTSTAMP:20260925T092527Z
+DTSTAMP:20260925T093724Z
+DTSTART;TZID=Europe/London:20221122T133000
+DTEND;TZID=Europe/London:20221122T143000
 SUMMARY:Lukasz Szpruch: Exploration-exploitation trade-off for continuous-time episodic reinforcement learning
 LOCATION:G03\, Weeks Hall\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/154180/lukas-szpruch-tbd/
@@ -1335,7 +1525,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/154888/zi-li-dynamic-inventory-management-with-mean-field-competition/
-DTSTAMP:20260925T092527Z
+DTSTAMP:20260925T093725Z
+DTSTART;TZID=Europe/London:20221115T133000
+DTEND;TZID=Europe/London:20221115T143000
 SUMMARY:Zi Li: Dynamic Inventory Management with Mean-Field Competition
 LOCATION:G03\, Weeks Hall\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/154888/zi-li-dynamic-inventory-management-with-mean-field-competition/
@@ -1349,7 +1541,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/154157/henry-chiu-tbd/
-DTSTAMP:20260925T092528Z
+DTSTAMP:20260925T093725Z
+DTSTART;TZID=Europe/London:20221101T133000
+DTEND;TZID=Europe/London:20221101T143000
 SUMMARY:Henry Chiu: A model-free approach to continuous-time finance
 LOCATION:G03\, Weeks Hall\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/154157/henry-chiu-tbd/
@@ -1363,7 +1557,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/154092/lukas-gonon-detecting-asset-price-bubbles-using-deep-learning/
-DTSTAMP:20260925T092528Z
+DTSTAMP:20260925T093725Z
+DTSTART;TZID=Europe/London:20221025T123000
+DTEND;TZID=Europe/London:20221025T133000
 SUMMARY:Lukas Gonon: Detecting Asset Price Bubbles using Deep Learning
 LOCATION:G03\, Weeks Hall\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/154092/lukas-gonon-detecting-asset-price-bubbles-using-deep-learning/
@@ -1377,7 +1573,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/153650/david-itkin-ergodic-robust-maximization-of-asymptotic-growth-in-the-presence-of-stochastic-volatility/
-DTSTAMP:20260925T092529Z
+DTSTAMP:20260925T093726Z
+DTSTART;TZID=Europe/London:20221018T123000
+DTEND;TZID=Europe/London:20221018T133000
 SUMMARY:David Itkin: Ergodic Robust Maximization of Asymptotic Growth in the Presence of Stochastic Volatility
 LOCATION:G03\, Weeks Hall\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/153650/david-itkin-ergodic-robust-maximization-of-asymptotic-growth-in-the-presence-of-stochastic-volatility/
@@ -1391,7 +1589,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/152582/kevin-webster-pandl/
-DTSTAMP:20260925T092529Z
+DTSTAMP:20260925T093726Z
+DTSTART;TZID=Europe/London:20221011T123000
+DTEND;TZID=Europe/London:20221011T133000
 SUMMARY:Kevin Webster: How Price Impact Distorts Accounting P&L
 LOCATION:Room 144\, Huxley Building\, South Kensington Campus\, Imperial College London\, London\, SW7 2AZ\, United Kingdom
 DESCRIPTION:More info: https://www.imperial.ac.uk/events/152582/kevin-webster-pandl/
