@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/214002/finance-and-stochastics-seminar-felix-hoefer/
-DTSTAMP:20260929T071136Z
+DTSTAMP:20260930T071134Z
 DTSTART:20261208T140000Z
 DTEND:20261208T150000Z
 SUMMARY:Finance and Stochastics Seminar – Felix Hoefer
@@ -21,7 +21,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/213999/finance-and-stochastics-seminar-dan-lenote/
-DTSTAMP:20260929T071137Z
+DTSTAMP:20260930T071134Z
 DTSTART:20261201T140000Z
 DTEND:20261201T150000Z
 SUMMARY:Finance and Stochastics Seminar – Dan Leonte
@@ -37,7 +37,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/213996/finance-and-stochastics-seminar-martin-friesen/
-DTSTAMP:20260929T071138Z
+DTSTAMP:20260930T071136Z
 DTSTART:20261124T140000Z
 DTEND:20261124T150000Z
 SUMMARY:Finance and Stochastics Seminar – Martin Friesen
@@ -53,7 +53,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/213993/finance-and-stochastics-seminar-mao-fabrice-djete/
-DTSTAMP:20260929T071139Z
+DTSTAMP:20260930T071136Z
 DTSTART:20261117T140000Z
 DTEND:20261117T150000Z
 SUMMARY:Finance and Stochastics Seminar – Mao Fabrice Djete
@@ -69,7 +69,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/213990/finance-and-stochastics-seminar-beatrice-acciaio/
-DTSTAMP:20260929T071141Z
+DTSTAMP:20260930T071137Z
 DTSTART:20261103T140000Z
 DTEND:20261103T150000Z
 SUMMARY:Finance and Stochastics Seminar – Beatrice Acciaio
@@ -85,7 +85,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/213987/finance-and-stochastics-seminar-emilio-barucci/
-DTSTAMP:20260929T071143Z
+DTSTAMP:20260930T071138Z
 DTSTART:20261027T140000Z
 DTEND:20261027T150000Z
 SUMMARY:Finance and Stochastics Seminar – Emilio Barucci
@@ -101,7 +101,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/213984/finance-and-stochastics-seminar-tom-hadfield/
-DTSTAMP:20260929T071144Z
+DTSTAMP:20260930T071139Z
 DTSTART:20261020T130000Z
 DTEND:20261020T140000Z
 SUMMARY:Finance and Stochastics Seminar – Tom Hadfield
@@ -117,7 +117,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/213941/finance-and-stochastics-seminar-shijia-jin/
-DTSTAMP:20260929T071145Z
+DTSTAMP:20260930T071140Z
 DTSTART:20261013T130000Z
 DTEND:20261013T140000Z
 SUMMARY:Finance and Stochastics Seminar – Shijia Jin
@@ -133,7 +133,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/213759/finance-and-stochastics-seminar-martin-herdegen/
-DTSTAMP:20260929T071147Z
+DTSTAMP:20260930T071141Z
 DTSTART:20261006T130000Z
 DTEND:20261006T140000Z
 SUMMARY:Finance and Stochastics Seminar – Martin Herdegen
@@ -149,7 +149,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/213201/finance-and-stochastics-seminar-dorje-brody/
-DTSTAMP:20260929T071148Z
+DTSTAMP:20260930T071141Z
 DTSTART:20260929T130000Z
 DTEND:20260929T140000Z
 SUMMARY:Finance and Stochastics Seminar – Dorje Brody
@@ -165,7 +165,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/211031/statistics-seminar-vicky-kouni-lamsade-lab-paris-dauphine/
-DTSTAMP:20260929T071149Z
+DTSTAMP:20260930T071142Z
 DTSTART:20260624T130000Z
 DTEND:20260624T140000Z
 SUMMARY:Statistics Seminar: Vicky Kouni (LAMSADE lab\, Paris Dauphine)
@@ -181,7 +181,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/202852/finance-and-stochastics-seminar-gudmund-pammer/
-DTSTAMP:20260929T071151Z
+DTSTAMP:20260930T071144Z
 DTSTART:20260317T140000Z
 DTEND:20260317T150000Z
 SUMMARY:Finance and Stochastics Seminar – Gudmund Pammer
@@ -197,7 +197,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/202848/finance-and-stochastics-seminar-stefan-ankirchner/
-DTSTAMP:20260929T071152Z
+DTSTAMP:20260930T071145Z
 DTSTART:20260303T140000Z
 DTEND:20260303T150000Z
 SUMMARY:Finance and Stochastics Seminar – Stefan Ankirchner
@@ -213,7 +213,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/202844/finance-and-stochastics-seminar-agostino-capponi/
-DTSTAMP:20260929T071153Z
+DTSTAMP:20260930T071145Z
 DTSTART:20260224T140000Z
 DTEND:20260224T150000Z
 SUMMARY:Finance and Stochastics Seminar – Agostino Capponi
@@ -229,7 +229,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/202840/finance-and-stochastics-seminar-roxana-dumitrescu/
-DTSTAMP:20260929T071154Z
+DTSTAMP:20260930T071146Z
 DTSTART:20260217T140000Z
 DTEND:20260217T150000Z
 SUMMARY:Finance and Stochastics Seminar – Roxana Dumitrescu
@@ -245,7 +245,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/202836/finance-and-stochastics-seminar-paolo-guasoni/
-DTSTAMP:20260929T071156Z
+DTSTAMP:20260930T071146Z
 DTSTART:20260210T140000Z
 DTEND:20260210T150000Z
 SUMMARY:Finance and Stochastics Seminar – Paolo Guasoni
@@ -261,7 +261,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/202832/finance-and-stochastics-seminar-leonard-wong/
-DTSTAMP:20260929T071157Z
+DTSTAMP:20260930T071148Z
 DTSTART:20260203T140000Z
 DTEND:20260203T150000Z
 SUMMARY:Finance and Stochastics Seminar – Ting-Kam Leonard Wong
@@ -277,7 +277,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/199613/finance-and-stochastics-seminar-johannes-wiesel/
-DTSTAMP:20260929T071158Z
+DTSTAMP:20260930T071149Z
 DTSTART:20260127T140000Z
 DTEND:20260127T150000Z
 SUMMARY:Finance and Stochastics Seminar – Johannes Wiesel
@@ -293,7 +293,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/199609/finance-and-stochastics-seminar-nicole-bauerle/
-DTSTAMP:20260929T071159Z
+DTSTAMP:20260930T071150Z
 DTSTART:20260120T140000Z
 DTEND:20260120T150000Z
 SUMMARY:Finance and Stochastics Seminar – Nicole Bäuerle
@@ -309,7 +309,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/199605/finance-and-stochastics-seminar-mathieu-lauriere/
-DTSTAMP:20260929T071201Z
+DTSTAMP:20260930T071150Z
 DTSTART:20260113T140000Z
 DTEND:20260113T150000Z
 SUMMARY:Finance and Stochastics Seminar – Mathieu Laurière
@@ -325,7 +325,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/201930/finance-and-stochastics-seminar-jonathan-tam/
-DTSTAMP:20260929T071202Z
+DTSTAMP:20260930T071152Z
 DTSTART:20260106T140000Z
 DTEND:20260106T150000Z
 SUMMARY:Finance and Stochastics Seminar – Jonathan Tam
@@ -341,7 +341,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/197640/finance-and-stochastics-seminar-02-11-25/
-DTSTAMP:20260929T071204Z
+DTSTAMP:20260930T071152Z
 DTSTART:20251202T140000Z
 DTEND:20251202T150000Z
 SUMMARY:Finance and Stochastics Seminar – Çağın Ararat
@@ -357,7 +357,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/197639/finance-and-stochastics-seminar-25-11-25/
-DTSTAMP:20260929T071205Z
+DTSTAMP:20260930T071153Z
 DTSTART:20251125T143000Z
 DTEND:20251125T153000Z
 SUMMARY:Finance and Stochastics Seminar – Julius Bonart
@@ -373,7 +373,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/197630/finance-and-stochastics-seminar-18-11-25/
-DTSTAMP:20260929T071207Z
+DTSTAMP:20260930T071154Z
 DTSTART:20251118T140000Z
 DTEND:20251118T150000Z
 SUMMARY:Finance and Stochastics Seminar – Anna De Crescenzo
@@ -389,7 +389,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/197625/finance-and-stochastics-seminar-11-11-25/
-DTSTAMP:20260929T071209Z
+DTSTAMP:20260930T071155Z
 DTSTART:20251111T140000Z
 DTEND:20251111T150000Z
 SUMMARY:Finance and Stochastics Seminar – Xinghua Zheng
@@ -405,7 +405,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/197626/finance-and-stochastics-seminar-04-11-25/
-DTSTAMP:20260929T071211Z
+DTSTAMP:20260930T071156Z
 DTSTART:20251104T140000Z
 DTEND:20251104T150000Z
 SUMMARY:Finance and Stochastics Seminar – Renyuan Xu
@@ -421,7 +421,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/197627/finance-and-stochastics-seminar-28-10-25/
-DTSTAMP:20260929T071212Z
+DTSTAMP:20260930T071156Z
 DTSTART:20251028T140000Z
 DTEND:20251028T150000Z
 SUMMARY:Finance and Stochastics Seminar – Steven Campbell
@@ -437,7 +437,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/197628/finance-and-stochastics-seminar-21-10-25/
-DTSTAMP:20260929T071213Z
+DTSTAMP:20260930T071157Z
 DTSTART:20251021T130000Z
 DTEND:20251021T140000Z
 SUMMARY:Finance and Stochastics Seminar – Leandro Sánchez-Betancourt
@@ -453,7 +453,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/197629/finance-and-stochastics-seminar-14-10-25/
-DTSTAMP:20260929T071215Z
+DTSTAMP:20260930T071158Z
 DTSTART:20251014T130000Z
 DTEND:20251014T140000Z
 SUMMARY:Finance and Stochastics Seminar – Christoph Reisinger
@@ -469,7 +469,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/197623/finance-and-stochastics-seminar-07-10-25/
-DTSTAMP:20260929T071216Z
+DTSTAMP:20260930T071158Z
 DTSTART:20251007T130000Z
 DTEND:20251007T140000Z
 SUMMARY:Finance and Stochastics Seminar – Jingjie Zhang
@@ -485,7 +485,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/197613/finance-and-stochastics-seminar-30-09-25/
-DTSTAMP:20260929T071217Z
+DTSTAMP:20260930T071159Z
 DTSTART:20250930T130000Z
 DTEND:20250930T140000Z
 SUMMARY:Finance and Stochastics Seminar – Yifan Jiang
@@ -501,7 +501,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/192022/finance-and-stochastics-seminar-filippo-beretta/
-DTSTAMP:20260929T071219Z
+DTSTAMP:20260930T071200Z
 DTSTART:20250401T100000Z
 DTEND:20250401T110000Z
 SUMMARY:Finance and Stochastics seminar – Filippo Beretta
@@ -517,7 +517,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/188592/alexander_schied/
-DTSTAMP:20260929T071220Z
+DTSTAMP:20260930T071200Z
 DTSTART:20250325T110000Z
 DTEND:20250325T120000Z
 SUMMARY:Finance and Stochastics seminar – Alexander Schied
@@ -533,7 +533,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/186359/john-armstrong/
-DTSTAMP:20260929T071222Z
+DTSTAMP:20260930T071201Z
 DTSTART:20250318T110000Z
 DTEND:20250318T120000Z
 SUMMARY:Finance and Stochastics seminar – John Armstrong
@@ -549,7 +549,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/186356/speaker_daniel_lacker/
-DTSTAMP:20260929T071223Z
+DTSTAMP:20260930T071202Z
 DTSTART:20250311T110000Z
 DTEND:20250311T120000Z
 SUMMARY:Finance and Stochastics seminar – Daniel Lacker
@@ -565,7 +565,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/186354/ulrich_horst/
-DTSTAMP:20260929T071224Z
+DTSTAMP:20260930T071203Z
 DTSTART:20250304T110000Z
 DTEND:20250304T120000Z
 SUMMARY:Finance and Stochastics seminar – Ulrich Horst
@@ -581,7 +581,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/186343/speaker_david-itkin/
-DTSTAMP:20260929T071225Z
+DTSTAMP:20260930T071204Z
 DTSTART:20250225T110000Z
 DTEND:20250225T120000Z
 SUMMARY:Finance and Stochastics seminar – David Itkin
@@ -597,7 +597,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/186339/luciano_campi/
-DTSTAMP:20260929T071227Z
+DTSTAMP:20260930T071205Z
 DTSTART:20250218T110000Z
 DTEND:20250218T120000Z
 SUMMARY:Finance and Stochastics seminar – Luciano Campi
@@ -613,7 +613,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/186332/speaker_nazem_khan/
-DTSTAMP:20260929T071228Z
+DTSTAMP:20260930T071206Z
 DTSTART:20250211T110000Z
 DTEND:20250211T120000Z
 SUMMARY:Finance and Stochastics seminar – Nazem Khan
@@ -629,7 +629,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/186345/bayesian-nonparametric-inference-in-a-mckean-vlasov-model/
-DTSTAMP:20260929T071229Z
+DTSTAMP:20260930T071207Z
 DTSTART:20250205T110000Z
 DTEND:20250205T120000Z
 SUMMARY:Mathematical Finance Seminar: Dr Kolyan Ray (Imperial)
@@ -645,7 +645,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/188537/rough-differential-equations-for-volatility/
-DTSTAMP:20260929T071230Z
+DTSTAMP:20260930T071208Z
 DTSTART:20250130T120000Z
 DTEND:20250130T130000Z
 SUMMARY:Rough differential equations for volatility
@@ -661,7 +661,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/186327/stefanie-hesse/
-DTSTAMP:20260929T071231Z
+DTSTAMP:20260930T071209Z
 DTSTART:20250121T110000Z
 DTEND:20250121T120000Z
 SUMMARY:Common Noise by Random Measures:  Mean-Field Equilibria for Competitive Investment and Hedging
@@ -677,7 +677,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/186320/dante_kalise_2025/
-DTSTAMP:20260929T071233Z
+DTSTAMP:20260930T071209Z
 DTSTART:20250114T110000Z
 DTEND:20250114T120000Z
 SUMMARY:Convex optimization methods for variational mean field games\, control\, and optimal transport
@@ -693,7 +693,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/181470/david-promel-2024/
-DTSTAMP:20260929T071234Z
+DTSTAMP:20260930T071210Z
 DTSTART:20241126T110000Z
 DTEND:20241126T120000Z
 SUMMARY:Stochastic Volterra equations: well-posedness and supervised learning
@@ -709,7 +709,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/181463/paul-hager-2024/
-DTSTAMP:20260929T071236Z
+DTSTAMP:20260930T071211Z
 DTSTART:20241119T110000Z
 DTEND:20241119T120000Z
 SUMMARY:Paul Hager: Stochastic Control with Signatures
@@ -725,7 +725,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/181460/marcus-wunsch-2024/
-DTSTAMP:20260929T071237Z
+DTSTAMP:20260930T071212Z
 DTSTART:20241112T110000Z
 DTEND:20241112T120000Z
 SUMMARY:Marcus Wunsch: How (not) to manage your portfolio with liquidity provision
@@ -741,7 +741,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/181664/fatimah-rita-ahmadi-a-rendezvous-with-quantum-computing/
-DTSTAMP:20260929T071238Z
+DTSTAMP:20260930T071213Z
 DTSTART:20241029T110000Z
 DTEND:20241029T120000Z
 SUMMARY:Fatimah Rita Ahmadi: A Rendezvous with Quantum Computing
@@ -757,7 +757,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/183748/alessandro-bondi-boundary-attainment-conditions-for-stochastic-volterra-processes/
-DTSTAMP:20260929T071240Z
+DTSTAMP:20260930T071214Z
 DTSTART:20241022T104500Z
 DTEND:20241022T113000Z
 SUMMARY:Alessandro Bondi: Boundary attainment conditions for stochastic Volterra processes
@@ -773,7 +773,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/181453/eduardo-abi-jaber-2024/
-DTSTAMP:20260929T071241Z
+DTSTAMP:20260930T071215Z
 DTSTART:20241022T100000Z
 DTEND:20241022T104500Z
 SUMMARY:Eduardo Abi Jaber: Stochastic Fredholm equations: a passe-partout for propagator models and market impact
@@ -789,7 +789,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/181450/yushi-hamaguchi-2024/
-DTSTAMP:20260929T071243Z
+DTSTAMP:20260930T071216Z
 DTSTART:20241015T100000Z
 DTEND:20241015T110000Z
 SUMMARY:Yushi Hamaguchi:  Markovian lifts of stochastic Volterra equations
@@ -805,7 +805,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/181444/faycal-drissi-2024/
-DTSTAMP:20260929T071245Z
+DTSTAMP:20260930T071216Z
 DTSTART:20241008T100000Z
 DTEND:20241008T110000Z
 SUMMARY:Fayçal Drissi: The microstructure of decentralised exchanges
@@ -821,7 +821,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/181436/alexander-kalinin-2024/
-DTSTAMP:20260929T071246Z
+DTSTAMP:20260930T071217Z
 DTSTART:20241001T100000Z
 DTEND:20241001T110000Z
 SUMMARY:Alexander Kalinin: The oriented derivative in stochastic calculus
@@ -837,7 +837,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/177194/paul-gassiat-gradient-flow-on-control-space-with-rough-initial-condition/
-DTSTAMP:20260929T071248Z
+DTSTAMP:20260930T071218Z
 DTSTART:20240521T130000Z
 DTEND:20240521T140000Z
 SUMMARY:Paul Gassiat: Gradient flow on control space with rough initial condition
@@ -853,7 +853,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/177192/paolo-perrone-markov-categories-towards-user-friendly-probability-theory/
-DTSTAMP:20260929T071249Z
+DTSTAMP:20260930T071219Z
 DTSTART:20240514T130000Z
 DTEND:20240514T140000Z
 SUMMARY:Paolo Perrone: Markov categories: towards user-friendly probability theory
@@ -869,7 +869,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/177189/ruixun-zhang-a-quantitative-approach-to-optimal-impact-portfolios/
-DTSTAMP:20260929T071251Z
+DTSTAMP:20260930T071219Z
 DTSTART:20240507T100000Z
 DTEND:20240507T110000Z
 SUMMARY:Ruixun Zhang: A Quantitative Approach to Optimal Impact Portfolios
@@ -885,7 +885,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/172314/gudmund-pammer-eth-zurich-calibration-of-the-bass-local-volatility-model/
-DTSTAMP:20260929T071253Z
+DTSTAMP:20260930T071221Z
 DTSTART:20240430T140000Z
 DTEND:20240430T150000Z
 SUMMARY:Gudmund Pammer: Calibration of the Bass Local Volatility model
@@ -901,7 +901,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/172320/serdar-yuksel-stochastic-control-with-partial-information-regularity-optimality-approximations-and-learning/
-DTSTAMP:20260929T071254Z
+DTSTAMP:20260930T071222Z
 DTSTART:20240430T130000Z
 DTEND:20240430T140000Z
 SUMMARY:Serdar Yüksel: Stochastic Control with Partial Information: Regularity\, Optimality\, Approximations\, and Learning
@@ -917,7 +917,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/172317/clemens-possnig-reinforcement-learning-and-collusion/
-DTSTAMP:20260929T071256Z
+DTSTAMP:20260930T071223Z
 DTSTART:20240423T130000Z
 DTEND:20240423T140000Z
 SUMMARY:Clemens Possnig: Reinforcement Learning and Collusion
@@ -933,7 +933,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/172311/marcel-nutz-columbia-university/
-DTSTAMP:20260929T071257Z
+DTSTAMP:20260930T071223Z
 DTSTART:20240409T130000Z
 DTEND:20240409T140000Z
 SUMMARY:Marcel Nutz (Columbia University)
@@ -949,7 +949,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/172308/jiacheng-zhang-itos-formula-for-flows-of-conditional-measures/
-DTSTAMP:20260929T071258Z
+DTSTAMP:20260930T071225Z
 DTSTART:20240326T140000Z
 DTEND:20240326T150000Z
 SUMMARY:Jiacheng Zhang: It\^o’s formula for flows of conditional measures
@@ -965,7 +965,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/173435/joshua-mollner-northwestern-university/
-DTSTAMP:20260929T071300Z
+DTSTAMP:20260930T071226Z
 DTSTART:20240322T140000Z
 DTEND:20240322T150000Z
 SUMMARY:Joshua Mollner: Competition and Information Leakage
@@ -981,7 +981,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/175224/niklas-weber-graph-neural-network-methods-for-systemic-risk-management/
-DTSTAMP:20260929T071301Z
+DTSTAMP:20260930T071227Z
 DTSTART:20240321T140000Z
 DTEND:20240321T150000Z
 SUMMARY:Niklas Weber: Graph Neural Network Methods for Systemic Risk Management
@@ -997,7 +997,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/172297/steven-campbell-columbia-university/
-DTSTAMP:20260929T071302Z
+DTSTAMP:20260930T071228Z
 DTSTART:20240312T140000Z
 DTEND:20240312T150000Z
 SUMMARY:Steven Campbell: Relative Arbitrage with Market Frictions
@@ -1013,7 +1013,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/172306/mete-soner-synchronization-games/
-DTSTAMP:20260929T071304Z
+DTSTAMP:20260930T071229Z
 DTSTART:20240305T140000Z
 DTEND:20240305T150000Z
 SUMMARY:Mete Soner: Synchronization Games
@@ -1029,7 +1029,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/172293/yan-dolinsky-optimal-investment-with-a-noisy-signal-of-future-stock-prices/
-DTSTAMP:20260929T071305Z
+DTSTAMP:20260930T071230Z
 DTSTART:20240227T140000Z
 DTEND:20240227T150000Z
 SUMMARY:Yan Dolinsky: Optimal Investment with a Noisy Signal of Future Stock Prices
@@ -1045,7 +1045,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/172291/andy-allan-rough-stochastic-analysis-with-jumps/
-DTSTAMP:20260929T071306Z
+DTSTAMP:20260930T071231Z
 DTSTART:20240220T140000Z
 DTEND:20240220T150000Z
 SUMMARY:Andy Allan: Rough Stochastic Analysis with Jumps
@@ -1061,7 +1061,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/172288/fabian-andsem-harang-on-the-signature-of-an-image/
-DTSTAMP:20260929T071307Z
+DTSTAMP:20260930T071231Z
 DTSTART:20240213T140000Z
 DTEND:20240213T150000Z
 SUMMARY:Fabian Andsem Harang: On the Signature of an Image
@@ -1077,7 +1077,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/172285/yifan-jiang-causal-distributionally-robust-optimization-duality-and-sensitivity/
-DTSTAMP:20260929T071308Z
+DTSTAMP:20260930T071232Z
 DTSTART:20240206T140000Z
 DTEND:20240206T150000Z
 SUMMARY:Yifan Jiang: Causal distributionally robust optimization – duality and sensitivity
@@ -1093,7 +1093,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/172280/christian-bayer-efficient-markovian-approximations-of-rough-volatility-models/
-DTSTAMP:20260929T071310Z
+DTSTAMP:20260930T071234Z
 DTSTART:20240130T140000Z
 DTEND:20240130T150000Z
 SUMMARY:Christian Bayer: Efficient Markovian approximations of rough volatility models
@@ -1109,7 +1109,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/171887/xiaocheng-li-uncertainty-quantification-via-nonparametric-approaches/
-DTSTAMP:20260929T071311Z
+DTSTAMP:20260930T071235Z
 DTSTART:20240123T140000Z
 DTEND:20240123T150000Z
 SUMMARY:Xiaocheng Li: Uncertainty Quantification via Nonparametric Approaches
@@ -1125,7 +1125,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/171665/giorgia-callegaro-optimal-reinsurance-via-bsdes-in-a-partially-observable-contagion-model-with-jump-clusters-2/
-DTSTAMP:20260929T071312Z
+DTSTAMP:20260930T071235Z
 DTSTART:20240116T140000Z
 DTEND:20240116T150000Z
 SUMMARY:Giorgia Callegaro: Optimal reinsurance via BSDEs in a partially observable contagion model with jump clusters
@@ -1141,7 +1141,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/171338/thibaut-mastrolia-recent-advances-in-auction-markets-design-and-regulation-policies/
-DTSTAMP:20260929T071313Z
+DTSTAMP:20260930T071236Z
 DTSTART:20240109T140000Z
 DTEND:20240109T150000Z
 SUMMARY:Thibaut Mastrolia: Recent Advances in Auction Markets Design and Regulation Policies
@@ -1157,7 +1157,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/170339/anran-hu-mean-field-approximations-in-heterogeneous-n-player-games/
-DTSTAMP:20260929T071314Z
+DTSTAMP:20260930T071237Z
 DTSTART:20231205T140000Z
 DTEND:20231205T150000Z
 SUMMARY:Anran Hu: Mean-Field Approximations in Heterogeneous N-Player Games
@@ -1173,7 +1173,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/169350/bruno-bouchard-on-the-regularity-of-solutions-of-some-linear-path-dependent-parabolic-pdes/
-DTSTAMP:20260929T071315Z
+DTSTAMP:20260930T071238Z
 DTSTART:20231128T140000Z
 DTEND:20231128T150000Z
 SUMMARY:Bruno Bouchard: On the Regularity of Solutions of Some Linear Path-dependent Parabolic PDEs
@@ -1189,7 +1189,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/169329/david-siska-automated-market-makers-designs/
-DTSTAMP:20260929T071317Z
+DTSTAMP:20260930T071239Z
 DTSTART:20231121T140000Z
 DTEND:20231121T150000Z
 SUMMARY:David Siska: Automated Market Makers Designs Beyond Constant Functions
@@ -1205,7 +1205,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/169021/philippe-bergault-liquidity-modelling-in-corporate-bond-markets/
-DTSTAMP:20260929T071319Z
+DTSTAMP:20260930T071239Z
 DTSTART:20231114T140000Z
 DTEND:20231114T150000Z
 SUMMARY:Philippe Bergault: Modeling liquidity in corporate bond markets: applications to price adjustments 
@@ -1221,7 +1221,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/168582/yonatan-shadmi-fluid-and-diffusion-limits-in-queueing-and-communication-networks/
-DTSTAMP:20260929T071320Z
+DTSTAMP:20260930T071240Z
 DTSTART:20231107T140000Z
 DTEND:20231107T150000Z
 SUMMARY:Yonatan Shadmi: Fluid and diffusion limits in queueing and communication networks: measure-valued processes and robustness
@@ -1237,7 +1237,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/168232/alexander-merkel-optimal-adaptive-control-with-separable-drift-uncertainty/
-DTSTAMP:20260929T071321Z
+DTSTAMP:20260930T071241Z
 DTSTART:20231031T140000Z
 DTEND:20231031T150000Z
 SUMMARY:Alexander Merkel: Optimal adaptive control with separable drift uncertainty
@@ -1253,7 +1253,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/167880/yufei-zhang-an-offline-learning-approach-to-propagator-models/
-DTSTAMP:20260929T071323Z
+DTSTAMP:20260930T071242Z
 DTSTART:20231024T130000Z
 DTEND:20231024T140000Z
 SUMMARY:Yufei Zhang: An offline learning approach to propagator models
@@ -1269,7 +1269,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/166965/xin-guo-mathematics-of-transfer-learning-and-transfer-risk/
-DTSTAMP:20260929T071325Z
+DTSTAMP:20260930T071242Z
 DTSTART:20231010T130000Z
 DTEND:20231010T140000Z
 SUMMARY:Xin Guo: Optimization framework and sensitivity analysis of Stackelberg MFGs
@@ -1285,7 +1285,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/166961/charles-albert-lehalle-tbd/
-DTSTAMP:20260929T071327Z
+DTSTAMP:20260930T071243Z
 DTSTART:20231004T140000Z
 DTEND:20231004T150000Z
 SUMMARY:Charles-Albert Lehalle: Survey of MFG papers in Finance\, with a focus on the Price Formation Process
@@ -1301,7 +1301,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/165622/overcoming-the-curse-of-dimensionality-from-nonlinear-monte-carlo-to-the-training-of-neural-networks-by-prof-dr-jentzen/
-DTSTAMP:20260929T071328Z
+DTSTAMP:20260930T071245Z
 DTSTART:20231004T130000Z
 DTEND:20231004T140000Z
 SUMMARY:Arnulf Jentzen: Overcoming the curse of dimensionality:  from nonlinear Monte Carlo to the training of neural networks
@@ -1317,7 +1317,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/165003/convex-stochastic-optimization-by-dr-perkkio/
-DTSTAMP:20260929T071330Z
+DTSTAMP:20260930T071247Z
 DTSTART:20230920T130000Z
 DTEND:20230920T140000Z
 SUMMARY:Convex Stochastic Optimization by Dr Perkkiö
@@ -1333,7 +1333,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/162944/mikko-pakkanen-learning-to-remove-the-drift/
-DTSTAMP:20260929T071331Z
+DTSTAMP:20260930T071248Z
 DTSTART:20230531T133000Z
 DTEND:20230531T143000Z
 SUMMARY:Mikko Pakkanen: Learning to Remove the Drift
@@ -1349,7 +1349,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/162200/scott-robertson-equilibrium-with-heterogenous-information-flows/
-DTSTAMP:20260929T071332Z
+DTSTAMP:20260930T071248Z
 DTSTART:20230511T130000Z
 DTEND:20230511T140000Z
 SUMMARY:Scott Robertson: Equilibrium with Heterogenous Information Flows
@@ -1365,7 +1365,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/161021/sam-cohen-stability-and-approximation-of-projection-filters/
-DTSTAMP:20260929T071334Z
+DTSTAMP:20260930T071250Z
 DTSTART:20230418T130000Z
 DTEND:20230418T140000Z
 SUMMARY:Sam Cohen: Stability and approximation of projection filters
@@ -1381,7 +1381,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/158029/eduardo-abi-jaber-tbd/
-DTSTAMP:20260929T071335Z
+DTSTAMP:20260930T071250Z
 DTSTART:20230328T130000Z
 DTEND:20230328T140000Z
 SUMMARY:Eduardo Abi Jaber: From the Quintic model that jointly calibrates SPX/VIX to Sig-Volatility models
@@ -1397,7 +1397,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/158024/alex-kalinin-tbd/
-DTSTAMP:20260929T071336Z
+DTSTAMP:20260930T071251Z
 DTSTART:20230321T140000Z
 DTEND:20230321T150000Z
 SUMMARY:Alex Kalinin: Derivation of unique stable solutions to McKean-Vlasov SDEs
@@ -1413,7 +1413,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/158021/julien-guyon-tbd/
-DTSTAMP:20260929T071337Z
+DTSTAMP:20260930T071252Z
 DTSTART:20230314T140000Z
 DTEND:20230314T150000Z
 SUMMARY:Julien Guyon: Volatility Is (Mostly) Path-Dependent
@@ -1429,7 +1429,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/158018/oleksii-mostovyi-tbd/
-DTSTAMP:20260929T071339Z
+DTSTAMP:20260930T071253Z
 DTSTART:20230307T140000Z
 DTEND:20230307T150000Z
 SUMMARY:Oleksii Mostovyi: On the analyticity of the value function in optimal investment and stochastically dominant markets
@@ -1445,7 +1445,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/158015/peter-bank-tbd/
-DTSTAMP:20260929T071340Z
+DTSTAMP:20260930T071254Z
 DTSTART:20230228T140000Z
 DTEND:20230228T150000Z
 SUMMARY:Peter Bank: A High-Frequency Model for Trading on Signals: Optimal Meyer Controls in a Self-Exciting Environment
@@ -1461,7 +1461,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/158936/ofelia-bonesini-tbd/
-DTSTAMP:20260929T071341Z
+DTSTAMP:20260930T071255Z
 DTSTART:20230221T140000Z
 DTEND:20230221T150000Z
 SUMMARY:Ofelia Bonesini : Rough volatility\, path-dependent PDEs and weak rates of convergence
@@ -1477,7 +1477,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/158011/eyal-neuman-tbd/
-DTSTAMP:20260929T071343Z
+DTSTAMP:20260930T071256Z
 DTSTART:20230207T140000Z
 DTEND:20230207T150000Z
 SUMMARY:Eyal Neuman: Optimality in General Propagator with Signals
@@ -1493,7 +1493,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/156693/cecilia-aubrun-multivariate-quadratic-hawkes-to-model-price-changes-in-financial-time-series/
-DTSTAMP:20260929T071344Z
+DTSTAMP:20260930T071256Z
 DTSTART:20230131T140000Z
 DTEND:20230131T150000Z
 SUMMARY:Cecilia Aubrun:  Multivariate Quadratic Hawkes to Model Price Changes in Financial Time Series
@@ -1509,7 +1509,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/156542/alexander-barzykin-market-making-by-a-foreign-exchange-dealer/
-DTSTAMP:20260929T071345Z
+DTSTAMP:20260930T071258Z
 DTSTART:20230124T140000Z
 DTEND:20230124T150000Z
 SUMMARY:Alexander Barzykin: Market-Making by a Foreign Exchange Dealer
@@ -1525,7 +1525,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/156580/wolfgang-stockinger-linear-convergence-of-a-policy-gradient-method-for-finite-horizon-continuous-time-stochastic-control-problems/
-DTSTAMP:20260929T071347Z
+DTSTAMP:20260930T071258Z
 DTSTART:20230117T140000Z
 DTEND:20230117T150000Z
 SUMMARY:Wolfgang Stockinger: Linear Convergence of a Policy Gradient Method for Finite Horizon Continuous Time Stochastic Control Problems
@@ -1541,7 +1541,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/156573/christa-cuchiero-joint-calibration-of-spx-and-vix-options-with-signature-based-models/
-DTSTAMP:20260929T071350Z
+DTSTAMP:20260930T071300Z
 DTSTART:20230112T133000Z
 DTEND:20230112T143000Z
 SUMMARY:Christa Cuchiero:  Joint Calibration of SPX and VIX Options with Signature-Based Models
@@ -1557,7 +1557,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/154203/julio-backhoff-tbd/
-DTSTAMP:20260929T071351Z
+DTSTAMP:20260930T071301Z
 DTSTART:20221220T133000Z
 DTEND:20221220T143000Z
 SUMMARY:Julio Backhoff: Quantitative Fundamental Theorem of Asset Pricing
@@ -1573,7 +1573,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/154193/ioannis-gasteratos-tbd/
-DTSTAMP:20260929T071353Z
+DTSTAMP:20260930T071302Z
 DTSTART:20221213T143000Z
 DTEND:20221213T153000Z
 SUMMARY:Ioannis Gasteratos: Large Deviations for Slow-Fast Systems Driven by Fractional Brownian Motion
@@ -1589,7 +1589,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.imperial.ac.uk/events/154198/andreas-sojmark-tbd/
-DTSTAMP:20260929T071355Z
+DTSTAMP:20260930T071303Z
 DTSTART:20221213T133000Z
 DTEND:20221213T143000Z
 SUMMARY:Andreas Søjmark: Convergence of Stochastic Integrals in Skorokhod Space and some Applications in Finance and Econometrics
